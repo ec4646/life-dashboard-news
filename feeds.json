@@ -1,5 +1,5 @@
 {
-  "perTopic": 6,
+  "perTopic": 10,
   "maxAgeDays": 3,
   "topics": [
     { "id": "photography", "name": "Photography", "feeds": [
