@@ -1,0 +1,45 @@
+{
+  "perTopic": 6,
+  "maxAgeDays": 3,
+  "topics": [
+    { "id": "photography", "name": "Photography", "feeds": [
+      { "source": "PetaPixel", "url": "https://petapixel.com/feed/" },
+      { "source": "Aperture", "url": "https://aperture.org/feed/" },
+      { "source": "The Guardian", "url": "https://www.theguardian.com/artanddesign/photography/rss" },
+      { "source": "DPReview", "url": "https://www.dpreview.com/feeds/news.xml" }
+    ]},
+    { "id": "ai", "name": "AI", "feeds": [
+      { "source": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+      { "source": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed" },
+      { "source": "The Guardian", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss" },
+      { "source": "Ars Technica", "url": "https://arstechnica.com/ai/feed/" }
+    ]},
+    { "id": "politics", "name": "UK politics", "feeds": [
+      { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/politics/rss.xml" },
+      { "source": "The Guardian", "url": "https://www.theguardian.com/politics/rss" },
+      { "source": "Sky News", "url": "https://feeds.skynews.com/feeds/rss/politics.xml" }
+    ]},
+    { "id": "business", "name": "Business", "feeds": [
+      { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+      { "source": "The Guardian", "url": "https://www.theguardian.com/uk/business/rss" },
+      { "source": "City AM", "url": "https://www.cityam.com/feed/" }
+    ]},
+    { "id": "tech", "name": "Tech", "feeds": [
+      { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml" },
+      { "source": "The Verge", "url": "https://www.theverge.com/rss/index.xml" },
+      { "source": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index" }
+    ]},
+    { "id": "arts", "name": "Arts", "feeds": [
+      { "source": "The Guardian", "url": "https://www.theguardian.com/uk/culture/rss" },
+      { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" },
+      { "source": "Creative Review", "url": "https://www.creativereview.co.uk/feed/" },
+      { "source": "Dezeen", "url": "https://www.dezeen.com/feed/" }
+    ]},
+    { "id": "london", "name": "London", "feeds": [
+      { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/england/london/rss.xml" },
+      { "source": "The Guardian", "url": "https://www.theguardian.com/uk/london/rss" },
+      { "source": "Londonist", "url": "https://londonist.com/feed" },
+      { "source": "The Standard", "url": "https://www.standard.co.uk/rss" }
+    ]}
+  ]
+}
