@@ -32,7 +32,7 @@
     { "id": "arts", "name": "Arts", "feeds": [
       { "source": "The Guardian", "url": "https://www.theguardian.com/uk/culture/rss" },
       { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" },
-      { "source": "Creative Review", "url": "https://www.creativereview.co.uk/feed/" },
+      { "source": "Creative Boom", "url": "https://www.creativeboom.com/feed/" },
       { "source": "Dezeen", "url": "https://www.dezeen.com/feed/" }
     ]},
     { "id": "london", "name": "London", "feeds": [
