@@ -1,5 +1,5 @@
 // Fetches delayed prices from Yahoo Finance for the holdings listed in holdings.json
-// and writes prices.json, with every price converted to pounds.
+// and writes prices.json, with every price converted to pounds (only when a price changed).
 // If a price cannot be fetched, the last one is kept and marked "stale".
 // No dependencies; needs Node 18+ for built-in fetch.
 import { readFile, writeFile } from 'node:fs/promises';
@@ -57,5 +57,7 @@ for (const h of cfg.holdings) {
   }
 }
 if (cfg.holdings.length && !fresh) { console.error('No prices fetched; leaving prices.json untouched.'); process.exit(1); }
+// Only rewrite when a price changed, so runs outside market hours make no commit.
+if (JSON.stringify(prices) === JSON.stringify(previous.prices)) { console.log('Prices unchanged.'); process.exit(0); }
 await writeFile(OUT, JSON.stringify({ updated: new Date().toISOString(), prices }, null, 1) + '\n');
 console.log(`Wrote ${fresh} of ${cfg.holdings.length} prices.`);

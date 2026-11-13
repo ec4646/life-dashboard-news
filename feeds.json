@@ -1,6 +1,10 @@
 {
   "perTopic": 10,
   "maxAgeDays": 3,
+  "latest": { "maxAgeHours": 12, "count": 10, "skipUrls": "/sport/", "feeds": [
+    { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml" },
+    { "source": "Sky News", "url": "https://feeds.skynews.com/feeds/rss/home.xml" }
+  ]},
   "topics": [
     { "id": "photography", "name": "Photography", "feeds": [
       { "source": "PetaPixel", "url": "https://petapixel.com/feed/" },

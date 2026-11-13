@@ -1,0 +1,34 @@
+name: Update prices and latest headlines
+
+on:
+  schedule:
+    # Every 15 minutes. Each script only rewrites its file when something changed,
+    # so quiet runs (nights, weekends) make no commit.
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Shared with the news job so two jobs never push at the same moment.
+concurrency:
+  group: commit-main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Fetch prices
+        run: node fetch-prices.mjs
+      - name: Fetch latest headlines
+        run: node fetch-latest.mjs
+      - name: Commit changes
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add prices.json latest.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update prices and latest headlines"
+          git pull --rebase
+          git push
