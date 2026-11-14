@@ -1,10 +1,34 @@
 {
- "updated": "2026-11-14T12:08:38.507Z",
+ "updated": "2026-11-14T17:10:34.189Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
+    {
+     "title": "Bangladeshi Photographer wins $200,000 for “Family” in the World’s Richest $1 Million Photo Contest",
+     "url": "https://petapixel.com/2026/11/14/bangladeshi-photographer-wins-200000-for-family-in-the-worlds-richest-1-million-photo-contest/",
+     "source": "PetaPixel",
+     "published": "2026-11-14T16:00:51.000Z"
+    },
+    {
+     "title": "Is the Nikon D850 Really as Good as You Remember, or Is It Just Nostalgia?",
+     "url": "https://petapixel.com/2026/11/14/is-the-nikon-d850-really-as-good-as-you-remember-or-is-it-just-nostalgia/",
+     "source": "PetaPixel",
+     "published": "2026-11-14T15:00:20.000Z"
+    },
+    {
+     "title": "Images of Marilyn Monroe by Her Last Surviving Photographer to Be Exhibited",
+     "url": "https://petapixel.com/2026/11/14/images-of-marilyn-monroe-by-her-last-surviving-photographer-to-be-exhibited/",
+     "source": "PetaPixel",
+     "published": "2026-11-14T14:00:24.000Z"
+    },
+    {
+     "title": "We filmed our Sigma FP2 review with the Sigma FP2",
+     "url": "https://www.dpreview.com/videos/sigma-fp2-video-review/",
+     "source": "DPReview",
+     "published": "2026-11-14T14:00:00.000Z"
+    },
     {
      "title": "‘None of them had ever seen an eclipse in real life’: Maurice Bakley’s best phone picture",
      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/14/maurice-bakley-photographer-solar-eclipse-best-phone-picture",
@@ -30,24 +54,6 @@
      "published": "2026-11-13T19:28:15.000Z"
     },
     {
-     "title": "I Spent Four Days With the Leica Q3 43 F1 Camera",
-     "url": "https://petapixel.com/2026/11/13/i-spent-four-days-with-the-leica-q3-43-f1-camera/",
-     "source": "PetaPixel",
-     "published": "2026-11-13T18:36:25.000Z"
-    },
-    {
-     "title": "Speed, Drama, and Unapologetic Grain: The Case for Kodak T-Max P3200",
-     "url": "https://petapixel.com/2026/11/13/speed-drama-and-unapologetic-grain-the-case-for-kodak-t-max-p3200/",
-     "source": "PetaPixel",
-     "published": "2026-11-13T18:00:18.000Z"
-    },
-    {
-     "title": "Photographer Can Take Jigsaw Puzzle Company to Court Over Use of His Photos",
-     "url": "https://petapixel.com/2026/11/13/photographer-can-take-jigsaw-puzzle-company-to-court-over-use-of-his-photos/",
-     "source": "PetaPixel",
-     "published": "2026-11-13T15:57:23.000Z"
-    },
-    {
      "title": "Announcing the Winners of the 2026 PhotoBook Awards",
      "url": "https://aperture.org/editorial/announcing-the-winners-of-the-2026-photobook-awards/",
      "source": "Aperture",
@@ -58,12 +64,6 @@
      "url": "https://www.dpreview.com/opinion/the-way-i-share-photos-has-changed-and-i-didnt-even-notice/",
      "source": "DPReview",
      "published": "2026-11-13T13:00:00.000Z"
-    },
-    {
-     "title": "How a retired Adobe employee photographs wild birds in West Virginia",
-     "url": "https://www.dpreview.com/articles/how-a-retired-adobe-employee-photographs-wild-birds-in-west-virginia/",
-     "source": "DPReview",
-     "published": "2026-11-12T16:14:31.000Z"
     }
    ]
   },
@@ -71,6 +71,12 @@
    "id": "ai",
    "name": "AI",
    "items": [
+    {
+     "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+     "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+     "source": "The Verge",
+     "published": "2026-11-14T15:00:00.000Z"
+    },
     {
      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
@@ -108,12 +114,6 @@
      "published": "2026-11-13T21:20:47.000Z"
     },
     {
-     "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-     "source": "The Verge",
-     "published": "2026-11-13T20:45:10.000Z"
-    },
-    {
      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
      "source": "Ars Technica",
@@ -138,10 +138,40 @@
    "name": "UK politics",
    "items": [
     {
+     "title": "Welsh Labour 'didn't focus on improving people's lives'",
+     "url": "https://www.bbc.co.uk/news/videos/c8e39y006qx1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T16:41:53.000Z"
+    },
+    {
+     "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+     "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+     "source": "The Guardian",
+     "published": "2026-11-14T16:00:48.000Z"
+    },
+    {
+     "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
+     "url": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T14:56:05.000Z"
+    },
+    {
+     "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+     "source": "The Guardian",
+     "published": "2026-11-14T14:07:47.000Z"
+    },
+    {
      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-14T12:05:59.000Z"
+     "published": "2026-11-14T13:48:37.000Z"
+    },
+    {
+     "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+     "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T12:22:43.000Z"
     },
     {
      "title": "Madeline Horwath on the complexity of modern politics – cartoon",
@@ -150,10 +180,10 @@
      "published": "2026-11-14T11:00:44.000Z"
     },
     {
-     "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-     "source": "The Guardian",
-     "published": "2026-11-14T11:00:43.000Z"
+     "title": "Business secretary to hold further talks with Poundland owners amid rescue talks",
+     "url": "https://news.sky.com/story/reynolds-to-hold-further-talks-with-poundland-owners-amid-rescue-talks-13612143",
+     "source": "Sky News",
+     "published": "2026-11-14T10:09:00.000Z"
     },
     {
      "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
@@ -162,40 +192,10 @@
      "published": "2026-11-14T06:00:37.000Z"
     },
     {
-     "title": "Labour lost its connection with voters, says Welsh leader",
-     "url": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T18:44:11.000Z"
-    },
-    {
      "title": "Tories pay artist for Burnham images after legal threat",
      "url": "https://www.bbc.co.uk/news/articles/cr5y139wplppo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-13T18:41:13.000Z"
-    },
-    {
-     "title": "Andy Burnham urges Labour to ‘rearm’ for Kemi Badenoch comeback",
-     "url": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
-     "source": "The Guardian",
-     "published": "2026-11-13T18:20:01.000Z"
-    },
-    {
-     "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
-     "url": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
-     "source": "The Guardian",
-     "published": "2026-11-13T18:16:15.000Z"
-    },
-    {
-     "title": "Piddington to bring legal challenge over asylum base plans",
-     "url": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T15:50:53.000Z"
-    },
-    {
-     "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-     "url": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T14:34:21.000Z"
     }
    ]
   },
@@ -204,22 +204,28 @@
    "name": "Business",
    "items": [
     {
-     "title": "Guardian to follow lives of eight young people in their search for work",
-     "url": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
+     "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+     "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
      "source": "The Guardian",
-     "published": "2026-11-14T10:00:42.000Z"
+     "published": "2026-11-14T14:42:27.000Z"
+    },
+    {
+     "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
+     "source": "The Guardian",
+     "published": "2026-11-14T12:00:44.000Z"
+    },
+    {
+     "title": "Health is wealth? Polymarket and Kalshi now host bets on measles and other US health crises",
+     "url": "https://www.theguardian.com/world/2026/nov/14/measles-kalshi-polymarket-betting",
+     "source": "The Guardian",
+     "published": "2026-11-14T12:00:44.000Z"
     },
     {
      "title": "Football kit giveaway aims to boost participation",
      "url": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T08:13:40.000Z"
-    },
-    {
-     "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
-     "url": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
-     "source": "The Guardian",
-     "published": "2026-11-14T08:00:39.000Z"
     },
     {
      "title": "The rise of 'housefishing' by estate agents",
@@ -232,12 +238,6 @@
      "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T07:11:26.000Z"
-    },
-    {
-     "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-     "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-     "source": "The Guardian",
-     "published": "2026-11-14T07:00:38.000Z"
     },
     {
      "title": "Microsoft says services fully restored after day-long global outage",
@@ -270,10 +270,40 @@
    "name": "Tech",
    "items": [
     {
-     "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-     "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+     "title": "Italy fines Meta €805m over accessing users' photos",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T16:29:48.000Z"
+    },
+    {
+     "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+     "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
      "source": "The Verge",
-     "published": "2026-11-14T01:53:04.000Z"
+     "published": "2026-11-14T15:00:00.000Z"
+    },
+    {
+     "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+     "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+     "source": "The Verge",
+     "published": "2026-11-14T14:18:36.000Z"
+    },
+    {
+     "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+     "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+     "source": "The Verge",
+     "published": "2026-11-14T14:00:00.000Z"
+    },
+    {
+     "title": "James Webb telescope finds ice older than the star it orbits",
+     "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+     "source": "Ars Technica",
+     "published": "2026-11-14T12:15:48.000Z"
+    },
+    {
+     "title": "Winemakers are learning that conservation can be good for business",
+     "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+     "source": "Ars Technica",
+     "published": "2026-11-14T12:05:51.000Z"
     },
     {
      "title": "Tech Now",
@@ -294,40 +324,10 @@
      "published": "2026-11-14T00:37:01.000Z"
     },
     {
-     "title": "FAA has lifted its third-ever nationwide ground stop",
-     "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-     "source": "Ars Technica",
-     "published": "2026-11-13T23:17:38.000Z"
-    },
-    {
      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-13T23:00:31.000Z"
-    },
-    {
-     "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
-     "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
-     "source": "Ars Technica",
-     "published": "2026-11-13T21:59:01.000Z"
-    },
-    {
-     "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-     "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T21:15:41.000Z"
-    },
-    {
-     "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-     "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-     "source": "The Verge",
-     "published": "2026-11-13T20:30:00.000Z"
-    },
-    {
-     "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-     "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-     "source": "The Verge",
-     "published": "2026-11-13T19:14:38.000Z"
     }
    ]
   },
@@ -335,6 +335,36 @@
    "id": "arts",
    "name": "Arts",
    "items": [
+    {
+     "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+     "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T14:46:26.000Z"
+    },
+    {
+     "title": "James Blunt: ‘Do I have a nickname? Yes, it rhymes with blunt’",
+     "url": "https://www.theguardian.com/music/2026/nov/15/james-blunt-10-chaotic-questions-interview",
+     "source": "The Guardian",
+     "published": "2026-11-14T14:00:46.000Z"
+    },
+    {
+     "title": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
+     "url": "https://www.bbc.co.uk/news/articles/c6y493wzkxgko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T13:33:46.000Z"
+    },
+    {
+     "title": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
+     "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+     "source": "The Guardian",
+     "published": "2026-11-14T13:00:46.000Z"
+    },
+    {
+     "title": "I felt nothing but numbness at my dad’s death – but then I read the book he gave me on my wedding day",
+     "url": "https://www.theguardian.com/culture/2026/nov/14/my-cultural-awakening-under-milk-wood-dylan-thomas-helped-me-grieve",
+     "source": "The Guardian",
+     "published": "2026-11-14T12:00:46.000Z"
+    },
     {
      "title": "Japanese sauna by Daichi Inc makes \"people feel as though they are dissolving into the forest\"",
      "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
@@ -348,40 +378,10 @@
      "published": "2026-11-14T10:00:00.000Z"
     },
     {
-     "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
-     "url": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
-     "source": "The Guardian",
-     "published": "2026-11-14T09:00:39.000Z"
-    },
-    {
-     "title": "Honey: this flirty, kinky Killing Eve prequel should have been called Carré on Spying",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/honey-bbc-flirty-kinky-killing-eve-prequel-should-have-been-called-carre-on-spying",
-     "source": "The Guardian",
-     "published": "2026-11-14T07:00:37.000Z"
-    },
-    {
      "title": "Why so much love between Ireland and Garth Brooks?",
      "url": "https://www.bbc.co.uk/news/articles/c65y1jjlq1qjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T06:48:14.000Z"
-    },
-    {
-     "title": "TV tonight: a spicy, funny cold war Killing Eve prequel",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/tv-tonight-a-spicy-funny-cold-war-killing-eve-prequel",
-     "source": "The Guardian",
-     "published": "2026-11-14T06:15:36.000Z"
-    },
-    {
-     "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
-     "url": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T00:29:38.000Z"
-    },
-    {
-     "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-     "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-13T22:17:14.000Z"
     },
     {
      "title": "What 50 years in business has taught Springetts about building brands that thrive",
@@ -402,40 +402,40 @@
    "name": "London",
    "items": [
     {
-     "title": "Lord Mayor’s Show 2026: Spectacular 800-year-old procession takes over London’s Square Mile",
-     "url": "https://www.standard.co.uk/news/london/lord-mayors-show-2026-route-map-road-closures-history-b1304795.html",
+     "title": "England vs Japan LIVE: Rugby latest score, match stream, updates and reaction",
+     "url": "https://www.standard.co.uk/sport/rugby/england-vs-japan-live-stream-score-latest-updates-result-b1304880.html",
      "source": "The Standard",
-     "published": "2026-11-14T12:03:54.000Z"
+     "published": "2026-11-14T17:03:35.000Z"
     },
     {
-     "title": "Tories agree to pay artist who threatened legal action over ‘Burnham Bottler’",
-     "url": "https://www.standard.co.uk/news/politics/stanley-chow-andy-burnham-tories-water-bottles-b1304867.html",
+     "title": "Lord Mayor’s Show 2026: Best pictures as historic parade takes over London’s Square Mile",
+     "url": "https://www.standard.co.uk/news/london/lord-mayors-show-2026-route-map-road-closures-history-b1304795.html",
      "source": "The Standard",
-     "published": "2026-11-14T11:57:54.000Z"
+     "published": "2026-11-14T16:41:56.000Z"
+    },
+    {
+     "title": "Call handling error led to fatal delay, jury finds",
+     "url": "https://www.bbc.co.uk/news/articles/crz6qjp9nwq8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T16:05:35.000Z"
+    },
+    {
+     "title": "Thousands watch centuries-old Lord Mayor's show",
+     "url": "https://www.bbc.co.uk/news/articles/ck24e552r5j6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T14:11:04.000Z"
+    },
+    {
+     "title": "King jokes with Elton John as he marks 78th birthday with radio show",
+     "url": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-14T10:02:59.000Z"
     },
     {
      "title": "18 Photos That Sum Up The Mayhem (And Joy) Of London's Transport Network",
      "url": "https://londonist.com/london/transport/london-calling-photos-tube-underground-stations",
      "source": "Londonist",
      "published": "2026-11-14T10:00:04.000Z"
-    },
-    {
-     "title": "Fighting blind: Paralympian takes on MMA challenge",
-     "url": "https://www.bbc.co.uk/news/articles/c5j9mlmw2kvvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T08:48:21.000Z"
-    },
-    {
-     "title": "Big Issue's most iconic moments explored in show",
-     "url": "https://www.bbc.co.uk/news/articles/cmy0e04eez09o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T08:34:27.000Z"
-    },
-    {
-     "title": "Serial fly-tipper tracked down and prosecuted",
-     "url": "https://www.bbc.co.uk/news/articles/ck7v252140plo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T08:34:02.000Z"
     },
     {
      "title": "Santas attend school to learn how to 'ho ho ho' - video",
