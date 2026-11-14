@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-14T20:49:00.116Z",
+ "updated": "2026-11-14T21:23:33.771Z",
  "items": [
+  {
+   "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
+   "url": "https://www.bbc.co.uk/news/articles/cmewv2kzq2e5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-14T21:14:52.000Z"
+  },
   {
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
    "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
@@ -20,16 +26,16 @@
    "published": "2026-11-14T18:51:30.000Z"
   },
   {
-   "title": "Italy fines Meta €805m over accessing users' photos",
-   "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-14T18:28:06.000Z"
-  },
-  {
    "title": "Philippines wins first Eurovision Song Contest Asia",
    "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-14T18:17:58.000Z"
+  },
+  {
+   "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-14T18:00:10.000Z"
   },
   {
    "title": "Thousands turn out in Edinburgh to protest against AI data centres",
@@ -54,12 +60,6 @@
    "url": "https://news.sky.com/story/wales-beat-the-all-blacks-for-first-time-since-1953-13612239",
    "source": "Sky News",
    "published": "2026-11-14T16:05:00.000Z"
-  },
-  {
-   "title": "Microsoft confirms all services are restored after global outage",
-   "url": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
-   "source": "Sky News",
-   "published": "2026-11-14T14:56:00.000Z"
   }
  ]
 }
