@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T06:20:58.775Z",
+ "updated": "2026-11-15T12:10:22.658Z",
  "topics": [
   {
    "id": "photography",
@@ -72,6 +72,12 @@
    "name": "AI",
    "items": [
     {
+     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+     "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+     "source": "The Guardian",
+     "published": "2026-11-15T08:56:11.000Z"
+    },
+    {
      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
      "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
      "source": "The Guardian",
@@ -94,12 +100,6 @@
      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
      "source": "The Verge",
      "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "‘The social contract is broken’: young people on feeling shut out of careers",
-     "url": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
-     "source": "The Guardian",
-     "published": "2026-11-14T10:00:42.000Z"
     },
     {
      "title": "Amazon has a plan to index the world’s online shopping data",
@@ -138,22 +138,34 @@
    "name": "UK politics",
    "items": [
     {
-     "title": "Britain’s veto could stop the UAE’s choice from running the United Nations. Miliband must use it | Steve Bloomfield",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/15/britain-veto-uae-united-nations-miliband-lana-nusseibeh-russia-us-sudan",
+     "title": "Obama portrait artist draws Burnham for Big Issue cover to highlight rough sleeping vow",
+     "url": "https://www.theguardian.com/society/2026/nov/15/obama-portrait-artist-draws-burnham-big-issue-rough-sleeping-vow-shepard-fairey",
      "source": "The Guardian",
-     "published": "2026-11-15T06:00:07.000Z"
+     "published": "2026-11-15T12:00:15.000Z"
     },
     {
-     "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+     "title": "Is Burnham’s plan for a housing revolution anything more than a pipedream? | John Harris",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/15/burnham-housing-crisis-revolution-pipedream-children-hope",
      "source": "The Guardian",
-     "published": "2026-11-15T06:00:05.000Z"
+     "published": "2026-11-15T12:00:13.000Z"
     },
     {
-     "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-     "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+     "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
+     "url": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
      "source": "The Guardian",
-     "published": "2026-11-15T00:17:14.000Z"
+     "published": "2026-11-15T11:53:01.000Z"
+    },
+    {
+     "title": "Firms need to get onside if Labour’s youth employment push is to have a chance of working | Richard Partington",
+     "url": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+     "source": "The Guardian",
+     "published": "2026-11-15T11:52:03.000Z"
+    },
+    {
+     "title": "Minister backs legal right to job support for young people",
+     "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T11:51:19.000Z"
     },
     {
      "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
@@ -168,12 +180,6 @@
      "published": "2026-11-14T16:41:53.000Z"
     },
     {
-     "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
-     "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
-     "source": "The Guardian",
-     "published": "2026-11-14T16:00:48.000Z"
-    },
-    {
      "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
      "url": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -184,12 +190,6 @@
      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T13:48:37.000Z"
-    },
-    {
-     "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-     "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T12:22:43.000Z"
     },
     {
      "title": "Business secretary to hold further talks with Poundland owners amid rescue talks",
@@ -204,40 +204,46 @@
    "name": "Business",
    "items": [
     {
-     "title": "Gymshark in trademark battle that threatens future of small fitness business",
-     "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
-     "source": "The Guardian",
-     "published": "2026-11-15T06:00:07.000Z"
-    },
-    {
-     "title": "Riner, Khan, Klitschko: The sport stars that go from pitch to politics",
-     "url": "https://www.cityam.com/riner-khan-klitschko-the-sport-stars-that-go-from-pitch-to-politics/",
+     "title": "Burnham says UK has ‘lost more than it gained’ from Brexit",
+     "url": "https://www.cityam.com/burnham-says-uk-has-lost-more-than-it-gained-from-brexit/",
      "source": "City AM",
-     "published": "2026-11-15T05:00:00.000Z"
+     "published": "2026-11-15T11:28:03.000Z"
     },
     {
-     "title": "World leaders head to Asia for back-to-back diplomatic summits",
-     "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+     "title": "‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms",
+     "url": "https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
      "source": "The Guardian",
-     "published": "2026-11-15T04:00:02.000Z"
+     "published": "2026-11-15T10:41:37.000Z"
     },
     {
-     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+     "title": "UK to expand jobs scheme to tackle Neets crisis",
+     "url": "https://www.cityam.com/uk-to-expand-jobs-scheme-to-tackle-neets-crisis/",
+     "source": "City AM",
+     "published": "2026-11-15T10:10:22.000Z"
+    },
+    {
+     "title": "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
+     "url": "https://www.theguardian.com/business/2026/nov/15/liberty-steel-dalzell-scotland-royal-navy-contracts-warships",
+     "source": "The Guardian",
+     "published": "2026-11-15T10:00:10.000Z"
+    },
+    {
+     "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+     "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+     "source": "The Guardian",
+     "published": "2026-11-15T10:00:10.000Z"
+    },
+    {
+     "title": "City law and accountancy firms face cash flow crunch in HMRC shake-up",
+     "url": "https://www.cityam.com/city-law-and-accountancy-firms-face-cash-flow-crunch-in-hmrc-shake-up/",
+     "source": "City AM",
+     "published": "2026-11-15T10:00:00.000Z"
+    },
+    {
+     "title": "Beauty advent calendars can cost hundreds but are they value for money?",
      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-15T00:01:07.000Z"
-    },
-    {
-     "title": "The HMRC stealth powers to take your taxes",
-     "url": "https://www.cityam.com/the-hmrc-stealth-powers-to-take-your-taxes/",
-     "source": "City AM",
-     "published": "2026-11-15T00:01:00.000Z"
-    },
-    {
-     "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
-     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-     "source": "The Guardian",
-     "published": "2026-11-14T17:11:18.000Z"
     },
     {
      "title": "Football kit giveaway aims to boost participation",
@@ -256,12 +262,6 @@
      "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-14T07:11:26.000Z"
-    },
-    {
-     "title": "What’s the point in making young people work-ready if there are no jobs?",
-     "url": "https://www.cityam.com/whats-the-point-in-making-young-people-work-ready-if-there-are-no-jobs/",
-     "source": "City AM",
-     "published": "2026-11-14T06:10:00.000Z"
     }
    ]
   },
@@ -336,64 +336,64 @@
    "name": "Arts",
    "items": [
     {
-     "title": "Kohler's gut-health tracker clips onto the toilet bowl",
-     "url": "https://www.dezeen.com/2026/11/15/kohler-gut-health-tracker-dekoda/",
+     "title": "Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism",
+     "url": "https://www.theguardian.com/artanddesign/2026/nov/15/reclaiming-mary-cassatt-putting-overlooked-american-artist-back-at-heart-of-impressionism",
+     "source": "The Guardian",
+     "published": "2026-11-15T11:29:58.000Z"
+    },
+    {
+     "title": "Paris Paloma review – arena-scale alt-pop drama from a singer on her way to bigger things",
+     "url": "https://www.theguardian.com/music/2026/nov/15/paris-paloma-review-bristol-beacon",
+     "source": "The Guardian",
+     "published": "2026-11-15T11:13:31.000Z"
+    },
+    {
+     "title": "Reims 502 uses pink palette for \"non-referential\" commercial building in Mexico",
+     "url": "https://www.dezeen.com/2026/11/15/reims-502-rosadoce/",
      "source": "Dezeen",
-     "published": "2026-11-15T06:00:00.000Z"
+     "published": "2026-11-15T11:00:00.000Z"
     },
     {
-     "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-     "url": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T00:09:29.000Z"
+     "title": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
+     "url": "https://www.theguardian.com/culture/2026/nov/15/hollywood-trans-actors",
+     "source": "The Guardian",
+     "published": "2026-11-15T10:00:10.000Z"
     },
     {
-     "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
-     "url": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T00:07:29.000Z"
+     "title": "Mecanoo transforms former gold vault into \"city’s living room\" in renovation of De Nederlandsche Bank in Amsterdam",
+     "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
+     "source": "Dezeen",
+     "published": "2026-11-15T10:00:00.000Z"
     },
     {
      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
      "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-14T22:37:14.000Z"
+     "published": "2026-11-15T07:19:52.000Z"
     },
     {
-     "title": "Arudeko transforms discarded wool into paper-like material",
-     "url": "https://www.dezeen.com/2026/11/14/arudeko-bianni-waste-wool-paper-material/",
+     "title": "'It's like you're in one of his paintings' Kyffin Williams' art brought to life",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g9ey10dko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T07:11:12.000Z"
+    },
+    {
+     "title": "Star-studded MacGowan tribute album gave grieving wife purpose",
+     "url": "https://www.bbc.co.uk/news/articles/cm782dxxzjw2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T06:56:32.000Z"
+    },
+    {
+     "title": "TV tonight: a tough look inside Crowborough asylum camp",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/15/tv-tonight-a-tough-look-inside-crowborough-asylum-camp",
+     "source": "The Guardian",
+     "published": "2026-11-15T06:15:05.000Z"
+    },
+    {
+     "title": "Kohler's gut-health tracker clips onto the toilet bowl",
+     "url": "https://www.dezeen.com/2026/11/15/kohler-gut-health-tracker-dekoda/",
      "source": "Dezeen",
-     "published": "2026-11-14T18:00:00.000Z"
-    },
-    {
-     "title": "James Blunt: ‘Do I have a nickname? Yes, it rhymes with blunt’",
-     "url": "https://www.theguardian.com/music/2026/nov/15/james-blunt-10-chaotic-questions-interview",
-     "source": "The Guardian",
-     "published": "2026-11-14T14:00:46.000Z"
-    },
-    {
-     "title": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
-     "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
-     "source": "The Guardian",
-     "published": "2026-11-14T13:00:46.000Z"
-    },
-    {
-     "title": "I felt nothing but numbness at my dad’s death – but then I read the book he gave me on my wedding day",
-     "url": "https://www.theguardian.com/culture/2026/nov/14/my-cultural-awakening-under-milk-wood-dylan-thomas-helped-me-grieve",
-     "source": "The Guardian",
-     "published": "2026-11-14T12:00:46.000Z"
-    },
-    {
-     "title": "What 50 years in business has taught Springetts about building brands that thrive",
-     "url": "https://www.creativeboom.com/insight/what-50-years-in-business-has-taught-springetts-about-building-brands-that-thrive/",
-     "source": "Creative Boom",
-     "published": "2026-11-12T07:00:00.000Z"
-    },
-    {
-     "title": "Tanmay Saxena on leaving a banking job to make surreal photographs about life's stranger moments",
-     "url": "https://www.creativeboom.com/inspiration/tanmay-saxena-on-leaving-a-banking-job-to-make-surreal-photographs-about-lifes-stranger-moments/",
-     "source": "Creative Boom",
-     "published": "2026-11-12T06:45:00.000Z"
+     "published": "2026-11-15T06:00:00.000Z"
     }
    ]
   },
@@ -402,46 +402,46 @@
    "name": "London",
    "items": [
     {
-     "title": "Prejudice in the City: The shocking reality LGBTQ+ workers face",
-     "url": "https://www.standard.co.uk/business/michael-bishop-british-midland-gay-lgbtq-stonewall-b1304276.html",
+     "title": "UK weather: Met Office issues snow and ice warning as London drenched by rain",
+     "url": "https://www.standard.co.uk/news/uk/weather-snow-ice-cold-alerts-met-office-b1304910.html",
      "source": "The Standard",
-     "published": "2026-11-15T06:00:36.000Z"
+     "published": "2026-11-15T12:07:20.000Z"
+    },
+    {
+     "title": "Luis de la Fuente and Spain star agree on England ranking ahead of Nations League decider",
+     "url": "https://www.standard.co.uk/sport/football/england-nations-league-spain-de-la-fuente-b1304920.html",
+     "source": "The Standard",
+     "published": "2026-11-15T12:03:41.000Z"
+    },
+    {
+     "title": "Where To Enjoy Snowfall In London This Christmas",
+     "url": "https://londonist.com/london/christmas-in-london/snow-fall-london-christmas",
+     "source": "Londonist",
+     "published": "2026-11-15T10:00:03.000Z"
+    },
+    {
+     "title": "London's medieval games with staying power",
+     "url": "https://www.bbc.co.uk/news/articles/c3dxw0w1kglro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T08:07:15.000Z"
+    },
+    {
+     "title": "Sea of phones at Christmas event prompts backlash",
+     "url": "https://www.bbc.co.uk/news/articles/cq782l2992dno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T08:06:58.000Z"
+    },
+    {
+     "title": "Fix rail bottleneck to boost Croydon, mayor urges",
+     "url": "https://www.bbc.co.uk/news/articles/cr1ew89lex08o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-15T08:06:36.000Z"
     },
     {
      "title": "Best Of Londonist: 9-15 November 2026",
      "url": "https://londonist.com/london/best-of-london/best-of-londonist-9-15-november-2026",
      "source": "Londonist",
      "published": "2026-11-15T06:00:03.000Z"
-    },
-    {
-     "title": "Horoscope today: Your daily guide for Sunday, November 15, 2026",
-     "url": "https://www.standard.co.uk/horoscopes/horoscope-daily-claire-petulengro-sunday-november-15-2026-b1304179.html",
-     "source": "The Standard",
-     "published": "2026-11-15T05:00:42.000Z"
-    },
-    {
-     "title": "Bompastor's risks pay off as Chelsea go top of WSL",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T18:55:34.000Z"
-    },
-    {
-     "title": "Murder investigation after 21-year-old stabbed",
-     "url": "https://www.bbc.co.uk/news/articles/c9zr57v76340o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T17:56:24.000Z"
-    },
-    {
-     "title": "Quins win again in cup as Gloucester also triumph",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6x298wkvxgjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-14T17:46:10.000Z"
-    },
-    {
-     "title": "18 Photos That Sum Up The Mayhem (And Joy) Of London's Transport Network",
-     "url": "https://londonist.com/london/transport/london-calling-photos-tube-underground-stations",
-     "source": "Londonist",
-     "published": "2026-11-14T10:00:04.000Z"
     },
     {
      "title": "Santas attend school to learn how to 'ho ho ho' - video",
