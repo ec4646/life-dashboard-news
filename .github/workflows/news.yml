@@ -27,5 +27,10 @@ jobs:
           git add news.json
           git diff --cached --quiet && exit 0
           git commit -m "Update news"
-          git pull --rebase
-          git push
+          # GitHub occasionally refuses a pull or push for a moment. Try up to three times.
+          for try in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            echo "Could not save (try $try of 3), trying again in 20 seconds"
+            sleep 20
+          done
+          exit 1
