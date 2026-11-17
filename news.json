@@ -1,39 +1,45 @@
 {
- "updated": "2026-11-16T17:41:03.384Z",
+ "updated": "2026-11-17T06:29:41.222Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
     {
-     "title": "All the Award-Winning Photos From Nature Photographer of the Year 2026",
-     "url": "https://petapixel.com/2026/11/16/all-the-award-winning-photos-from-nature-photographer-of-the-year-2026/",
-     "source": "PetaPixel",
-     "published": "2026-11-16T17:37:42.000Z"
+     "title": "Lomography Lomo72: a $79 half-frame camera that gets 72 shots from a 36-exposure roll",
+     "url": "https://www.dpreview.com/news/lomography-lomo72-half-frame-camera/",
+     "source": "DPReview",
+     "published": "2026-11-16T23:29:21.000Z"
     },
     {
-     "title": "The New PetaPixel x Harper Finch Merch Drop Is Here Just in Time for the Holidays",
-     "url": "https://petapixel.com/2026/11/16/the-new-petapixel-x-harper-finch-merch-drop-is-here-just-in-time-for-the-holidays/",
+     "title": "Viltrox Black Friday Deals: Save Up to 20% on Lenses, Monitors, and More",
+     "url": "https://petapixel.com/2026/11/16/viltrox-black-friday-deals-save-up-to-20-on-lenses-monitors-and-more/",
      "source": "PetaPixel",
-     "published": "2026-11-16T17:32:02.000Z"
+     "published": "2026-11-16T20:23:35.000Z"
     },
     {
-     "title": "Backlash Over ‘Robots’ Taking Photos at Christmas Lights Event",
-     "url": "https://petapixel.com/2026/11/16/backlash-over-robots-taking-photos-at-christmas-lights-event/",
+     "title": "How iPhone Duo’s Unlock With Front Camera Works (and How It’s Different Than Face ID)",
+     "url": "https://petapixel.com/2026/11/16/how-iphone-duos-unlock-with-front-camera-works-and-how-its-different-than-face-id/",
      "source": "PetaPixel",
-     "published": "2026-11-16T17:14:24.000Z"
+     "published": "2026-11-16T20:14:35.000Z"
+    },
+    {
+     "title": "Caira Is Jumping on the Vibe-Coded Camera Train",
+     "url": "https://petapixel.com/2026/11/16/caira-is-jumping-on-the-vibe-coded-camera-train/",
+     "source": "PetaPixel",
+     "published": "2026-11-16T18:52:25.000Z"
+    },
+    {
+     "title": "After Months of Delays, the Sony FX5 Is Finally Shipping to Customers",
+     "url": "https://petapixel.com/2026/11/16/after-months-of-delays-the-sony-fx5-is-finally-shipping-to-customers/",
+     "source": "PetaPixel",
+     "published": "2026-11-16T18:44:16.000Z"
     },
     {
      "title": "Quel head trip! Failed postcards, scrapping poets and germ-ridden film rock Paris Photo – review",
      "url": "https://www.theguardian.com/artanddesign/2026/nov/16/paris-photo-review-2026",
      "source": "The Guardian",
      "published": "2026-11-16T16:27:10.000Z"
-    },
-    {
-     "title": "Camera Traps Uncover Surprising Behavior in Rare Flat-Headed Cats",
-     "url": "https://petapixel.com/2026/11/16/camera-traps-uncover-surprising-behavior-in-rare-flat-headed-cats/",
-     "source": "PetaPixel",
-     "published": "2026-11-16T15:06:04.000Z"
     },
     {
      "title": "‘Aboriginal people were the backbone of this state’: rediscovered photographs reveal life inside the 1946 Pilbara strike camps",
@@ -58,12 +64,6 @@
      "url": "https://www.dpreview.com/videos/sigma-fp2-video-review/",
      "source": "DPReview",
      "published": "2026-11-14T14:00:00.000Z"
-    },
-    {
-     "title": "What you should know before using Adobe’s latest photo-editing tools",
-     "url": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
-     "source": "DPReview",
-     "published": "2026-11-13T22:07:53.000Z"
     }
    ]
   },
@@ -72,16 +72,52 @@
    "name": "AI",
    "items": [
     {
-     "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-     "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-     "source": "The Guardian",
-     "published": "2026-11-16T16:48:47.000Z"
+     "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+     "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+     "source": "The Verge",
+     "published": "2026-11-16T23:17:34.000Z"
     },
     {
-     "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
-     "url": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+     "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+     "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+     "source": "Ars Technica",
+     "published": "2026-11-16T22:58:27.000Z"
+    },
+    {
+     "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
      "source": "The Guardian",
-     "published": "2026-11-16T16:05:58.000Z"
+     "published": "2026-11-16T21:41:10.000Z"
+    },
+    {
+     "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+     "source": "The Guardian",
+     "published": "2026-11-16T21:00:21.000Z"
+    },
+    {
+     "title": "California sues OpenAI over rogue AI hacking incidents",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+     "source": "The Verge",
+     "published": "2026-11-16T20:46:01.000Z"
+    },
+    {
+     "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+     "source": "The Verge",
+     "published": "2026-11-16T20:41:28.000Z"
+    },
+    {
+     "title": "US moves to cut China’s remote access to AI chips",
+     "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+     "source": "Ars Technica",
+     "published": "2026-11-16T19:10:09.000Z"
+    },
+    {
+     "title": "The open-source movement wants Jensen Huang back",
+     "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+     "source": "MIT Technology Review",
+     "published": "2026-11-16T18:38:47.000Z"
     },
     {
      "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -90,46 +126,10 @@
      "published": "2026-11-16T16:04:28.000Z"
     },
     {
-     "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-     "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-     "source": "Ars Technica",
-     "published": "2026-11-16T14:06:16.000Z"
-    },
-    {
-     "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-     "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-     "source": "The Verge",
-     "published": "2026-11-16T14:00:00.000Z"
-    },
-    {
-     "title": "Google Maps can now create trip itineraries for you",
-     "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-     "source": "The Verge",
-     "published": "2026-11-16T14:00:00.000Z"
-    },
-    {
      "title": "Building AI that can work across the enterprise",
      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
      "source": "MIT Technology Review",
      "published": "2026-11-16T13:00:00.000Z"
-    },
-    {
-     "title": "The Nvidia scandal isn’t slowing down",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-     "source": "The Verge",
-     "published": "2026-11-16T13:00:00.000Z"
-    },
-    {
-     "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
-     "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
-     "source": "The Guardian",
-     "published": "2026-11-16T11:30:35.000Z"
-    },
-    {
-     "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-     "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-     "source": "Ars Technica",
-     "published": "2026-11-13T21:20:47.000Z"
     }
    ]
   },
@@ -138,46 +138,46 @@
    "name": "UK politics",
    "items": [
     {
-     "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+     "title": "Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?",
+     "url": "https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again",
      "source": "The Guardian",
-     "published": "2026-11-16T17:11:21.000Z"
+     "published": "2026-11-17T06:00:05.000Z"
     },
     {
-     "title": "Burnham told to put ‘brake’ on calls for new EU deal – podcast",
-     "url": "https://www.theguardian.com/politics/audio/2026/nov/16/burnham-told-to-put-brake-on-calls-for-new-eu-deal-podcast",
+     "title": "Invest in international rail services to boost UK-EU reset, Burnham urged",
+     "url": "https://www.theguardian.com/business/2026/nov/17/invest-international-rail-services-boost-uk-eu-reset-andy-burnham",
      "source": "The Guardian",
-     "published": "2026-11-16T16:30:57.000Z"
+     "published": "2026-11-17T05:00:06.000Z"
     },
     {
-     "title": "Miliband says he won't resign if government approves Rosebank oil field",
-     "url": "https://www.bbc.co.uk/news/articles/crvg2n8vwyqdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T16:05:37.000Z"
-    },
-    {
-     "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T15:40:16.000Z"
-    },
-    {
-     "title": "Under-threat lidos get lifeline as Andy Burnham sets up fund to rebuild pools",
-     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
+     "title": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers",
      "source": "The Guardian",
-     "published": "2026-11-16T13:35:49.000Z"
+     "published": "2026-11-17T05:00:06.000Z"
     },
     {
-     "title": "Barristers must stop using rape myths in trials, justice secretary says",
-     "url": "https://www.bbc.co.uk/news/articles/cj04w7n74gqno?at_medium=RSS&at_campaign=rss",
+     "title": "Failed asylum seekers face removal without five-day notice period",
+     "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-16T13:28:44.000Z"
+     "published": "2026-11-17T01:24:49.000Z"
     },
     {
-     "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-     "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+     "title": "Five EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-16T13:19:33.000Z"
+     "published": "2026-11-16T23:20:45.000Z"
+    },
+    {
+     "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T22:32:47.000Z"
+    },
+    {
+     "title": "Children dropping out of school: What can politicians do about it?",
+     "url": "https://www.bbc.co.uk/news/articles/cje39lx9267vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T22:23:41.000Z"
     },
     {
      "title": "Government accused of 'complacency' over 'catastrophic' security risks to UK",
@@ -204,64 +204,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Digital-only banks could be forced to fund high street banking",
-     "url": "https://www.theguardian.com/business/2026/nov/16/digital-only-banks-monzo-revolut-fund-high-street-banking-facilities",
-     "source": "The Guardian",
-     "published": "2026-11-16T17:18:56.000Z"
+     "title": "FTSE 100 Live: Stocks to slide after Asian markets fall; oil lower",
+     "url": "https://www.cityam.com/ftse-100-live-stocks-to-slide-after-asian-markets-fall-oil-lower/",
+     "source": "City AM",
+     "published": "2026-11-17T06:27:51.000Z"
     },
     {
-     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+     "title": "Immigration reform must not risk independence of appeals process",
+     "url": "https://www.cityam.com/immigration-reform-must-not-risk-independence-of-appeals-process/",
+     "source": "City AM",
+     "published": "2026-11-17T06:23:00.000Z"
+    },
+    {
+     "title": "Will Christine Lagarde challenge Marine Le Pen for the French presidency?",
+     "url": "https://www.cityam.com/will-christine-lagarde-challenge-marine-le-pen-for-the-french-presidency/",
+     "source": "City AM",
+     "published": "2026-11-17T06:15:00.000Z"
+    },
+    {
+     "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-16T17:07:55.000Z"
+     "published": "2026-11-17T02:37:53.000Z"
     },
     {
-     "title": "New Lord Mayor: Pension funds must double down on Britain",
-     "url": "https://www.cityam.com/new-lord-mayor-pension-funds-must-double-down-on-britain/",
-     "source": "City AM",
-     "published": "2026-11-16T17:03:46.000Z"
+     "title": "Customers report service outages at major US banks",
+     "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T00:18:01.000Z"
     },
     {
-     "title": "Robert Pattinson as James Bond is bad for Hollywood",
-     "url": "https://www.cityam.com/robert-pattinson-as-james-bond-is-bad-for-hollywood/",
-     "source": "City AM",
-     "published": "2026-11-16T16:43:27.000Z"
+     "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+     "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T00:00:03.000Z"
     },
     {
-     "title": "Corporate raider or corporate saviour: Who is Poundland-owner Gordon Brothers?",
-     "url": "https://www.cityam.com/corporate-raider-or-corporate-saviour-who-is-poundland-owner-gordon-brothers/",
-     "source": "City AM",
-     "published": "2026-11-16T16:41:49.000Z"
+     "title": "We couldn't afford a house alone, so we bought one with strangers",
+     "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T00:00:02.000Z"
     },
     {
-     "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
+     "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+     "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
      "source": "The Guardian",
-     "published": "2026-11-16T16:00:47.000Z"
+     "published": "2026-11-16T22:30:55.000Z"
     },
     {
-     "title": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
-     "url": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
+     "title": "Microsoft identifies months-old bug as a root cause of global outage",
+     "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
      "source": "The Guardian",
-     "published": "2026-11-16T15:27:30.000Z"
+     "published": "2026-11-16T20:54:40.000Z"
     },
     {
-     "title": "Avoid this Black Friday scam - how to check it's a real deal",
-     "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T09:58:52.000Z"
-    },
-    {
-     "title": "Gas starts flowing from Jackdaw after government green light",
-     "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T06:24:08.000Z"
-    },
-    {
-     "title": "Thrift shop asks shoppers to nominate a charity",
-     "url": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T06:03:39.000Z"
+     "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+     "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+     "source": "The Guardian",
+     "published": "2026-11-16T19:59:31.000Z"
     }
    ]
   },
@@ -270,64 +270,64 @@
    "name": "Tech",
    "items": [
     {
-     "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
-     "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
-     "source": "The Verge",
-     "published": "2026-11-16T16:48:01.000Z"
+     "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T01:04:45.000Z"
     },
     {
-     "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-     "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+     "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+     "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
      "source": "The Verge",
-     "published": "2026-11-16T16:39:36.000Z"
+     "published": "2026-11-16T23:35:58.000Z"
     },
     {
-     "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-     "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+     "title": "The AI start-ups fixing India's broken roads and messy land records",
+     "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T23:25:53.000Z"
+    },
+    {
+     "title": "California sues OpenAI over Hugging Face attack",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-16T23:12:24.000Z"
+    },
+    {
+     "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+     "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+     "source": "The Verge",
+     "published": "2026-11-16T22:54:59.000Z"
+    },
+    {
+     "title": "Three small failures combined to take down Microsoft 365",
+     "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
      "source": "Ars Technica",
-     "published": "2026-11-16T16:39:29.000Z"
+     "published": "2026-11-16T21:56:39.000Z"
     },
     {
-     "title": "The Verge’s guide to the best gifts under $100",
-     "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+     "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+     "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
      "source": "The Verge",
-     "published": "2026-11-16T16:00:14.000Z"
+     "published": "2026-11-16T21:41:57.000Z"
     },
     {
-     "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
-     "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+     "title": "Hyperscale data centers use 2% of US electricity",
+     "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
      "source": "Ars Technica",
-     "published": "2026-11-16T14:00:05.000Z"
+     "published": "2026-11-16T20:52:10.000Z"
+    },
+    {
+     "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+     "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+     "source": "Ars Technica",
+     "published": "2026-11-16T20:37:47.000Z"
     },
     {
      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-16T13:34:22.000Z"
-    },
-    {
-     "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
-     "url": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
-     "source": "Ars Technica",
-     "published": "2026-11-16T12:00:57.000Z"
-    },
-    {
-     "title": "Intel sued by investors after PC sales slump hits share price",
-     "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T03:04:01.000Z"
-    },
-    {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-     "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T01:47:57.000Z"
-    },
-    {
-     "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-     "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-15T13:37:45.000Z"
     }
    ]
   },
@@ -336,52 +336,52 @@
    "name": "Arts",
    "items": [
     {
+     "title": "TV tonight: the extraordinary story of the Jewish refugee boy who became a CIA spy",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/17/tv-tonight-the-extraordinary-story-of-the-jewish-refugee-boy-who-became-a-cia-spy",
+     "source": "The Guardian",
+     "published": "2026-11-17T06:20:05.000Z"
+    },
+    {
+     "title": "Isern Serra designs bold colour-blocked interiors for Barcelona pilates studio",
+     "url": "https://www.dezeen.com/2026/11/17/isern-serra-designs-barcelona-pilates-studio-circl/",
+     "source": "Dezeen",
+     "published": "2026-11-17T06:00:00.000Z"
+    },
+    {
+     "title": "The play that changed my life: ‘John Berger’s Pig Earth became something magical – they licked milk off bodies’",
+     "url": "https://www.theguardian.com/stage/2026/nov/17/the-play-that-changed-my-life-john-berger-pig-earth-the-three-lives-of-lucie-cabrol-complicite",
+     "source": "The Guardian",
+     "published": "2026-11-17T05:00:07.000Z"
+    },
+    {
+     "title": "‘His lighthouses are self-portraits’: did Edward Hopper paint his sexual problems?",
+     "url": "https://www.theguardian.com/artanddesign/2026/nov/17/edward-hopper-sexual-problems-melancholy-wife-lighthouses",
+     "source": "The Guardian",
+     "published": "2026-11-17T05:00:05.000Z"
+    },
+    {
+     "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+     "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T02:11:57.000Z"
+    },
+    {
+     "title": "Discover this year's Dezeen Awards Designers of the Year",
+     "url": "https://www.dezeen.com/2026/11/16/discover-this-years-dezeen-awards-designers-of-the-year/",
+     "source": "Dezeen",
+     "published": "2026-11-16T21:29:48.000Z"
+    },
+    {
      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-16T17:20:52.000Z"
+     "published": "2026-11-16T18:22:22.000Z"
     },
     {
-     "title": "Photos reveal scale of Trump’s White House ballroom, drawing criticism",
-     "url": "https://www.dezeen.com/2026/11/16/white-house-ballroom-topping-out/",
-     "source": "Dezeen",
-     "published": "2026-11-16T17:00:00.000Z"
-    },
-    {
-     "title": "James Bond: What we know so far about the next 007 film",
-     "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+     "title": "Emma Barnett to leave Radio 4's Today for new BBC show",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-16T15:46:45.000Z"
-    },
-    {
-     "title": "Russell Brand: Open Secret review – ​a real tribute to the journalists and victims who brought him to justice",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/russell-brand-open-secret-review-a-real-tribute-to-the-journalists-and-victims-who-brought-him-to-justice",
-     "source": "The Guardian",
-     "published": "2026-11-16T15:27:12.000Z"
-    },
-    {
-     "title": "Shakespeare chief threatens to resign over Birmingham move",
-     "url": "https://www.bbc.co.uk/news/articles/cm752wdrw0zqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T15:10:26.000Z"
-    },
-    {
-     "title": "Killer tunes: how Grand Theft Auto conquered the music world",
-     "url": "https://www.theguardian.com/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta",
-     "source": "The Guardian",
-     "published": "2026-11-16T15:03:38.000Z"
-    },
-    {
-     "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
-     "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
-     "source": "The Guardian",
-     "published": "2026-11-16T15:01:42.000Z"
-    },
-    {
-     "title": "Nike Tuned Air \"a huge stride forward\" in air-filled trainer design says innovation lead",
-     "url": "https://www.dezeen.com/2026/11/16/nike-tuned-air-new-era/",
-     "source": "Dezeen",
-     "published": "2026-11-16T14:12:41.000Z"
+     "published": "2026-11-16T17:46:12.000Z"
     },
     {
      "title": "Donna Fredin switched from design to illustration, now she's drawing fun, awkward characters that capture life’s strange moments",
@@ -402,40 +402,40 @@
    "name": "London",
    "items": [
     {
-     "title": "Hailey Bieber takes Rhode beyond beauty with its first fashion launch",
-     "url": "https://www.standard.co.uk/shopping/esbest/fashion/hailey-bieber-rhode-clothing-b1305101.html",
+     "title": "I’m a Celebrity 2026 viewers fuming over dramatic twist minutes into launch show",
+     "url": "https://www.standard.co.uk/showbiz/im-a-celebrity-wayne-rooney-twist-elimination-twist-b1305127.html",
      "source": "The Standard",
-     "published": "2026-11-16T17:31:57.000Z"
+     "published": "2026-11-17T06:18:17.000Z"
     },
     {
-     "title": "Flagship London council’s huge cuts plan as households face 100% council tax rise",
-     "url": "https://www.standard.co.uk/news/politics/london-westminster-council-cuts-council-tax-rise-b1305095.html",
+     "title": "Removal of athletics track paused after backlash",
+     "url": "https://www.bbc.co.uk/news/articles/c63egj7n4007o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T06:12:15.000Z"
+    },
+    {
+     "title": "Met says sex workers more willing to report crimes",
+     "url": "https://www.bbc.co.uk/news/articles/cqkgm84xrp70o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T06:11:00.000Z"
+    },
+    {
+     "title": "Plans for 24/7 neighbourhood mental health centres",
+     "url": "https://www.bbc.co.uk/news/articles/c6d91x7l3gjpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-17T06:09:51.000Z"
+    },
+    {
+     "title": "William gets behind wheel of rickshaw with Kate ahead of Earthshot awards",
+     "url": "https://www.standard.co.uk/news/uk/prince-of-wales-kate-mumbai-india-rami-malek-b1305148.html",
      "source": "The Standard",
-     "published": "2026-11-16T17:28:21.000Z"
+     "published": "2026-11-17T06:02:58.000Z"
     },
     {
      "title": "Stella Cherfas obituary",
      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/16/stella-cherfas-obituary",
      "source": "The Guardian",
      "published": "2026-11-16T16:47:47.000Z"
-    },
-    {
-     "title": "Armed phone thief on e-bike tracked by drone jailed",
-     "url": "https://www.bbc.co.uk/news/articles/c6zjrdkdv0v2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T16:12:01.000Z"
-    },
-    {
-     "title": "How Frank can restore reputation and save Crystal Palace",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T15:15:57.000Z"
-    },
-    {
-     "title": "Fox rescued after wandering on to Tube tracks",
-     "url": "https://www.bbc.co.uk/news/videos/cmvg2r9peql9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-16T15:13:26.000Z"
     },
     {
      "title": "Our Guide To Christmas Shopping At OXO Tower Wharf",
