@@ -1,21 +1,45 @@
 {
- "updated": "2026-11-18T06:32:28.150Z",
+ "updated": "2026-11-18T12:24:43.295Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
     {
-     "title": "The TRMNL Frame Is a Gorgeous 31.5-Inch ePaper Picture Frame",
-     "url": "https://petapixel.com/2026/11/17/the-trmnl-frame-is-a-gorgeous-31-5-inch-epaper-picture-frame/",
+     "title": "Hasselblad X2D II Photographers Can Now Shoot Tethered Into Capture One",
+     "url": "https://petapixel.com/2026/11/18/hasselblad-x2d-ii-photographers-can-now-shoot-tethered-into-capture-one/",
      "source": "PetaPixel",
-     "published": "2026-11-17T22:48:59.000Z"
+     "published": "2026-11-18T12:00:34.000Z"
     },
     {
-     "title": "A Portrait Photographer Puts 6 Common AI Retouching Myths to the Test",
-     "url": "https://petapixel.com/2026/11/17/a-portrait-photographer-puts-6-common-ai-retouching-myths-to-the-test/",
+     "title": "North Korea Releases Outrageous Propaganda Photos of Kim Jong Un and Daughter",
+     "url": "https://petapixel.com/2026/11/18/north-korea-releases-outrageous-propaganda-photos-of-kim-jong-un-and-daughter/",
      "source": "PetaPixel",
-     "published": "2026-11-17T21:56:01.000Z"
+     "published": "2026-11-18T11:54:11.000Z"
+    },
+    {
+     "title": "Worrying Footage Shows Uncontacted Tribe Emerging From Amazon Rainforest to Seek Food",
+     "url": "https://petapixel.com/2026/11/18/worrying-footage-shows-uncontacted-tribe-emerging-from-amazon-rainforest-to-seek-food/",
+     "source": "PetaPixel",
+     "published": "2026-11-18T11:41:07.000Z"
+    },
+    {
+     "title": "Camel fair and anti-Trump protests: photos of the day – Wednesday",
+     "url": "https://www.theguardian.com/news/gallery/2026/nov/18/camel-fair-and-anti-trump-protests-photos-of-the-day-wednesday",
+     "source": "The Guardian",
+     "published": "2026-11-18T10:49:09.000Z"
+    },
+    {
+     "title": "The Best Photos From NASA’s Voyager 1 Spacecraft, Which Is Now 1 Light-Day From Earth",
+     "url": "https://petapixel.com/2026/11/18/the-best-photos-from-nasas-voyager-1-spacecraft-which-is-now-1-light-day-from-earth/",
+     "source": "PetaPixel",
+     "published": "2026-11-18T10:16:31.000Z"
+    },
+    {
+     "title": "Nietzsche, the supermodels and me: the dazzling career of David Sims – in pictures",
+     "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/18/david-sims-kate-moss-kurt-cobain-in-pictures",
+     "source": "The Guardian",
+     "published": "2026-11-18T07:00:34.000Z"
     },
     {
      "title": "National Geographic reveals its Pictures of the Year 2026, from spawning moray eels to a Greenland shark under the ice",
@@ -24,22 +48,10 @@
      "published": "2026-11-17T19:34:07.000Z"
     },
     {
-     "title": "Photographer Captures Eerie Images of Looming Data Centers in Virginia",
-     "url": "https://petapixel.com/2026/11/17/photographer-captures-eerie-images-of-looming-data-centers-in-virginia/",
-     "source": "PetaPixel",
-     "published": "2026-11-17T19:30:23.000Z"
-    },
-    {
      "title": "Panasonic is working on the first power zoom for L-mount",
      "url": "https://www.dpreview.com/news/panasonic-l-mount-power-zoom-lens-development/",
      "source": "DPReview",
      "published": "2026-11-17T19:19:05.000Z"
-    },
-    {
-     "title": "VSCO Studio Pro Brings Presets and Streamlined Editing to macOS",
-     "url": "https://petapixel.com/2026/11/17/vsco-studio-pro-brings-presets-and-streamlined-editing-to-macos/",
-     "source": "PetaPixel",
-     "published": "2026-11-17T17:00:27.000Z"
     },
     {
      "title": "VSCO brings its film-inspired presets to the desktop with a new Raw editor",
@@ -52,18 +64,6 @@
      "url": "https://www.theguardian.com/community/gallery/2026/nov/17/a-sensational-seat-and-gripping-graffiti-readers-best-photographs",
      "source": "The Guardian",
      "published": "2026-11-17T16:00:16.000Z"
-    },
-    {
-     "title": "Night riders: the passengers you meet as a Sydney taxi driver – in pictures",
-     "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/18/glenn-lockitch-taxi-passengers-photo-exhibition-you-meet-as-a-sydney-taxi-driver-in-pictures",
-     "source": "The Guardian",
-     "published": "2026-11-17T14:00:14.000Z"
-    },
-    {
-     "title": "‘I confront my demons’: crime, corruption and poverty in Latin America – in pictures",
-     "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/17/julio-mitchels-latin-america-in-pictures",
-     "source": "The Guardian",
-     "published": "2026-11-17T07:00:07.000Z"
     }
    ]
   },
@@ -72,22 +72,34 @@
    "name": "AI",
    "items": [
     {
-     "title": "‘Human’ wins Cambridge dictionary’s word of the year",
-     "url": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+     "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
      "source": "The Guardian",
-     "published": "2026-11-18T05:00:34.000Z"
+     "published": "2026-11-18T11:35:36.000Z"
+    },
+    {
+     "title": "Suno now lets you make AI videos for your AI music",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+     "source": "The Verge",
+     "published": "2026-11-18T11:16:53.000Z"
+    },
+    {
+     "title": "Aria awards: how do Australian artists feel about their music being used to train AI? – video",
+     "url": "https://www.theguardian.com/music/video/2026/nov/18/aria-awards-how-do-australian-artists-feel-about-their-music-being-used-to-train-ai-video",
+     "source": "The Guardian",
+     "published": "2026-11-18T10:22:44.000Z"
+    },
+    {
+     "title": "This smell startup says its AI nose is as good as a human’s",
+     "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+     "source": "MIT Technology Review",
+     "published": "2026-11-18T10:20:30.000Z"
     },
     {
      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
      "source": "Ars Technica",
      "published": "2026-11-18T00:27:29.000Z"
-    },
-    {
-     "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
-     "url": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-     "source": "The Guardian",
-     "published": "2026-11-18T00:01:25.000Z"
     },
     {
      "title": "Satya Nadella says he’s AGI-pilled now",
@@ -100,12 +112,6 @@
      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
      "source": "The Verge",
      "published": "2026-11-17T21:40:59.000Z"
-    },
-    {
-     "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-     "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-     "source": "The Verge",
-     "published": "2026-11-17T21:00:55.000Z"
     },
     {
      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
@@ -124,12 +130,6 @@
      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
      "source": "MIT Technology Review",
      "published": "2026-11-16T18:38:47.000Z"
-    },
-    {
-     "title": "Building trustworthy AI by fencing it in, not predicting it",
-     "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-     "source": "MIT Technology Review",
-     "published": "2026-11-16T16:04:28.000Z"
     }
    ]
   },
@@ -138,22 +138,46 @@
    "name": "UK politics",
    "items": [
     {
-     "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
-     "url": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T06:00:38.000Z"
+     "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-18T12:18:41.000Z"
     },
     {
-     "title": "‘In the end, nothing happened’: how Reform’s Doge-style crackdown fell flat",
-     "url": "https://www.theguardian.com/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat",
-     "source": "The Guardian",
-     "published": "2026-11-18T06:00:34.000Z"
+     "title": "Lammy urges Burnham to take UK back into the EU",
+     "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T11:52:30.000Z"
     },
     {
      "title": "Burnham promises to 'move quickly' on Neets report",
      "url": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-18T06:00:24.000Z"
+     "published": "2026-11-18T11:33:59.000Z"
+    },
+    {
+     "title": "Yvette Cooper announces new health support for most vulnerable people in England",
+     "url": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
+     "source": "The Guardian",
+     "published": "2026-11-18T11:08:32.000Z"
+    },
+    {
+     "title": "SSE threatens to close Yorkshire gas storage site unless ministers intervene",
+     "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+     "source": "The Guardian",
+     "published": "2026-11-18T10:29:22.000Z"
+    },
+    {
+     "title": "Can Burnham make hard choices?",
+     "url": "https://news.sky.com/story/can-burnham-make-hard-choices-13613253",
+     "source": "Sky News",
+     "published": "2026-11-18T08:37:00.000Z"
+    },
+    {
+     "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
+     "url": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T06:00:38.000Z"
     },
     {
      "title": "PM is hollowing out defence, new Reform spokesperson warns",
@@ -162,40 +186,16 @@
      "published": "2026-11-18T03:50:00.000Z"
     },
     {
-     "title": "Can Labour end the youth unemployment crisis? – podcast",
-     "url": "https://www.theguardian.com/news/audio/2026/nov/18/can-labour-end-the-youth-unemployment-crisis-podcast",
-     "source": "The Guardian",
-     "published": "2026-11-18T03:00:29.000Z"
-    },
-    {
      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-18T00:44:48.000Z"
     },
     {
-     "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
-     "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T00:39:06.000Z"
-    },
-    {
-     "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-     "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-     "source": "The Guardian",
-     "published": "2026-11-18T00:01:26.000Z"
-    },
-    {
      "title": "Government accused of 'complacency' over 'catastrophic' security risks to UK",
      "url": "https://news.sky.com/story/government-accused-of-complacency-over-catastrophic-security-risks-to-uk-13612651",
      "source": "Sky News",
      "published": "2026-11-16T00:28:00.000Z"
-    },
-    {
-     "title": "Sky News announces new hosts of Sunday Morning With…",
-     "url": "https://news.sky.com/story/sky-news-announces-new-hosts-of-sunday-morning-with-13611914",
-     "source": "Sky News",
-     "published": "2026-11-16T00:01:00.000Z"
     }
    ]
   },
@@ -204,64 +204,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "FTSE 100 Live: Stocks to drop after Nvidia’s earnings beat fails to cool jitters",
-     "url": "https://www.cityam.com/ftse-100-live-stocks-to-drop-after-nvidias-earnings-beat-fails-to-cool-jitters/",
+     "title": "Energy price cap rise: how to beat the January hike",
+     "url": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
+     "source": "The Guardian",
+     "published": "2026-11-18T12:16:04.000Z"
+    },
+    {
+     "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+     "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+     "source": "The Guardian",
+     "published": "2026-11-18T12:01:00.000Z"
+    },
+    {
+     "title": "Global energy watchdog warns ‘no credible way’ back to pre-Iran war energy markets",
+     "url": "https://www.cityam.com/global-energy-watchdog-warns-no-credible-way-back-to-pre-iran-war-energy-markets/",
      "source": "City AM",
-     "published": "2026-11-18T06:29:16.000Z"
+     "published": "2026-11-18T12:00:00.000Z"
+    },
+    {
+     "title": "UK inflation rises to highest level in a year on back of higher petrol and diesel prices – business live",
+     "url": "https://www.theguardian.com/business/live/2026/nov/18/uk-inflation-rises-higher-petrol-prices-nvidia-live-updates",
+     "source": "The Guardian",
+     "published": "2026-11-18T11:55:13.000Z"
+    },
+    {
+     "title": "Interest rates and higher tax: Central London house prices suffer biggest fall since 2009",
+     "url": "https://www.cityam.com/central-london-house-prices-suffer-biggest-drop-since-financial-crash/",
+     "source": "City AM",
+     "published": "2026-11-18T10:21:52.000Z"
+    },
+    {
+     "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T10:10:12.000Z"
+    },
+    {
+     "title": "Fresh meat: The new restaurants reshaping Smithfield",
+     "url": "https://www.cityam.com/fresh-meat-the-new-restaurants-reshaping-smithfield/",
+     "source": "City AM",
+     "published": "2026-11-18T09:57:48.000Z"
+    },
+    {
+     "title": "MP urges council to speed up heating oil payments",
+     "url": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T08:48:26.000Z"
+    },
+    {
+     "title": "Security flaw found in Java, world's third-largest programming language",
+     "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T08:47:06.000Z"
     },
     {
      "title": "States to debate social security contributions cut",
      "url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-18T06:17:58.000Z"
-    },
-    {
-     "title": "Alan Milburn has issued a wake-up call on NEETs, but Labour’s not listening",
-     "url": "https://www.cityam.com/alan-milburn-has-issued-a-wake-up-call-on-neets-but-labours-not-listening/",
-     "source": "City AM",
-     "published": "2026-11-18T06:05:00.000Z"
-    },
-    {
-     "title": "How important are Nvidia and Jensen Huang to the US economy?",
-     "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T06:04:21.000Z"
-    },
-    {
-     "title": "Is the lawyer’s timesheet dead? ‘Game changing’ AI comes for the billable hour",
-     "url": "https://www.cityam.com/is-the-lawyers-timesheet-dead-game-changing-ai-comes-for-the-billable-hour/",
-     "source": "City AM",
-     "published": "2026-11-18T06:00:00.000Z"
-    },
-    {
-     "title": "Security flaw found in Java, world's third-largest programming language",
-     "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T05:33:13.000Z"
-    },
-    {
-     "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-     "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T04:00:54.000Z"
-    },
-    {
-     "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
-     "url": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
-     "source": "The Guardian",
-     "published": "2026-11-18T02:13:58.000Z"
-    },
-    {
-     "title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
-     "url": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes",
-     "source": "The Guardian",
-     "published": "2026-11-18T00:41:35.000Z"
-    },
-    {
-     "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
-     "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
-     "source": "The Guardian",
-     "published": "2026-11-18T00:01:25.000Z"
     }
    ]
   },
@@ -270,64 +270,64 @@
    "name": "Tech",
    "items": [
     {
+     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T12:22:15.000Z"
+    },
+    {
+     "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+     "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+     "source": "Ars Technica",
+     "published": "2026-11-18T12:15:44.000Z"
+    },
+    {
+     "title": "NASA’s Voyager 1 probe is now one light-day away",
+     "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+     "source": "The Verge",
+     "published": "2026-11-18T12:03:36.000Z"
+    },
+    {
+     "title": "Grand Theft Auto VI has arrived",
+     "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+     "source": "The Verge",
+     "published": "2026-11-18T11:06:16.000Z"
+    },
+    {
+     "title": "Grand Theft Auto VI: The Ars Technica review",
+     "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+     "source": "Ars Technica",
+     "published": "2026-11-18T11:00:27.000Z"
+    },
+    {
+     "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+     "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+     "source": "The Verge",
+     "published": "2026-11-18T11:00:00.000Z"
+    },
+    {
+     "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+     "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T09:28:35.000Z"
+    },
+    {
+     "title": "How important are Nvidia and Jensen Huang to the US economy?",
+     "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T06:04:21.000Z"
+    },
+    {
      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
      "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-18T05:10:02.000Z"
     },
     {
-     "title": "Waymo pulls driverless taxis from all US freeways",
-     "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T03:07:22.000Z"
-    },
-    {
-     "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T01:18:18.000Z"
-    },
-    {
-     "title": "Europe plans to catch the next computer chip wave",
-     "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T00:00:24.000Z"
-    },
-    {
      "title": "San Diego dumps both Flock cameras and smart streetlights",
      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
      "source": "Ars Technica",
      "published": "2026-11-17T23:09:09.000Z"
-    },
-    {
-     "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-     "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-     "source": "Ars Technica",
-     "published": "2026-11-17T22:44:46.000Z"
-    },
-    {
-     "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-     "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-     "source": "The Verge",
-     "published": "2026-11-17T22:38:41.000Z"
-    },
-    {
-     "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-     "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-     "source": "The Verge",
-     "published": "2026-11-17T22:32:50.000Z"
-    },
-    {
-     "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-     "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-     "source": "Ars Technica",
-     "published": "2026-11-17T22:32:16.000Z"
-    },
-    {
-     "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-     "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-     "source": "The Verge",
-     "published": "2026-11-17T22:25:41.000Z"
     }
    ]
   },
@@ -336,64 +336,64 @@
    "name": "Arts",
    "items": [
     {
-     "title": "Elenor Kopka on turning her strange, squiggly animations into ceramic sculptures",
-     "url": "https://www.creativeboom.com/inspiration/elenor-kopka-on-turning-her-strange-squiggly-animations-into-ceramic-sculptures/",
-     "source": "Creative Boom",
-     "published": "2026-11-18T06:15:00.000Z"
-    },
-    {
-     "title": "'Real life ghost story' inspires new TV drama in Welsh countryside",
-     "url": "https://www.bbc.co.uk/news/articles/c6y4j73319dmo?at_medium=RSS&at_campaign=rss",
+     "title": "Minister criticises media for 'amplifying' Russell Brand's prison message",
+     "url": "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-18T06:10:18.000Z"
+     "published": "2026-11-18T12:11:39.000Z"
     },
     {
-     "title": "‘The aesthetics in my family were so high, I felt ugly’: Charlotte Gainsbourg on extremism, abortion and her mother, Jane Birkin",
-     "url": "https://www.theguardian.com/culture/2026/nov/18/charlotte-gainsbourg-aesthetics-family-high-i-felt-ugly-extremism-abortion-jane-birkin",
+     "title": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
+     "url": "https://www.theguardian.com/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
      "source": "The Guardian",
-     "published": "2026-11-18T05:00:32.000Z"
+     "published": "2026-11-18T11:51:31.000Z"
     },
     {
-     "title": "University pauses Shakespeare move after backlash",
-     "url": "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-17T20:45:32.000Z"
-    },
-    {
-     "title": "“We're not saying they're perfect” says architect fighting to save Melbourne's public housing blocks",
-     "url": "https://www.dezeen.com/2026/11/17/office-simon-robinson-public-housing-melbourne-australia/",
+     "title": "Cotswolds barn renovation by ConForm creates a \"dialogue between old and new\"",
+     "url": "https://www.dezeen.com/2026/11/18/open-byre-conform/",
      "source": "Dezeen",
-     "published": "2026-11-17T19:01:00.000Z"
+     "published": "2026-11-18T11:30:00.000Z"
     },
     {
-     "title": "Perron shapes Quebec kitchen around tea collection",
-     "url": "https://www.dezeen.com/2026/11/17/perron-kitchen-interior-renovation-quebec-canada/",
+     "title": "Meet Linde Freya Tangelder, Nendo's pick for the most influential designer of the next 20 years",
+     "url": "https://www.dezeen.com/2026/11/18/linde-freya-tangelder-20-20/",
      "source": "Dezeen",
-     "published": "2026-11-17T18:00:00.000Z"
+     "published": "2026-11-18T11:16:10.000Z"
     },
     {
-     "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
-     "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+     "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+     "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+     "source": "The Guardian",
+     "published": "2026-11-18T11:00:55.000Z"
+    },
+    {
+     "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+     "url": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-17T17:57:56.000Z"
+     "published": "2026-11-18T11:00:05.000Z"
     },
     {
-     "title": "‘Dolls deserve complex roles’: the trans theatre troupe turning Orlando into a ‘porno-biography’",
-     "url": "https://www.theguardian.com/stage/2026/nov/17/dolls-deserve-complex-roles-the-trans-theatre-troupe-turning-orlando-into-a-porno-biography",
+     "title": "Emma Barnett pays tribute to 'decent journalism' in final Today episode",
+     "url": "https://www.bbc.co.uk/news/videos/c6wy0j1xeypqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T10:34:57.000Z"
+    },
+    {
+     "title": "Van Eyck: The Portraits review – a jewel box of phenomenal death-defeating paintings",
+     "url": "https://www.theguardian.com/artanddesign/2026/nov/17/van-eyck-the-portraits-review-national-gallery-london-paintings",
      "source": "The Guardian",
-     "published": "2026-11-17T15:53:06.000Z"
+     "published": "2026-11-18T10:02:32.000Z"
     },
     {
-     "title": "Send us your questions for Martin Freeman",
-     "url": "https://www.theguardian.com/culture/2026/nov/17/send-us-your-questions-for-martin-freeman",
-     "source": "The Guardian",
-     "published": "2026-11-17T15:35:16.000Z"
-    },
-    {
-     "title": "Skull caps, football shirts and the sweetness of male friendship in Nikolai Voelcker's photographs",
-     "url": "https://www.creativeboom.com/inspiration/skull-caps-football-shirts-and-the-sweetness-of-male-friendship-in-nikolai-voelckers-photographs/",
+     "title": "Why GTA 6 is the year's biggest campaign for a brand that refuses to sell ad space",
+     "url": "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space/",
      "source": "Creative Boom",
-     "published": "2026-11-17T07:00:00.000Z"
+     "published": "2026-11-18T09:00:00.000Z"
+    },
+    {
+     "title": "'It's going to be scary': a week on from Adobe MAX 2026, creatives get honest about the future",
+     "url": "https://www.creativeboom.com/insight/its-going-to-be-scary-a-week-on-from-adobe-max-creatives-get-honest-about-the-future/",
+     "source": "Creative Boom",
+     "published": "2026-11-18T07:30:00.000Z"
     }
    ]
   },
@@ -402,46 +402,46 @@
    "name": "London",
    "items": [
     {
-     "title": "Tube strike shock: Snap walkout to hit major London Underground lines THIS WEEK",
-     "url": "https://www.standard.co.uk/news/transport/strike-tube-lines-piccadilly-district-london-underground-b1305270.html",
+     "title": "Time for a holiday? The best travel deals to book this Black Friday",
+     "url": "https://www.standard.co.uk/shopping/esbest/black-friday/best-black-friday-travel-deals-b1305071.html",
      "source": "The Standard",
-     "published": "2026-11-18T06:20:39.000Z"
+     "published": "2026-11-18T12:15:56.000Z"
     },
     {
-     "title": "Mapped: London’s 10 most dangerous junctions for cyclists and pedestrians",
-     "url": "https://www.standard.co.uk/news/london/most-dangerous-junctions-cycling-pedestrians-b1305072.html",
+     "title": "Date revealed for return of Saturday Night Live UK",
+     "url": "https://www.standard.co.uk/showbiz/celebrity-news/british-ed-sheeran-sky-andy-burnham-fans-b1305368.html",
      "source": "The Standard",
-     "published": "2026-11-18T06:15:02.000Z"
+     "published": "2026-11-18T12:09:28.000Z"
     },
     {
-     "title": "Vauxhall Bridge 'could have to shut to buses'",
-     "url": "https://www.bbc.co.uk/news/articles/c64gnzlq5w20o?at_medium=RSS&at_campaign=rss",
+     "title": "Strike to bring Piccadilly line services to a halt",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy975n2z8no?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-18T05:48:43.000Z"
+     "published": "2026-11-18T10:50:54.000Z"
     },
     {
-     "title": "'Anyone thinking about learning to swim should just take that first step'",
-     "url": "https://www.bbc.co.uk/news/articles/c9x2enx5gz8go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T05:47:00.000Z"
-    },
-    {
-     "title": "London's most dangerous junctions for cyclists",
-     "url": "https://www.bbc.co.uk/news/articles/c6m2l93ypyj7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T05:46:04.000Z"
-    },
-    {
-     "title": "Gas Lamps: London Gasketeers Choose Four Of Their Faves",
-     "url": "https://londonist.com/london/features/london-by-gaslight",
+     "title": "From Bombsite To Brutalist Pin-Up: Photos Of The Barbican In Its Early Days",
+     "url": "https://londonist.com/london/architecture/barbican-vintage-photos",
      "source": "Londonist",
-     "published": "2026-11-17T10:30:00.000Z"
+     "published": "2026-11-18T10:00:00.000Z"
     },
     {
-     "title": "Fantastically Festive Christmas Afternoon Teas To Enjoy In London This Year",
-     "url": "https://londonist.com/london/christmas-in-london/festive-christmas-afternoon-teas-high-tea-london",
+     "title": "A Very London Souvenir Guide, Home Edition",
+     "url": "https://londonist.com/london/shopping/london-souvenir-guide-home-edition",
      "source": "Londonist",
-     "published": "2026-11-17T10:02:00.000Z"
+     "published": "2026-11-18T09:59:00.000Z"
+    },
+    {
+     "title": "Callender eyes world-class status with Harlequins",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmlyw3zgjpndo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T09:32:18.000Z"
+    },
+    {
+     "title": "De Goede signs new Saracens deal",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqlyk9g4pk47o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-18T08:39:47.000Z"
     },
     {
      "title": "The corporate boom in vegan food is dead. Long live real plant-based cooking | Isobel Lewis",
