@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:17:31.299Z",
+ "updated": "2026-11-20T10:18:11.458Z",
  "items": [
   {
    "title": "Guests no longer asked to wash up as new Airbnb rules come into force",
@@ -20,6 +20,13 @@
    "published": "2026-11-20T09:37:59.000Z"
   },
   {
+   "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
+   "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-11-20T08:00:05.000Z",
+   "good": true
+  },
+  {
    "title": "Missing fishing boat Kilda recovered from waters off Orkney",
    "url": "https://www.bbc.co.uk/news/articles/cmp86k870wz6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -36,6 +43,13 @@
    "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-20T09:00:02.000Z"
+  },
+  {
+   "title": "Allison Raskin’s newest rom-com novel sends hope to those struggling with OCD: ‘You can still get your happy ending’",
+   "url": "https://www.goodgoodgood.co/articles/allison-raskin-ocd-compulsively-yours-romcom",
+   "source": "Good Good Good",
+   "published": "2026-11-19T23:08:00.000Z",
+   "good": true
   },
   {
    "title": "UK braces for coldest night of autumn so far with temperature of -10C forecast",
@@ -56,10 +70,24 @@
    "published": "2026-11-20T07:04:00.000Z"
   },
   {
+   "title": "Every Tuesday, this private chef turns ‘random’ food bank donations into 100 meals for people in need",
+   "url": "https://www.goodgoodgood.co/articles/toronto-chef-food-bank-maddy-goldberg",
+   "source": "Good Good Good",
+   "published": "2026-11-19T17:56:00.000Z",
+   "good": true
+  },
+  {
    "title": "Girls as young as five and women as old as 87 targeted for upskirting",
    "url": "https://www.bbc.co.uk/news/articles/cq808rerxxp3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-20T06:06:56.000Z"
+  },
+  {
+   "title": "She Checked on Her ‘Loud’ Upstairs Neighbor, Inspiring Strangers to Raise More Than $100,000",
+   "url": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
+   "source": "Good News Network",
+   "published": "2026-11-19T16:26:23.000Z",
+   "good": true
   }
  ]
 }
