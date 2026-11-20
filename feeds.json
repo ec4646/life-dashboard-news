@@ -4,7 +4,12 @@
   "latest": { "maxAgeHours": 12, "count": 10, "skipUrls": "/sport/", "feeds": [
     { "source": "BBC News", "url": "https://feeds.bbci.co.uk/news/rss.xml" },
     { "source": "Sky News", "url": "https://feeds.skynews.com/feeds/rss/home.xml" }
-  ]},
+  ],
+  "good": { "every": 4, "maxAgeHours": 72, "skipTitles": "^Good News in History", "feeds": [
+    { "source": "Good News Network", "url": "https://www.goodnewsnetwork.org/feed/" },
+    { "source": "Reasons to be Cheerful", "url": "https://reasonstobecheerful.world/feed/" },
+    { "source": "Good Good Good", "url": "https://www.goodgoodgood.co/articles/rss.xml" }
+  ]}},
   "topics": [
     { "id": "photography", "name": "Photography", "feeds": [
       { "source": "PetaPixel", "url": "https://petapixel.com/feed/" },

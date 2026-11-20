@@ -22,7 +22,7 @@ node fetch-prices.mjs
 
 ## Latest headlines
 
-`fetch-latest.mjs` reads the top-stories feeds under `latest` in `feeds.json` (BBC News and Sky News, sport left out) and writes `latest.json`: the newest ten headlines from the last 12 hours, for the dashboard's ticker.
+`fetch-latest.mjs` reads the top-stories feeds under `latest` in `feeds.json` (BBC News and Sky News, sport left out) and writes `latest.json`: the newest ten headlines from the last 12 hours, for the dashboard's ticker. Rule: at least one in every four is good news. Every 4th headline comes from the feeds under `latest.good` (Good News Network, Reasons to be Cheerful, Good Good Good, last 72 hours) and is marked `good: true`; if there are too few good stories the top headlines are cut down to fit, never the other way round. The Life Dashboard and UPL Outreach tickers both read this file, so the rule covers both.
 
 ```bash
 node fetch-latest.mjs
