@@ -1,11 +1,30 @@
 {
- "updated": "2026-11-20T10:18:11.458Z",
+ "updated": "2026-11-20T10:41:11.436Z",
  "items": [
+  {
+   "title": "Three Kyiv bridges hit during major Russian missile attack",
+   "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T10:20:08.000Z"
+  },
+  {
+   "title": "South Korea catches 111 students with new measures against exam cheating",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T10:16:19.000Z"
+  },
   {
    "title": "Guests no longer asked to wash up as new Airbnb rules come into force",
    "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-20T09:55:20.000Z"
+  },
+  {
+   "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
+   "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-11-20T08:00:05.000Z",
+   "good": true
   },
   {
    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
@@ -20,29 +39,10 @@
    "published": "2026-11-20T09:37:59.000Z"
   },
   {
-   "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
-   "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
-   "source": "Reasons to be Cheerful",
-   "published": "2026-11-20T08:00:05.000Z",
-   "good": true
-  },
-  {
    "title": "Missing fishing boat Kilda recovered from waters off Orkney",
    "url": "https://www.bbc.co.uk/news/articles/cmp86k870wz6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-20T09:36:53.000Z"
-  },
-  {
-   "title": "Three Kyiv bridges hit during major Russian missile attack",
-   "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-20T09:31:24.000Z"
-  },
-  {
-   "title": "Calls for consent law change after Joanne Young rape case",
-   "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-20T09:00:02.000Z"
   },
   {
    "title": "Allison Raskin’s newest rom-com novel sends hope to those struggling with OCD: ‘You can still get your happy ending’",
@@ -50,6 +50,12 @@
    "source": "Good Good Good",
    "published": "2026-11-19T23:08:00.000Z",
    "good": true
+  },
+  {
+   "title": "Calls for consent law change after Joanne Young rape case",
+   "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T09:00:02.000Z"
   },
   {
    "title": "UK braces for coldest night of autumn so far with temperature of -10C forecast",
@@ -64,12 +70,6 @@
    "published": "2026-11-20T08:07:06.000Z"
   },
   {
-   "title": "Households stockpiling 'emergency items' boosts retail sales",
-   "url": "https://news.sky.com/story/emergency-items-give-surprise-lift-to-retail-sales-13614254",
-   "source": "Sky News",
-   "published": "2026-11-20T07:04:00.000Z"
-  },
-  {
    "title": "Every Tuesday, this private chef turns ‘random’ food bank donations into 100 meals for people in need",
    "url": "https://www.goodgoodgood.co/articles/toronto-chef-food-bank-maddy-goldberg",
    "source": "Good Good Good",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Girls as young as five and women as old as 87 targeted for upskirting",
-   "url": "https://www.bbc.co.uk/news/articles/cq808rerxxp3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-20T06:06:56.000Z"
+   "title": "Households stockpiling 'emergency items' boosts retail sales",
+   "url": "https://news.sky.com/story/emergency-items-give-surprise-lift-to-retail-sales-13614254",
+   "source": "Sky News",
+   "published": "2026-11-20T07:04:00.000Z"
   },
   {
    "title": "She Checked on Her ‘Loud’ Upstairs Neighbor, Inspiring Strangers to Raise More Than $100,000",
