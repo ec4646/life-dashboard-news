@@ -1,11 +1,17 @@
 {
- "updated": "2026-11-20T11:34:02.839Z",
+ "updated": "2026-11-20T12:36:38.265Z",
  "items": [
   {
-   "title": "Three Kyiv bridges hit during major Russian missile attack",
+   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
    "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-20T11:12:57.000Z"
+   "published": "2026-11-20T12:34:54.000Z"
+  },
+  {
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-20T12:09:29.000Z"
   },
   {
    "title": "Nearly 600 women killed in South Africa within three months",
@@ -14,17 +20,17 @@
    "published": "2026-11-20T10:56:02.000Z"
   },
   {
+   "title": "Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients",
+   "url": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+   "source": "Good News Network",
+   "published": "2026-11-20T12:30:29.000Z",
+   "good": true
+  },
+  {
    "title": "Calls for consent law change after Joanne Young rape case",
    "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-20T10:49:48.000Z"
-  },
-  {
-   "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
-   "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
-   "source": "Reasons to be Cheerful",
-   "published": "2026-11-20T08:00:05.000Z",
-   "good": true
   },
   {
    "title": "South Korea catches 111 students with new measures against exam cheating",
@@ -39,17 +45,17 @@
    "published": "2026-11-20T09:55:20.000Z"
   },
   {
+   "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
+   "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-11-20T08:00:05.000Z",
+   "good": true
+  },
+  {
    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
    "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-20T09:44:56.000Z"
-  },
-  {
-   "title": "Allison Raskin’s newest rom-com novel sends hope to those struggling with OCD: ‘You can still get your happy ending’",
-   "url": "https://www.goodgoodgood.co/articles/allison-raskin-ocd-compulsively-yours-romcom",
-   "source": "Good Good Good",
-   "published": "2026-11-19T23:08:00.000Z",
-   "good": true
   },
   {
    "title": "White House removes cyber-security chief after series of tech outages",
@@ -64,29 +70,23 @@
    "published": "2026-11-20T09:36:53.000Z"
   },
   {
-   "title": "UK braces for coldest night of autumn so far with temperature of -10C forecast",
-   "url": "https://www.bbc.co.uk/weather/articles/c30rkzwvwy49o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-20T08:12:15.000Z"
+   "title": "Allison Raskin’s newest rom-com novel sends hope to those struggling with OCD: ‘You can still get your happy ending’",
+   "url": "https://www.goodgoodgood.co/articles/allison-raskin-ocd-compulsively-yours-romcom",
+   "source": "Good Good Good",
+   "published": "2026-11-19T23:08:00.000Z",
+   "good": true
+  },
+  {
+   "title": "Myanmar rejects UN court's genocide ruling as 'unfair'",
+   "url": "https://news.sky.com/story/myanmar-rejects-un-courts-rohingya-genocide-guilty-verdict-as-unfair-13614272",
+   "source": "Sky News",
+   "published": "2026-11-20T09:15:00.000Z"
   },
   {
    "title": "Every Tuesday, this private chef turns ‘random’ food bank donations into 100 meals for people in need",
    "url": "https://www.goodgoodgood.co/articles/toronto-chef-food-bank-maddy-goldberg",
    "source": "Good Good Good",
    "published": "2026-11-19T17:56:00.000Z",
-   "good": true
-  },
-  {
-   "title": "What the Brussels summit could mean for the Brexit deal",
-   "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-20T08:07:06.000Z"
-  },
-  {
-   "title": "She Checked on Her ‘Loud’ Upstairs Neighbor, Inspiring Strangers to Raise More Than $100,000",
-   "url": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
-   "source": "Good News Network",
-   "published": "2026-11-19T16:26:23.000Z",
    "good": true
   }
  ]
