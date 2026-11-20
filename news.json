@@ -1,45 +1,51 @@
 {
- "updated": "2026-11-19T17:27:21.930Z",
+ "updated": "2026-11-20T06:30:37.993Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
     {
+     "title": "The disappointment factory: fear and loathing in the camera rumor mill",
+     "url": "https://www.dpreview.com/opinion/the-disappointment-factory-fear-and-loathing-in-the-camera-rumor-mill/",
+     "source": "DPReview",
+     "published": "2026-11-19T21:00:30.000Z"
+    },
+    {
+     "title": "Heipi’s Hybrid Tripod Head Quickly Swaps Between Ball, Fluid, and Gimbal Head Modes",
+     "url": "https://petapixel.com/2026/11/19/heipis-hybrid-tripod-head-quickly-swaps-between-ball-fluid-and-gimbal-head-modes/",
+     "source": "PetaPixel",
+     "published": "2026-11-19T20:00:06.000Z"
+    },
+    {
+     "title": "SmallRig Black Friday Deals: Up to 40% Off Tripods, Lights, Batteries, and Camera Cages",
+     "url": "https://petapixel.com/2026/11/19/smallrig-black-friday-deals-up-to-40-off-tripods-lights-batteries-and-camera-cages/",
+     "source": "PetaPixel",
+     "published": "2026-11-19T19:30:41.000Z"
+    },
+    {
+     "title": "Apple’s Camera and Photo Software Lead Jon McCormack Has Retired",
+     "url": "https://petapixel.com/2026/11/19/apples-camera-and-photo-software-lead-jon-mccormack-has-retired/",
+     "source": "PetaPixel",
+     "published": "2026-11-19T18:59:59.000Z"
+    },
+    {
+     "title": "This iPhone App Lets You Take Photos By Clapping",
+     "url": "https://petapixel.com/2026/11/19/this-iphone-app-lets-you-take-photos-by-clapping/",
+     "source": "PetaPixel",
+     "published": "2026-11-19T18:00:43.000Z"
+    },
+    {
      "title": "Floods in Florida and blackouts in Kyiv: photos of the day – Thursday",
      "url": "https://www.theguardian.com/news/gallery/2026/nov/19/floods-in-florida-and-blackouts-in-kyiv-photos-of-the-day-thursday",
      "source": "The Guardian",
-     "published": "2026-11-19T17:21:17.000Z"
-    },
-    {
-     "title": "Lightroom Alternative ACDSee Photo Studio Is Leaning Heavier Into AI",
-     "url": "https://petapixel.com/2026/11/19/lightroom-alternative-acdsee-photo-studio-is-leaning-heavier-into-ai/",
-     "source": "PetaPixel",
-     "published": "2026-11-19T17:16:13.000Z"
-    },
-    {
-     "title": "Halide’s iPhone Duo Update Embraces the Crease and Adds an XL Mode",
-     "url": "https://petapixel.com/2026/11/19/halides-iphone-duo-update-embraces-the-crease-and-adds-an-xl-mode/",
-     "source": "PetaPixel",
-     "published": "2026-11-19T17:00:44.000Z"
-    },
-    {
-     "title": "The Filmmakers Behind ‘Primetime’ Printed the Entire Movie on 16mm and Rescanned It",
-     "url": "https://petapixel.com/2026/11/19/the-filmmakers-behind-primetime-printed-the-entire-film-on-16mm-and-rescanned-it/",
-     "source": "PetaPixel",
-     "published": "2026-11-19T16:23:50.000Z"
+     "published": "2026-11-19T17:44:11.000Z"
     },
     {
      "title": "Why this Tokyo photographer sold everything and started over with manual-focus lenses",
      "url": "https://www.dpreview.com/articles/why-this-tokyo-photographer-sold-everything-and-started-over-with-manual-focus-lenses/",
      "source": "DPReview",
      "published": "2026-11-19T15:56:07.000Z"
-    },
-    {
-     "title": "How Close Can an Arri-Powered Phone Get to an Alexa Cinema Camera?",
-     "url": "https://petapixel.com/2026/11/19/how-close-can-an-arri-powered-phone-get-to-an-alexa-cinema-camera/",
-     "source": "PetaPixel",
-     "published": "2026-11-19T14:30:01.000Z"
     },
     {
      "title": "‘No publicist or manager in sight’: 80s Madonna, unseen and off-duty – in pictures",
@@ -58,12 +64,6 @@
      "url": "https://www.dpreview.com/news/capture-one-adds-wired-tethering-for-the-hasselblad-x2d-ii-100c/",
      "source": "DPReview",
      "published": "2026-11-19T00:31:56.000Z"
-    },
-    {
-     "title": "Whose photo inspired you most in 2026?",
-     "url": "https://www.dpreview.com/articles/whose-photo-inspired-you-most-in-2026/",
-     "source": "DPReview",
-     "published": "2026-11-18T16:20:45.000Z"
     }
    ]
   },
@@ -72,46 +72,46 @@
    "name": "AI",
    "items": [
     {
-     "title": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
-     "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
+     "title": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
+     "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
      "source": "The Guardian",
-     "published": "2026-11-19T17:09:02.000Z"
+     "published": "2026-11-20T05:00:22.000Z"
     },
     {
-     "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
-     "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+     "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
      "source": "The Guardian",
-     "published": "2026-11-19T16:58:51.000Z"
+     "published": "2026-11-20T04:37:08.000Z"
     },
     {
-     "title": "Anthropic starts trading on Wall Street",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+     "title": "Apple is hiring engineers to build its own AI agent",
+     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
      "source": "The Verge",
-     "published": "2026-11-19T16:52:01.000Z"
+     "published": "2026-11-19T22:31:41.000Z"
     },
     {
-     "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+     "title": "A brief history of Nvidia’s recent stock fluctuations",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
      "source": "The Verge",
-     "published": "2026-11-19T15:16:45.000Z"
+     "published": "2026-11-19T21:59:35.000Z"
     },
     {
-     "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+     "title": "Meta’s Muse Charm might cost $300",
+     "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
      "source": "The Verge",
-     "published": "2026-11-19T14:25:37.000Z"
+     "published": "2026-11-19T20:22:17.000Z"
+    },
+    {
+     "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+     "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+     "source": "Ars Technica",
+     "published": "2026-11-19T20:19:28.000Z"
     },
     {
      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
      "source": "Ars Technica",
      "published": "2026-11-18T19:19:33.000Z"
-    },
-    {
-     "title": "Will Wright's next simulation will use AI to mine content from your memories",
-     "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-     "source": "Ars Technica",
-     "published": "2026-11-18T18:10:33.000Z"
     },
     {
      "title": "The AI Hype Index: AI is everywhere",
@@ -138,58 +138,58 @@
    "name": "UK politics",
    "items": [
     {
-     "title": "Cap all political donations, not only those from overseas, Burnham told",
-     "url": "https://www.theguardian.com/politics/2026/nov/19/andy-burnham-political-donations-cap-overseas-donors-elections",
+     "title": "Race to be next UN secretary general exposes divisions among world powers",
+     "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
      "source": "The Guardian",
-     "published": "2026-11-19T17:01:40.000Z"
+     "published": "2026-11-20T05:00:24.000Z"
     },
     {
-     "title": "Attempted murder arrest after councillor stabbed",
-     "url": "https://www.bbc.co.uk/news/articles/cmj6l7kp2w22o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T16:57:59.000Z"
-    },
-    {
-     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "title": "From Germany, with love: a letter to the UK | Klaus Brinkbäumer",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/20/from-germany-with-love-a-letter-to-the-uk",
      "source": "The Guardian",
-     "published": "2026-11-19T16:53:35.000Z"
+     "published": "2026-11-20T05:00:22.000Z"
     },
     {
-     "title": "EU-UK talks going down to the wire, says No 10",
+     "title": "Will Andy Burnham be the PM to undo Brexit?",
+     "url": "https://news.sky.com/story/will-andy-burnham-be-the-pm-to-undo-brexit-13614088",
+     "source": "Sky News",
+     "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+     "title": "UK and EU to agree youth mobility scheme, BBC understands",
      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T16:23:58.000Z"
-    },
-    {
-     "title": "Timetable set out for dismantling leasehold system in England and Wales",
-     "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T15:52:47.000Z"
-    },
-    {
-     "title": "Faults not fixed in 90% of homes in government insulation scheme",
-     "url": "https://www.bbc.co.uk/news/articles/c65y193gpvkgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T15:51:23.000Z"
-    },
-    {
-     "title": "'Public have heard enough from Russell Brand', says PM's spokesman",
-     "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T15:47:56.000Z"
+     "published": "2026-11-20T04:35:51.000Z"
     },
     {
      "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
      "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
      "source": "The Guardian",
-     "published": "2026-11-19T15:18:12.000Z"
+     "published": "2026-11-19T20:52:05.000Z"
     },
     {
-     "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
+     "title": "Jason White on Andy Burnham’s overtures to the EU – cartoon",
+     "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/19/jason-white-on-andy-burnhams-overtures-to-the-eu-cartoon",
      "source": "The Guardian",
-     "published": "2026-11-19T13:43:15.000Z"
+     "published": "2026-11-19T18:49:01.000Z"
+    },
+    {
+     "title": "Faults not fixed in 90% of homes in government insulation scheme",
+     "url": "https://www.bbc.co.uk/news/articles/c65y193gpvkgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T17:59:16.000Z"
+    },
+    {
+     "title": "UK to provide Ukraine with 1,000 long-range strike drones",
+     "url": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T17:59:01.000Z"
+    },
+    {
+     "title": "Timetable set out for dismantling leasehold system in England and Wales",
+     "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T17:49:48.000Z"
     },
     {
      "title": "PM is hollowing out defence, new Reform spokesperson warns",
@@ -204,64 +204,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Long-awaited pensions dashboard expected to launch in summer 2027",
-     "url": "https://www.cityam.com/long-awaited-pensions-dashboard-expected-to-launch-in-summer-2027/",
+     "title": "FTSE 100 Live: Stocks to fall as Anthropic rattles global markets",
+     "url": "https://www.cityam.com/ftse-100-live-stocks-to-fall-as-anthropic-rattles-global-markets/",
      "source": "City AM",
-     "published": "2026-11-19T17:08:19.000Z"
+     "published": "2026-11-20T06:29:29.000Z"
     },
     {
-     "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
-     "url": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
-     "source": "The Guardian",
-     "published": "2026-11-19T16:24:13.000Z"
-    },
-    {
-     "title": "Anthropic raises $81bn in record-breaking stock market debut",
-     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+     "title": "Social poker with £5 stake is booming, says dealer",
+     "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T15:58:58.000Z"
+     "published": "2026-11-20T06:19:25.000Z"
     },
     {
-     "title": "‘Pot luck service’: Royal Mail on course to miss delivery targets for fourth year in a row",
-     "url": "https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:42:33.000Z"
-    },
-    {
-     "title": "More support for households reliant on heating oil",
-     "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
+     "title": "Survey reveals 'major increase' in cost of living",
+     "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T15:22:31.000Z"
+     "published": "2026-11-20T06:12:28.000Z"
     },
     {
-     "title": "AI demand will push up interest rates around the world, IMF head warns",
-     "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:15:14.000Z"
-    },
-    {
-     "title": "Inside 2031 Ryder Cup host Camiral and how England can stage 2035 edition",
-     "url": "https://www.cityam.com/inside-2031-ryder-cup-host-camiral-and-how-england-can-stage-2035-edition/",
+     "title": "James Bond: Amazon must now master the art of keeping us wanting more",
+     "url": "https://www.cityam.com/james-bond-amazon-pattinson-keeping-us-wanting-more/",
      "source": "City AM",
-     "published": "2026-11-19T15:00:00.000Z"
+     "published": "2026-11-20T06:04:00.000Z"
     },
     {
-     "title": "Premier League clubs back directors over Manchester City legal threat",
-     "url": "https://www.cityam.com/premier-league-clubs-legal-costs-manchester-city-sponsors/",
+     "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+     "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T06:00:33.000Z"
+    },
+    {
+     "title": "Prem Rugby expansion should start with a proper London club",
+     "url": "https://www.cityam.com/prem-rugby-expansion-london-club/",
      "source": "City AM",
-     "published": "2026-11-19T14:47:43.000Z"
+     "published": "2026-11-20T05:00:00.000Z"
     },
     {
-     "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-     "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+     "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T13:35:52.000Z"
+     "published": "2026-11-20T02:54:40.000Z"
     },
     {
-     "title": "Indian driver wins $1.3m in life-changing lottery prize",
-     "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T11:38:09.000Z"
+     "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+     "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T22:13:52.000Z"
+    },
+    {
+     "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
+     "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
+     "source": "The Guardian",
+     "published": "2026-11-19T20:05:13.000Z"
+    },
+    {
+     "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+     "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+     "source": "The Guardian",
+     "published": "2026-11-19T18:15:48.000Z"
     }
    ]
   },
@@ -270,10 +270,52 @@
    "name": "Tech",
    "items": [
     {
-     "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
-     "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+     "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+     "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T00:02:07.000Z"
+    },
+    {
+     "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T23:33:51.000Z"
+    },
+    {
+     "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+     "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+     "source": "Ars Technica",
+     "published": "2026-11-19T22:16:37.000Z"
+    },
+    {
+     "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+     "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+     "source": "Ars Technica",
+     "published": "2026-11-19T21:19:12.000Z"
+    },
+    {
+     "title": "Meta now sells 3D movies on Quest VR headsets",
+     "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
      "source": "The Verge",
-     "published": "2026-11-19T17:15:00.000Z"
+     "published": "2026-11-19T21:12:06.000Z"
+    },
+    {
+     "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+     "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+     "source": "Ars Technica",
+     "published": "2026-11-19T20:29:46.000Z"
+    },
+    {
+     "title": "Google is putting AI chats right on the homepage",
+     "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+     "source": "The Verge",
+     "published": "2026-11-19T20:05:06.000Z"
+    },
+    {
+     "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+     "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+     "source": "The Verge",
+     "published": "2026-11-19T19:40:28.000Z"
     },
     {
      "title": "Dutch watchdog tells people not to buy AI smart glasses",
@@ -282,52 +324,10 @@
      "published": "2026-11-19T16:33:17.000Z"
     },
     {
-     "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-     "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-     "source": "The Verge",
-     "published": "2026-11-19T16:28:12.000Z"
-    },
-    {
-     "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
-     "url": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
-     "source": "The Verge",
-     "published": "2026-11-19T16:15:01.000Z"
-    },
-    {
-     "title": "Mouse fight club might explain why we like to watch violent things",
-     "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-     "source": "Ars Technica",
-     "published": "2026-11-19T14:04:38.000Z"
-    },
-    {
-     "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-     "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-     "source": "Ars Technica",
-     "published": "2026-11-19T13:40:02.000Z"
-    },
-    {
-     "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-     "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+     "title": "Anthropic raises $81bn in record-breaking stock market debut",
+     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T12:26:39.000Z"
-    },
-    {
-     "title": "How to tell a cyberattack from a plain old outage",
-     "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-     "source": "Ars Technica",
-     "published": "2026-11-19T11:13:01.000Z"
-    },
-    {
-     "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-     "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T02:59:06.000Z"
-    },
-    {
-     "title": "The seven Anthropic founders who are about to become multi-billionaires",
-     "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-18T23:42:07.000Z"
+     "published": "2026-11-19T15:58:58.000Z"
     }
    ]
   },
@@ -336,10 +336,34 @@
    "name": "Arts",
    "items": [
     {
-     "title": "SHoP Architects designs Novak Djokovic-backed Miami supertall skyscraper",
-     "url": "https://www.dezeen.com/2026/11/19/shop-architects-novak-djokovic-atma-miami-supertall-skyscraper/",
+     "title": "TV tonight: Rob Brydon’s sweet sitcom about a divorced landlord",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/20/tv-tonight-rob-brydons-sweet-sitcom-about-a-divorced-landlord",
+     "source": "The Guardian",
+     "published": "2026-11-20T06:15:23.000Z"
+    },
+    {
+     "title": "Bennetts Associates revives Victorian hospital for University of Edinburgh",
+     "url": "https://www.dezeen.com/2026/11/20/bennetts-associates-edinburgh-futures-institute-rias-doolan-award/",
      "source": "Dezeen",
-     "published": "2026-11-19T17:00:00.000Z"
+     "published": "2026-11-20T06:00:00.000Z"
+    },
+    {
+     "title": "Framery's flexible pod subscription tackles office furniture waste issue",
+     "url": "https://www.dezeen.com/2026/11/20/framerys-flexible-office-pod-subscription-office-needs/",
+     "source": "Dezeen",
+     "published": "2026-11-20T05:00:00.000Z"
+    },
+    {
+     "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
+     "url": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T21:14:23.000Z"
+    },
+    {
+     "title": "Star Wars actor 'thrilled' to voice the Welsh Luke Skywalker",
+     "url": "https://www.bbc.co.uk/news/articles/cjy5xnye765zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T19:07:07.000Z"
     },
     {
      "title": "‘In our lands the rain is made of bullets’: Palestinian artists look back in anger, melancholy and defiance",
@@ -348,40 +372,16 @@
      "published": "2026-11-19T16:58:24.000Z"
     },
     {
+     "title": "PM urges social media companies to 'show some decency' and take down Brand video",
+     "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-19T15:47:56.000Z"
+    },
+    {
      "title": "Grand Theft Auto would be a huge TV series – here’s why it will never happen",
      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/grand-theft-auto-would-be-a-huge-tv-series-heres-why-it-will-never-happen",
      "source": "The Guardian",
      "published": "2026-11-19T15:20:16.000Z"
-    },
-    {
-     "title": "Alex Cox: ‘John Lydon said Sid and Nancy was a nightmarish piece of garbage’",
-     "url": "https://www.theguardian.com/film/2026/nov/19/alex-cox-john-lydon-said-sid-and-nancy-was-a-nightmarish-piece-of-garbage",
-     "source": "The Guardian",
-     "published": "2026-11-19T15:02:15.000Z"
-    },
-    {
-     "title": "Fiona Harvey to appear at Crown Court on harassment charge",
-     "url": "https://www.bbc.co.uk/news/articles/cq143j81g6l3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T13:39:56.000Z"
-    },
-    {
-     "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
-     "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T12:17:32.000Z"
-    },
-    {
-     "title": "Ella Langley sweeps Country Music Awards as Taylor Swift performs",
-     "url": "https://www.bbc.co.uk/news/articles/cw1md5m39n35o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T12:01:35.000Z"
-    },
-    {
-     "title": "Fictional Project designs home in Kerala to feel \"one with the landscape\"",
-     "url": "https://www.dezeen.com/2026/11/19/fictional-project-interstitial-living/",
-     "source": "Dezeen",
-     "published": "2026-11-19T11:30:00.000Z"
     },
     {
      "title": "Turner Duckworth dips Maker's Mark's new identity in red wax",
@@ -402,40 +402,52 @@
    "name": "London",
    "items": [
     {
-     "title": "Leave requests and absences soar as gamers get their hands on GTA VI – data",
-     "url": "https://www.standard.co.uk/news/uk/andy-burnham-downing-street-currys-schools-uswitch-b1305607.html",
+     "title": "Met Police trial facial recognition tech on phones",
+     "url": "https://www.bbc.co.uk/news/articles/ckq5vz28367do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T06:15:00.000Z"
+    },
+    {
+     "title": "Bruno Mars pens emotional tribute after his father passes away",
+     "url": "https://www.standard.co.uk/showbiz/celebrity-news/bruno-mars-mars-grammy-instagram-elvis-presley-b1305654.html",
      "source": "The Standard",
-     "published": "2026-11-19T17:21:20.000Z"
+     "published": "2026-11-20T06:10:33.000Z"
     },
     {
-     "title": "Joanne Young vows to help others and says abuse ‘will not define me’",
-     "url": "https://www.standard.co.uk/news/crime/winchester-crown-court-swindon-bedfordshire-somerset-press-association-b1305606.html",
+     "title": "What time does today’s snap Tube strike start and which lines will be hit?",
+     "url": "https://www.standard.co.uk/news/london/tube-strike-friday-piccadilly-district-line-tssa-union-b1305591.html",
      "source": "The Standard",
-     "published": "2026-11-19T17:16:47.000Z"
+     "published": "2026-11-20T06:08:20.000Z"
     },
     {
-     "title": "Baby marmoset rescued from shed finds new mum",
-     "url": "https://www.bbc.co.uk/news/articles/cm0qj1ep5v4po?at_medium=RSS&at_campaign=rss",
+     "title": "Piccadilly line services to stop for 24-hour strike",
+     "url": "https://www.bbc.co.uk/news/articles/c6lyw4zd1e45o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T16:57:33.000Z"
+     "published": "2026-11-20T06:07:16.000Z"
     },
     {
-     "title": "Mayor of London announces reshuffle of deputies",
-     "url": "https://www.bbc.co.uk/news/articles/cx30gmp91v5jo?at_medium=RSS&at_campaign=rss",
+     "title": "Northern line upgrades give green light to colour blind drivers",
+     "url": "https://www.bbc.co.uk/news/articles/ckz74vwx334do?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-19T16:35:19.000Z"
+     "published": "2026-11-20T06:03:18.000Z"
     },
     {
-     "title": "Hundreds still homeless after being evacuated from 'unsafe' flats",
-     "url": "https://www.bbc.co.uk/news/articles/cj4gne6eezrwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-19T15:57:16.000Z"
-    },
-    {
-     "title": "Tories select James Cleverly as candidate for London mayor",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+     "title": "Academy trust pays out after Prevent threat over children’s Palestine badges",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/20/lion-academy-trust-children-palestine-badges-prevent-london",
      "source": "The Guardian",
-     "published": "2026-11-19T11:53:11.000Z"
+     "published": "2026-11-20T06:00:23.000Z"
+    },
+    {
+     "title": "Patient ‘horrified’ to find her sensitive discussions were shared with more than 100,000 NHS staff",
+     "url": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
+     "source": "The Guardian",
+     "published": "2026-11-20T05:00:23.000Z"
+    },
+    {
+     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-19T18:02:33.000Z"
     },
     {
      "title": "\"We're THIS Close To Saving London's Cinema Museum\"",
@@ -448,18 +460,6 @@
      "url": "https://londonist.com/london/history/a-swim-in-the-floating-baths-of-charing-cross",
      "source": "Londonist",
      "published": "2026-11-19T08:00:03.000Z"
-    },
-    {
-     "title": "Car use in London forecast to rise by 10% in next decade",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
-     "source": "The Guardian",
-     "published": "2026-11-19T06:00:20.000Z"
-    },
-    {
-     "title": "Tricks! Traps! Riddles! Jan van Eyck’s portraits look vividly real – but are full of secret messages. What do they mean?",
-     "url": "https://www.theguardian.com/artanddesign/2026/nov/19/jan-van-eyck-portraits-national-gallery-frames-inscriptions",
-     "source": "The Guardian",
-     "published": "2026-11-19T05:00:19.000Z"
     }
    ]
   }
