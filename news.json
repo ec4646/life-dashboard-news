@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-21T12:12:50.803Z",
+ "updated": "2026-11-21T17:15:29.997Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
+    {
+     "title": "All 25 Beautiful Winners From the Black and White Photo Awards 2026",
+     "url": "https://petapixel.com/2026/11/21/all-25-beautiful-bw-winners-from-the-black-and-white-photo-awards-2026/",
+     "source": "PetaPixel",
+     "published": "2026-11-21T17:00:20.000Z"
+    },
+    {
+     "title": "I Couldn’t Imagine Working With a Photo Editor on a Different Continent",
+     "url": "https://petapixel.com/2026/11/21/i-couldnt-imagine-working-with-a-photo-editor-thousands-of-miles-away/",
+     "source": "PetaPixel",
+     "published": "2026-11-21T14:00:02.000Z"
+    },
     {
      "title": "This Photographer Built a DIY Digital Rangefinder Using Two Old Canon Cameras",
      "url": "https://petapixel.com/2026/11/21/this-photographer-built-a-diy-digital-rangefinder-using-two-old-canon-cameras/",
@@ -36,18 +48,6 @@
      "published": "2026-11-21T02:53:17.000Z"
     },
     {
-     "title": "Holiday Gift Guide 2026: Cameras, Tripods, Storage and Software for Photographers",
-     "url": "https://petapixel.com/2026/11/20/holiday-gift-guide-2026-cameras-tripods-storage-and-software-for-photographers/",
-     "source": "PetaPixel",
-     "published": "2026-11-20T19:56:49.000Z"
-    },
-    {
-     "title": "It Should Have Been Zuiko",
-     "url": "https://petapixel.com/2026/11/20/it-should-have-been-zuiko/",
-     "source": "PetaPixel",
-     "published": "2026-11-20T19:30:09.000Z"
-    },
-    {
      "title": "The Camera Obscura Turns Photography’s History Upside Down",
      "url": "https://aperture.org/editorial/the-camera-obscura-turns-photographys-history-upside-down/",
      "source": "Aperture",
@@ -72,22 +72,34 @@
    "name": "AI",
    "items": [
     {
-     "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
+     "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
      "source": "The Guardian",
-     "published": "2026-11-21T12:00:58.000Z"
+     "published": "2026-11-21T16:39:49.000Z"
     },
     {
-     "title": "‘I’m opening the cage of a monster’: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
-     "url": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
+     "title": "International UN talks on controlling use of autonomous weapons collapse",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
      "source": "The Guardian",
-     "published": "2026-11-21T11:00:57.000Z"
+     "published": "2026-11-21T16:36:11.000Z"
     },
     {
-     "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
-     "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+     "title": "Can Anthropic afford to put safety first?",
+     "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+     "source": "The Verge",
+     "published": "2026-11-21T15:00:00.000Z"
+    },
+    {
+     "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+     "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
      "source": "The Guardian",
-     "published": "2026-11-21T06:00:52.000Z"
+     "published": "2026-11-21T14:00:01.000Z"
+    },
+    {
+     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+     "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+     "source": "The Verge",
+     "published": "2026-11-21T14:00:00.000Z"
     },
     {
      "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -102,6 +114,12 @@
      "published": "2026-11-20T21:47:10.000Z"
     },
     {
+     "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+     "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+     "source": "Ars Technica",
+     "published": "2026-11-20T20:59:08.000Z"
+    },
+    {
      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
      "source": "The Verge",
@@ -112,24 +130,6 @@
      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
      "source": "MIT Technology Review",
      "published": "2026-11-20T18:15:15.000Z"
-    },
-    {
-     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-     "source": "The Verge",
-     "published": "2026-11-20T16:34:13.000Z"
-    },
-    {
-     "title": "The week everything fell apart",
-     "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-     "source": "The Verge",
-     "published": "2026-11-20T14:06:59.000Z"
-    },
-    {
-     "title": "The AI Hype Index: AI is everywhere",
-     "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-     "source": "MIT Technology Review",
-     "published": "2026-11-18T14:42:44.000Z"
     }
    ]
   },
@@ -138,22 +138,28 @@
    "name": "UK politics",
    "items": [
     {
-     "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-     "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-     "source": "The Guardian",
-     "published": "2026-11-21T11:33:01.000Z"
+     "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
+     "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T16:11:58.000Z"
+    },
+    {
+     "title": "Scouts say they face £1m tourist tax cost for overnight trips",
+     "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T13:29:55.000Z"
     },
     {
      "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
      "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
      "source": "The Guardian",
-     "published": "2026-11-21T11:08:14.000Z"
+     "published": "2026-11-21T12:22:54.000Z"
     },
     {
-     "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
-     "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T10:53:21.000Z"
+     "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+     "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+     "source": "The Guardian",
+     "published": "2026-11-21T11:33:01.000Z"
     },
     {
      "title": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
@@ -186,12 +192,6 @@
      "published": "2026-11-20T21:43:22.000Z"
     },
     {
-     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-     "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T17:49:48.000Z"
-    },
-    {
      "title": "Will Andy Burnham be the PM to undo Brexit?",
      "url": "https://news.sky.com/story/will-andy-burnham-be-the-pm-to-undo-brexit-13614088",
      "source": "Sky News",
@@ -204,28 +204,28 @@
    "name": "Business",
    "items": [
     {
+     "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+     "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+     "source": "The Guardian",
+     "published": "2026-11-21T13:00:01.000Z"
+    },
+    {
      "title": "Sessions offer advice on rising energy costs",
      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T12:09:49.000Z"
     },
     {
-     "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+     "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+     "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
      "source": "The Guardian",
-     "published": "2026-11-21T11:00:56.000Z"
+     "published": "2026-11-21T12:00:58.000Z"
     },
     {
-     "title": "China commits to low-carbon electrification and help for others to improve",
-     "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+     "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
      "source": "The Guardian",
-     "published": "2026-11-21T09:47:57.000Z"
-    },
-    {
-     "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-     "url": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
-     "source": "The Guardian",
-     "published": "2026-11-21T08:00:53.000Z"
+     "published": "2026-11-21T12:00:58.000Z"
     },
     {
      "title": "Exclusive: Timms welfare review to dismiss change to Pip eligibility",
@@ -270,16 +270,28 @@
    "name": "Tech",
    "items": [
     {
+     "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+     "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+     "source": "The Verge",
+     "published": "2026-11-21T16:00:00.000Z"
+    },
+    {
+     "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+     "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+     "source": "The Verge",
+     "published": "2026-11-21T16:00:00.000Z"
+    },
+    {
+     "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+     "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+     "source": "The Verge",
+     "published": "2026-11-21T14:55:28.000Z"
+    },
+    {
      "title": "“Race realism” isn’t realistic—and it isn’t good science",
      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
      "source": "Ars Technica",
      "published": "2026-11-21T12:01:13.000Z"
-    },
-    {
-     "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-     "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-     "source": "The Verge",
-     "published": "2026-11-21T12:00:00.000Z"
     },
     {
      "title": "Tech Now",
@@ -294,7 +306,7 @@
      "published": "2026-11-21T00:06:11.000Z"
     },
     {
-     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+     "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-20T23:08:57.000Z"
@@ -312,18 +324,6 @@
      "published": "2026-11-20T22:16:51.000Z"
     },
     {
-     "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-     "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-     "source": "The Verge",
-     "published": "2026-11-20T20:43:52.000Z"
-    },
-    {
-     "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-     "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-     "source": "The Verge",
-     "published": "2026-11-20T19:35:06.000Z"
-    },
-    {
      "title": "White House removes cyber-security chief after series of tech outages",
      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -336,10 +336,28 @@
    "name": "Arts",
    "items": [
     {
+     "title": "A Robbie Williams film starring a CGI chimp helped me come to terms with my hearing loss",
+     "url": "https://www.theguardian.com/culture/2026/nov/21/my-cultural-awakening-robbie-williams-biopic-better-man-hearing-loss-gambling-addiction",
+     "source": "The Guardian",
+     "published": "2026-11-21T12:00:58.000Z"
+    },
+    {
      "title": "ZHA completes “secular” Théâtre Royal de Rabat in Morocco",
      "url": "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco/",
      "source": "Dezeen",
      "published": "2026-11-21T11:00:00.000Z"
+    },
+    {
+     "title": "Fontaines DC review – thrilling gothic grandeur from a band vaulting into greatness",
+     "url": "https://www.theguardian.com/music/2026/nov/21/fontaines-dc-review-liverpool-arena-uk-tour",
+     "source": "The Guardian",
+     "published": "2026-11-21T10:42:12.000Z"
+    },
+    {
+     "title": "‘Shakespearean tale of ego, greed and ambition’: the scandalous story of televangelism",
+     "url": "https://www.theguardian.com/film/2026/nov/21/primetime-preachers-documentary-televangelism",
+     "source": "The Guardian",
+     "published": "2026-11-21T10:00:56.000Z"
     },
     {
      "title": "Five buildings where the staircase is the facade",
@@ -354,18 +372,6 @@
      "published": "2026-11-21T09:27:12.000Z"
     },
     {
-     "title": "Light in the dark: 20 long books for short winter days",
-     "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/21/light-in-the-dark-20-long-books-for-short-winter-days",
-     "source": "The Guardian",
-     "published": "2026-11-21T09:00:53.000Z"
-    },
-    {
-     "title": "‘In the office, there was a sharp intake of breath’: why has the BBC decided to celebrate Christmas earlier than ever?",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/why-bbc-showing-christmas-shows-earlier-than-ever",
-     "source": "The Guardian",
-     "published": "2026-11-21T09:00:53.000Z"
-    },
-    {
      "title": "The film about fencing set between two cultures",
      "url": "https://www.bbc.co.uk/news/articles/ce3r29wdqrno?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -376,12 +382,6 @@
      "url": "https://www.bbc.co.uk/news/articles/cvx2xprxp5ryo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T07:12:52.000Z"
-    },
-    {
-     "title": "You Can See Everything’s vibes-check approach is an insult to objective truth",
-     "url": "https://www.theguardian.com/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
-     "source": "The Guardian",
-     "published": "2026-11-21T07:00:53.000Z"
     },
     {
      "title": "Turner Duckworth dips Maker's Mark's new identity in red wax",
@@ -402,22 +402,28 @@
    "name": "London",
    "items": [
     {
-     "title": "Piccadilly line services resume after 24-hour strike",
+     "title": "Tottenham 2-0 Ipswich: Luca Williams-Barnett announces himself with man-of-the-match display",
+     "url": "https://www.standard.co.uk/sport/football/tottenham-vs-ipswich-williams-barnett-b1305833.html",
+     "source": "The Standard",
+     "published": "2026-11-21T17:05:40.000Z"
+    },
+    {
+     "title": "Chelsea player ratings vs Leeds: Cole Palmer anonymous and Estevao blunt as Blues humiliated at home",
+     "url": "https://www.standard.co.uk/sport/football/chelsea-fc-player-ratings-vs-leeds-palmer-estevao-b1305837.html",
+     "source": "The Standard",
+     "published": "2026-11-21T17:05:34.000Z"
+    },
+    {
+     "title": "Man dies putting up shopping centre festive lights",
+     "url": "https://www.bbc.co.uk/news/articles/c64gnr08d0dpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T16:17:31.000Z"
+    },
+    {
+     "title": "Piccadilly line strike ends after 24-hour walkout",
      "url": "https://www.bbc.co.uk/news/articles/c6lyw4zd1e45o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T12:08:22.000Z"
-    },
-    {
-     "title": "Two men arrested as 15-year-old girl is raped in London park",
-     "url": "https://www.standard.co.uk/news/crime/girl-raped-london-park-rosehill-west-sutton-b1305814.html",
-     "source": "The Standard",
-     "published": "2026-11-21T12:07:30.000Z"
-    },
-    {
-     "title": "England vs New Zealand LIVE: Rugby match stream, latest team news, lineups, TV, prediction",
-     "url": "https://www.standard.co.uk/sport/rugby/england-vs-new-zealand-live-stream-latest-score-updates-result-b1305810.html",
-     "source": "The Standard",
-     "published": "2026-11-21T12:06:08.000Z"
     },
     {
      "title": "Cuban posters on show after blackouts cause delays",
@@ -430,12 +436,6 @@
      "url": "https://www.theguardian.com/law/2026/nov/21/campaigning-women-against-rape-50-years-uk-criminal-justice-system",
      "source": "The Guardian",
      "published": "2026-11-21T11:00:56.000Z"
-    },
-    {
-     "title": "Park tree collapse caused by fungal infection",
-     "url": "https://www.bbc.co.uk/news/articles/cm0ev45ql53eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T08:15:00.000Z"
     },
     {
      "title": "\"I Was Hooked\": Memories Of Londoners' First Football Matches",
