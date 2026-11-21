@@ -1,11 +1,30 @@
 {
- "updated": "2026-11-21T00:10:50.436Z",
+ "updated": "2026-11-21T01:14:05.073Z",
  "items": [
+  {
+   "title": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
+   "url": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-21T01:07:01.000Z"
+  },
+  {
+   "title": "'I was exhausted': Two days in the shoes of a tradwife",
+   "url": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-21T00:29:00.000Z"
+  },
   {
    "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
    "url": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-21T00:08:19.000Z"
+  },
+  {
+   "title": "33 Kids Wrote Letters to a Wounded Veteran. 50 Years Later, His Son Is Searching to Thank Each One",
+   "url": "https://www.goodnewsnetwork.org/__trashed-70/",
+   "source": "Good News Network",
+   "published": "2026-11-20T22:00:41.000Z",
+   "good": true
   },
   {
    "title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -20,29 +39,10 @@
    "published": "2026-11-21T00:03:16.000Z"
   },
   {
-   "title": "33 Kids Wrote Letters to a Wounded Veteran. 50 Years Later, His Son Is Searching to Thank Each One",
-   "url": "https://www.goodnewsnetwork.org/__trashed-70/",
-   "source": "Good News Network",
-   "published": "2026-11-20T22:00:41.000Z",
-   "good": true
-  },
-  {
    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
    "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-21T00:02:09.000Z"
-  },
-  {
-   "title": "Dead dogs keep turning up in the Philippines - and their owners want justice",
-   "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-20T23:20:33.000Z"
-  },
-  {
-   "title": "Man found guilty of starting LA's deadly Palisades fire in 2025",
-   "url": "https://news.sky.com/story/man-found-guilty-of-starting-deadly-palisades-fire-in-los-angeles-in-2025-13614570",
-   "source": "Sky News",
-   "published": "2026-11-20T23:09:00.000Z"
   },
   {
    "title": "Community Steps Up to Replace Teen Business Owner’s Stolen Landscaping Equipment",
@@ -52,22 +52,22 @@
    "good": true
   },
   {
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-20T22:42:47.000Z"
+   "published": "2026-11-21T00:01:39.000Z"
   },
   {
-   "title": "French police officers sentenced for beating of music producer Michel Zecler",
-   "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-20T22:37:09.000Z"
+   "title": "NHS warns of 'alarming' rise in hospital admissions for 'silent killer'",
+   "url": "https://news.sky.com/story/nhs-warns-of-alarming-rise-in-hospital-admissions-for-high-blood-pressure-13614403",
+   "source": "Sky News",
+   "published": "2026-11-21T00:01:00.000Z"
   },
   {
-   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+   "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-20T21:57:07.000Z"
+   "published": "2026-11-20T23:20:33.000Z"
   },
   {
    "title": "Rhino Dung Paper Is How This Family Makes Money and Protects These Amazing Animals",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Cold weather alert extended - as temperatures could drop to minus 10C",
-   "url": "https://news.sky.com/story/cold-weather-alert-extended-as-temperatures-could-drop-to-minus-10c-13614551",
+   "title": "Man found guilty of starting LA's deadly Palisades fire in 2025",
+   "url": "https://news.sky.com/story/man-found-guilty-of-starting-deadly-palisades-fire-in-los-angeles-in-2025-13614570",
    "source": "Sky News",
-   "published": "2026-11-20T21:55:00.000Z"
+   "published": "2026-11-20T23:09:00.000Z"
   },
   {
    "title": "Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients",
