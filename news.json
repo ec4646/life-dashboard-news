@@ -1,10 +1,28 @@
 {
- "updated": "2026-11-22T12:12:24.906Z",
+ "updated": "2026-11-22T17:15:10.406Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
+    {
+     "title": "Between Moonlight and Aurora: Photographing East Greenland After Dark",
+     "url": "https://petapixel.com/2026/11/22/between-moonlight-and-aurora-photographing-east-greenland-after-dark/",
+     "source": "PetaPixel",
+     "published": "2026-11-22T15:00:59.000Z"
+    },
+    {
+     "title": "Tyson Fury looks back: ‘Once the Anthony Joshua fight is over, what will I do next? Walking the dog ain’t gonna cut it’",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/tyson-fury-boxer-looks-back-after-anthony-joshua-fight-what-next",
+     "source": "The Guardian",
+     "published": "2026-11-22T14:00:29.000Z"
+    },
+    {
+     "title": "Same light, same result: iPhone 18 Pro’s sensor isn’t outplaying larger ones",
+     "url": "https://www.dpreview.com/articles/putting-equivalence-to-the-test-with-the-iphone-18-pro/",
+     "source": "DPReview",
+     "published": "2026-11-22T14:00:00.000Z"
+    },
     {
      "title": "The vibe code revolution: AI hackers are rewriting what your camera can do",
      "url": "https://www.dpreview.com/articles/the-vibe-code-revolution-ai-hackers-are-rewriting-what-your-camera-can-do/",
@@ -24,12 +42,6 @@
      "published": "2026-11-21T14:00:02.000Z"
     },
     {
-     "title": "This Photographer Built a DIY Digital Rangefinder Using Two Old Canon Cameras",
-     "url": "https://petapixel.com/2026/11/21/this-photographer-built-a-diy-digital-rangefinder-using-two-old-canon-cameras/",
-     "source": "PetaPixel",
-     "published": "2026-11-21T12:00:55.000Z"
-    },
-    {
      "title": "‘Napping together on the reeds, the swans appeared luminous’: Noah Forster’s best phone picture",
      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/21/noah-forster-photographer-best-phone-picture-swans",
      "source": "The Guardian",
@@ -42,12 +54,6 @@
      "published": "2026-11-21T08:00:53.000Z"
     },
     {
-     "title": "Robert Pattinson’s weird James Bond and has GTA 6 gone woke? | The Close Up",
-     "url": "https://www.theguardian.com/news/audio/2026/nov/21/robert-pattinson-weird-james-bond-has-gta-6-gone-woke-the-close-up",
-     "source": "The Guardian",
-     "published": "2026-11-21T03:00:46.000Z"
-    },
-    {
      "title": "Apple’s iPhone camera chief, an opponent of AI-altered photos, has retired",
      "url": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
      "source": "DPReview",
@@ -58,12 +64,6 @@
      "url": "https://aperture.org/editorial/the-camera-obscura-turns-photographys-history-upside-down/",
      "source": "Aperture",
      "published": "2026-11-20T18:59:14.000Z"
-    },
-    {
-     "title": "Thypoch is launching its latest line of AF lenses with a $349 F1.4 prime for X-mount",
-     "url": "https://www.dpreview.com/news/thypoch-sculptor-23mm-f1p4-af-prime-lens-x-mount-announcement/",
-     "source": "DPReview",
-     "published": "2026-11-20T12:00:00.000Z"
     }
    ]
   },
@@ -72,22 +72,28 @@
    "name": "AI",
    "items": [
     {
-     "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+     "title": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
      "source": "The Guardian",
-     "published": "2026-11-22T12:00:29.000Z"
+     "published": "2026-11-22T16:00:31.000Z"
     },
     {
-     "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+     "title": "Will fragile bipartisanship on AI survive the silly season, or is parliament heading for a holiday meltdown? | Josh Butler",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/23/will-fragile-bipartisanship-on-ai-survive-silly-season-or-is-parliament-heading-for-a-holiday-meltdown-the-agenda",
      "source": "The Guardian",
-     "published": "2026-11-22T11:00:26.000Z"
+     "published": "2026-11-22T14:00:32.000Z"
     },
     {
-     "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
-     "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+     "title": "The vibe-coding revolution is coming to all the gadgets",
+     "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+     "source": "The Verge",
+     "published": "2026-11-22T13:00:00.000Z"
+    },
+    {
+     "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
      "source": "The Guardian",
-     "published": "2026-11-22T09:00:22.000Z"
+     "published": "2026-11-22T12:12:07.000Z"
     },
     {
      "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -100,12 +106,6 @@
      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
      "source": "The Verge",
      "published": "2026-11-21T15:00:00.000Z"
-    },
-    {
-     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-     "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-     "source": "The Verge",
-     "published": "2026-11-21T14:00:00.000Z"
     },
     {
      "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -138,34 +138,40 @@
    "name": "UK politics",
    "items": [
     {
+     "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+     "source": "The Guardian",
+     "published": "2026-11-22T16:12:54.000Z"
+    },
+    {
+     "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
+     "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:43:01.000Z"
+    },
+    {
+     "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
+     "url": "https://www.bbc.co.uk/news/articles/cr868jnlllpgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T13:15:57.000Z"
+    },
+    {
+     "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+     "source": "The Guardian",
+     "published": "2026-11-22T12:50:11.000Z"
+    },
+    {
+     "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
+     "source": "The Guardian",
+     "published": "2026-11-22T12:36:58.000Z"
+    },
+    {
      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-22T11:50:20.000Z"
-    },
-    {
-     "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:46:21.000Z"
-    },
-    {
-     "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
-     "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:41:49.000Z"
-    },
-    {
-     "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
-     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:37:52.000Z"
-    },
-    {
-     "title": "The looming UK winter may spawn a double headache for Andy Burnham",
-     "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:24:22.000Z"
     },
     {
      "title": "MP criticises company ownership register plans",
@@ -186,12 +192,6 @@
      "published": "2026-11-21T21:39:22.000Z"
     },
     {
-     "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
-     "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T19:33:49.000Z"
-    },
-    {
      "title": "Will Andy Burnham be the PM to undo Brexit?",
      "url": "https://news.sky.com/story/will-andy-burnham-be-the-pm-to-undo-brexit-13614088",
      "source": "Sky News",
@@ -204,28 +204,34 @@
    "name": "Business",
    "items": [
     {
+     "title": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+     "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:43:47.000Z"
+    },
+    {
+     "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+     "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T13:50:21.000Z"
+    },
+    {
      "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
      "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
      "source": "The Guardian",
      "published": "2026-11-22T12:00:29.000Z"
     },
     {
-     "title": "Cloned number plate victims in England and Wales to get new reporting tool",
-     "url": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+     "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
      "source": "The Guardian",
-     "published": "2026-11-22T11:59:28.000Z"
+     "published": "2026-11-22T12:00:29.000Z"
     },
     {
      "title": "Slumping London flat prices spark landlord return",
      "url": "https://www.cityam.com/slumping-london-flat-prices-spark-landlord-return/",
      "source": "City AM",
      "published": "2026-11-22T11:35:47.000Z"
-    },
-    {
-     "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
-     "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
-     "source": "The Guardian",
-     "published": "2026-11-22T11:00:26.000Z"
     },
     {
      "title": "British Airways owner tells Burnham Heathrow’s third runway ‘doomed to failure’",
@@ -256,12 +262,6 @@
      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T12:09:49.000Z"
-    },
-    {
-     "title": "Can AI really help spot Black Friday deals? We put it to the test",
-     "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T00:06:11.000Z"
     }
    ]
   },
@@ -270,28 +270,34 @@
    "name": "Tech",
    "items": [
     {
+     "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+     "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+     "source": "The Verge",
+     "published": "2026-11-22T17:00:00.000Z"
+    },
+    {
+     "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+     "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+     "source": "The Verge",
+     "published": "2026-11-22T16:33:29.000Z"
+    },
+    {
+     "title": "Protesters storm Meta offices in India",
+     "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+     "source": "The Verge",
+     "published": "2026-11-22T15:15:07.000Z"
+    },
+    {
+     "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+     "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+     "source": "Ars Technica",
+     "published": "2026-11-22T12:07:41.000Z"
+    },
+    {
      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
      "source": "Ars Technica",
      "published": "2026-11-21T22:12:41.000Z"
-    },
-    {
-     "title": "Amazon is complaining about NYC Council on shipping labels, too",
-     "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-     "source": "The Verge",
-     "published": "2026-11-21T21:59:31.000Z"
-    },
-    {
-     "title": "The FBI and USDA were reportedly hacked",
-     "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-     "source": "The Verge",
-     "published": "2026-11-21T17:42:27.000Z"
-    },
-    {
-     "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-     "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-     "source": "The Verge",
-     "published": "2026-11-21T16:00:00.000Z"
     },
     {
      "title": "“Race realism” isn’t realistic—and it isn’t good science",
@@ -306,6 +312,12 @@
      "published": "2026-11-21T01:00:00.000Z"
     },
     {
+     "title": "Can AI really help spot Black Friday deals? We put it to the test",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T00:06:11.000Z"
+    },
+    {
      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -316,18 +328,6 @@
      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-20T22:53:24.000Z"
-    },
-    {
-     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T22:42:47.000Z"
-    },
-    {
-     "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-     "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-     "source": "Ars Technica",
-     "published": "2026-11-20T22:28:24.000Z"
     }
    ]
   },
@@ -336,40 +336,40 @@
    "name": "Arts",
    "items": [
     {
+     "title": "Hark! Errollyn Wallen’s glittering nativity opera A Christmas Miracle is a credit to Britten’s community vision",
+     "url": "https://www.theguardian.com/music/2026/nov/22/a-christmas-miracle-review-orford-church-suffolk-errollyn-wallen-benjamin-britten",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:15:14.000Z"
+    },
+    {
+     "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
+     "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+     "source": "The Guardian",
+     "published": "2026-11-22T15:07:42.000Z"
+    },
+    {
+     "title": "Interpol and Bloc Party review – two of 00s indie’s most revered acts go toe-to-toe",
+     "url": "https://www.theguardian.com/music/2026/nov/22/interpol-bloc-party-review-utilita-arena-cardiff",
+     "source": "The Guardian",
+     "published": "2026-11-22T14:03:51.000Z"
+    },
+    {
+     "title": "Miley Cyrus weds drummer Maxx Morando in California – reports",
+     "url": "https://www.theguardian.com/music/2026/nov/22/miley-cyrus-maxx-morando-wedding",
+     "source": "The Guardian",
+     "published": "2026-11-22T13:49:58.000Z"
+    },
+    {
      "title": "Domes depict constellations of missiles in the night sky at Sharjah Architecture Triennial",
      "url": "https://www.dezeen.com/2026/11/22/after-night-there-is-nothing-sharjah-architecture-triennial/",
      "source": "Dezeen",
      "published": "2026-11-22T11:00:00.000Z"
     },
     {
-     "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
-     "url": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
-     "source": "The Guardian",
-     "published": "2026-11-22T10:59:28.000Z"
-    },
-    {
-     "title": "‘He’s open and affable – I avoid being recognised like the plague’: Steve Coogan and Rob Brydon on celebrity, friendship and their trip to the Arctic circle",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/22/the-trip-northern-lights-steve-coogan-rob-brydon-interview",
-     "source": "The Guardian",
-     "published": "2026-11-22T10:00:24.000Z"
-    },
-    {
-     "title": "‘Harsh to be under her thumb’: Pitchfork’s Ryan Schreiber on selling to Condé Nast and Anna Wintour",
-     "url": "https://www.theguardian.com/books/2026/nov/22/pitchfork-ryan-schreiber-selling-conde-nast-anna-wintour",
-     "source": "The Guardian",
-     "published": "2026-11-22T10:00:23.000Z"
-    },
-    {
      "title": "Eight furniture designs informed by life in New York City",
      "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/",
      "source": "Dezeen",
      "published": "2026-11-22T10:00:00.000Z"
-    },
-    {
-     "title": "‘I do a really good version of AC/DC’s Highway to Hell, which throws people’: Sharleen Spiteri’s honest playlist",
-     "url": "https://www.theguardian.com/music/2026/nov/22/sharleen-spiteri-texas-honest-playlist-acdc-elvis-costello",
-     "source": "The Guardian",
-     "published": "2026-11-22T09:00:22.000Z"
     },
     {
      "title": "Miley Cyrus marries Maxx Morando in California ceremony",
@@ -402,16 +402,22 @@
    "name": "London",
    "items": [
     {
-     "title": "Liverpool vs Man Utd free bets: Four 50/1 offers for Anfield clash",
-     "url": "https://www.standard.co.uk/sport/betting/liverpool-vs-man-utd-free-bets-premier-league-b1305715.html",
+     "title": "Liverpool vs Manchester United LIVE: Premier League latest score, match stream, goal updates and fan reaction",
+     "url": "https://www.standard.co.uk/sport/football/liverpool-fc-vs-man-utd-live-stream-latest-score-updates-result-premier-league-2026-b1305892.html",
      "source": "The Standard",
-     "published": "2026-11-22T11:58:42.000Z"
+     "published": "2026-11-22T17:11:02.000Z"
     },
     {
-     "title": "Miley Cyrus and Maxx Morando marry in Los Angeles - everything we know about their wedding",
-     "url": "https://www.standard.co.uk/showbiz/miley-cyrus-maxx-morando-wedding-los-angeles-b1305893.html",
+     "title": "Laura Gallacher reflects on controversy caused by reading Russell Brand’s prison remarks",
+     "url": "https://www.standard.co.uk/news/uk/laura-gallacher-reflects-on-controversy-caused-by-reading-russell-brand-s-prison-remarks-b1305910.html",
      "source": "The Standard",
-     "published": "2026-11-22T11:49:23.000Z"
+     "published": "2026-11-22T17:09:16.000Z"
+    },
+    {
+     "title": "Last-ditch talks to avoid Tube drivers' strikes",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy4nq55gv4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T12:43:33.000Z"
     },
     {
      "title": "Billy Waters - The Black Street Performer Who Captivated Regency London",
@@ -430,12 +436,6 @@
      "url": "https://www.bbc.co.uk/news/articles/c6n0ljkzjrwno?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-22T08:11:25.000Z"
-    },
-    {
-     "title": "How one ex-offender is breaking cycles of crime",
-     "url": "https://www.bbc.co.uk/news/articles/c64gn9v8xrveo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T08:09:26.000Z"
     },
     {
      "title": "Best Of Londonist: 16-22 November 2026",
