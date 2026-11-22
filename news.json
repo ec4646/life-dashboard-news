@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-21T17:15:29.997Z",
+ "updated": "2026-11-22T06:24:01.515Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
+    {
+     "title": "The vibe code revolution: AI hackers are rewriting what your camera can do",
+     "url": "https://www.dpreview.com/articles/the-vibe-code-revolution-ai-hackers-are-rewriting-what-your-camera-can-do/",
+     "source": "DPReview",
+     "published": "2026-11-21T20:41:54.000Z"
+    },
     {
      "title": "All 25 Beautiful Winners From the Black and White Photo Awards 2026",
      "url": "https://petapixel.com/2026/11/21/all-25-beautiful-bw-winners-from-the-black-and-white-photo-awards-2026/",
@@ -58,12 +64,6 @@
      "url": "https://www.dpreview.com/news/thypoch-sculptor-23mm-f1p4-af-prime-lens-x-mount-announcement/",
      "source": "DPReview",
      "published": "2026-11-20T12:00:00.000Z"
-    },
-    {
-     "title": "The disappointment factory: fear and loathing in the camera rumor mill",
-     "url": "https://www.dpreview.com/opinion/the-disappointment-factory-fear-and-loathing-in-the-camera-rumor-mill/",
-     "source": "DPReview",
-     "published": "2026-11-19T21:00:30.000Z"
     }
    ]
   },
@@ -72,28 +72,34 @@
    "name": "AI",
    "items": [
     {
-     "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+     "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
      "source": "The Guardian",
-     "published": "2026-11-21T16:39:49.000Z"
+     "published": "2026-11-22T06:00:21.000Z"
     },
     {
-     "title": "International UN talks on controlling use of autonomous weapons collapse",
-     "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+     "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
      "source": "The Guardian",
-     "published": "2026-11-21T16:36:11.000Z"
+     "published": "2026-11-22T05:04:39.000Z"
+    },
+    {
+     "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "source": "The Guardian",
+     "published": "2026-11-21T20:15:57.000Z"
+    },
+    {
+     "title": "The UN fails to agree on rules regulating ‘killer robots’",
+     "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+     "source": "The Verge",
+     "published": "2026-11-21T20:03:37.000Z"
     },
     {
      "title": "Can Anthropic afford to put safety first?",
      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
      "source": "The Verge",
      "published": "2026-11-21T15:00:00.000Z"
-    },
-    {
-     "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
-     "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
-     "source": "The Guardian",
-     "published": "2026-11-21T14:00:01.000Z"
     },
     {
      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -120,12 +126,6 @@
      "published": "2026-11-20T20:59:08.000Z"
     },
     {
-     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-     "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-     "source": "The Verge",
-     "published": "2026-11-20T18:50:19.000Z"
-    },
-    {
      "title": "The most misunderstood graph in AI just got a major update",
      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
      "source": "MIT Technology Review",
@@ -137,6 +137,24 @@
    "id": "politics",
    "name": "UK politics",
    "items": [
+    {
+     "title": "May warns Burnham 'Brexit is done' after PM's EU talks",
+     "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T06:01:14.000Z"
+    },
+    {
+     "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+     "source": "The Guardian",
+     "published": "2026-11-22T06:00:21.000Z"
+    },
+    {
+     "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+     "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T19:33:49.000Z"
+    },
     {
      "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
      "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
@@ -174,24 +192,6 @@
      "published": "2026-11-21T09:40:55.000Z"
     },
     {
-     "title": "I hated life as a Neet. But now I’ve found a job, life is just as precarious | Emilija Morrison",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/21/hated-life-neet-found-job-life-precarious-government-young-people",
-     "source": "The Guardian",
-     "published": "2026-11-21T07:00:51.000Z"
-    },
-    {
-     "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
-     "url": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T06:01:04.000Z"
-    },
-    {
-     "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-     "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T21:43:22.000Z"
-    },
-    {
      "title": "Will Andy Burnham be the PM to undo Brexit?",
      "url": "https://news.sky.com/story/will-andy-burnham-be-the-pm-to-undo-brexit-13614088",
      "source": "Sky News",
@@ -204,10 +204,34 @@
    "name": "Business",
    "items": [
     {
-     "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
-     "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+     "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+     "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
      "source": "The Guardian",
-     "published": "2026-11-21T13:00:01.000Z"
+     "published": "2026-11-22T06:00:19.000Z"
+    },
+    {
+     "title": "Sandpapergate: Cricket Australia can’t keep ducking a fresh independent inquiry",
+     "url": "https://www.cityam.com/sandpapergate-cricket-australia-fresh-independent-inquiry/",
+     "source": "City AM",
+     "published": "2026-11-22T05:00:00.000Z"
+    },
+    {
+     "title": "Inflation voters’ top concern as Iran war bites",
+     "url": "https://www.cityam.com/inflation-voters-top-concern-as-iran-war-bites/",
+     "source": "City AM",
+     "published": "2026-11-22T05:00:00.000Z"
+    },
+    {
+     "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
+     "source": "The Guardian",
+     "published": "2026-11-22T00:20:41.000Z"
+    },
+    {
+     "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+     "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+     "source": "The Guardian",
+     "published": "2026-11-21T19:43:52.000Z"
     },
     {
      "title": "Sessions offer advice on rising energy costs",
@@ -216,28 +240,10 @@
      "published": "2026-11-21T12:09:49.000Z"
     },
     {
-     "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
-     "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:00:58.000Z"
-    },
-    {
-     "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:00:58.000Z"
-    },
-    {
      "title": "Exclusive: Timms welfare review to dismiss change to Pip eligibility",
      "url": "https://www.cityam.com/exclusive-timms-welfare-review-to-dismiss-change-to-pip-eligibility/",
      "source": "City AM",
      "published": "2026-11-21T06:00:00.000Z"
-    },
-    {
-     "title": "Image rights: HMRC’s new tax rules for footballers take the biscuit",
-     "url": "https://www.cityam.com/image-rights-hmrc-new-rules-footballers-take-the-biscuit/",
-     "source": "City AM",
-     "published": "2026-11-21T05:00:00.000Z"
     },
     {
      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
@@ -252,12 +258,6 @@
      "published": "2026-11-20T22:42:47.000Z"
     },
     {
-     "title": "JP Morgan boss Jamie Dimon to set ‘example’ after Healey’s bank tax hike",
-     "url": "https://www.cityam.com/jp-morgan-boss-jamie-dimon-to-set-example-after-healeys-bank-tax-hike/",
-     "source": "City AM",
-     "published": "2026-11-20T21:05:56.000Z"
-    },
-    {
      "title": "Trump threatens ban on US firms building AI data centres overseas",
      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -270,22 +270,28 @@
    "name": "Tech",
    "items": [
     {
+     "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+     "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+     "source": "Ars Technica",
+     "published": "2026-11-21T22:12:41.000Z"
+    },
+    {
+     "title": "Amazon is complaining about NYC Council on shipping labels, too",
+     "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+     "source": "The Verge",
+     "published": "2026-11-21T21:59:31.000Z"
+    },
+    {
+     "title": "The FBI and USDA were reportedly hacked",
+     "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+     "source": "The Verge",
+     "published": "2026-11-21T17:42:27.000Z"
+    },
+    {
      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
      "source": "The Verge",
      "published": "2026-11-21T16:00:00.000Z"
-    },
-    {
-     "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-     "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-     "source": "The Verge",
-     "published": "2026-11-21T16:00:00.000Z"
-    },
-    {
-     "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-     "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-     "source": "The Verge",
-     "published": "2026-11-21T14:55:28.000Z"
     },
     {
      "title": "“Race realism” isn’t realistic—and it isn’t good science",
@@ -318,12 +324,6 @@
      "published": "2026-11-20T22:28:24.000Z"
     },
     {
-     "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-     "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-     "source": "Ars Technica",
-     "published": "2026-11-20T22:16:51.000Z"
-    },
-    {
      "title": "White House removes cyber-security chief after series of tech outages",
      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -335,6 +335,30 @@
    "id": "arts",
    "name": "Arts",
    "items": [
+    {
+     "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+     "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T04:39:13.000Z"
+    },
+    {
+     "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+     "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T00:01:27.000Z"
+    },
+    {
+     "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T21:39:22.000Z"
+    },
+    {
+     "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+     "source": "The Guardian",
+     "published": "2026-11-21T15:00:01.000Z"
+    },
     {
      "title": "A Robbie Williams film starring a CGI chimp helped me come to terms with my hearing loss",
      "url": "https://www.theguardian.com/culture/2026/nov/21/my-cultural-awakening-robbie-williams-biopic-better-man-hearing-loss-gambling-addiction",
@@ -354,34 +378,10 @@
      "published": "2026-11-21T10:42:12.000Z"
     },
     {
-     "title": "‘Shakespearean tale of ego, greed and ambition’: the scandalous story of televangelism",
-     "url": "https://www.theguardian.com/film/2026/nov/21/primetime-preachers-documentary-televangelism",
-     "source": "The Guardian",
-     "published": "2026-11-21T10:00:56.000Z"
-    },
-    {
      "title": "Five buildings where the staircase is the facade",
      "url": "https://www.dezeen.com/2026/11/21/exterior-staircases-facade/",
      "source": "Dezeen",
      "published": "2026-11-21T10:00:00.000Z"
-    },
-    {
-     "title": "TRNSMT: What's the future for Scotland's largest music festival?",
-     "url": "https://www.bbc.co.uk/news/articles/cv702en03nw4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T09:27:12.000Z"
-    },
-    {
-     "title": "The film about fencing set between two cultures",
-     "url": "https://www.bbc.co.uk/news/articles/ce3r29wdqrno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T07:17:07.000Z"
-    },
-    {
-     "title": "Why is Blackpool such a Strictly highlight?",
-     "url": "https://www.bbc.co.uk/news/articles/cvx2xprxp5ryo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T07:12:52.000Z"
     },
     {
      "title": "Turner Duckworth dips Maker's Mark's new identity in red wax",
@@ -402,34 +402,34 @@
    "name": "London",
    "items": [
     {
-     "title": "Tottenham 2-0 Ipswich: Luca Williams-Barnett announces himself with man-of-the-match display",
-     "url": "https://www.standard.co.uk/sport/football/tottenham-vs-ipswich-williams-barnett-b1305833.html",
+     "title": "How to watch Liverpool vs Manchester United: TV channel and live stream for Mauricio Pochettino debut today",
+     "url": "https://www.standard.co.uk/sport/football/how-to-watch-liverpool-fc-vs-man-utd-tv-channel-live-stream-pochettino-today-b1305816.html",
      "source": "The Standard",
-     "published": "2026-11-21T17:05:40.000Z"
+     "published": "2026-11-22T06:01:51.000Z"
     },
     {
-     "title": "Chelsea player ratings vs Leeds: Cole Palmer anonymous and Estevao blunt as Blues humiliated at home",
-     "url": "https://www.standard.co.uk/sport/football/chelsea-fc-player-ratings-vs-leeds-palmer-estevao-b1305837.html",
+     "title": "Luxury watches are a target for thieves — so why are we still investing?",
+     "url": "https://www.standard.co.uk/business/luxury-watches-investment-target-theft-b1305752.html",
      "source": "The Standard",
-     "published": "2026-11-21T17:05:34.000Z"
+     "published": "2026-11-22T06:00:57.000Z"
     },
     {
-     "title": "Man dies putting up shopping centre festive lights",
-     "url": "https://www.bbc.co.uk/news/articles/c64gnr08d0dpo?at_medium=RSS&at_campaign=rss",
+     "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-21T16:17:31.000Z"
+     "published": "2026-11-21T20:36:43.000Z"
     },
     {
-     "title": "Piccadilly line strike ends after 24-hour walkout",
-     "url": "https://www.bbc.co.uk/news/articles/c6lyw4zd1e45o?at_medium=RSS&at_campaign=rss",
+     "title": "Big wins for Saracens, Exeter and Newcastle in Cup",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn83x22m49mo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-21T12:08:22.000Z"
+     "published": "2026-11-21T19:57:31.000Z"
     },
     {
-     "title": "Cuban posters on show after blackouts cause delays",
-     "url": "https://www.bbc.co.uk/news/articles/cq98x12lzllzo?at_medium=RSS&at_campaign=rss",
+     "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-21T11:16:30.000Z"
+     "published": "2026-11-21T19:21:01.000Z"
     },
     {
      "title": "‘No means no, however we dress and wherever we go’: 50 years of campaigning against rape",
