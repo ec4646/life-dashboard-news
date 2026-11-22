@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-22T10:37:05.702Z",
+ "updated": "2026-11-22T11:25:14.880Z",
  "items": [
+  {
+   "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+   "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T10:44:46.000Z"
+  },
   {
    "title": "South Korea education minister resigns over exam cheating scandal",
    "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
@@ -14,16 +20,35 @@
    "published": "2026-11-22T09:16:00.000Z"
   },
   {
+   "title": "House Ethics changes how it handles sexual misconduct allegations, with more transparency and speed",
+   "url": "https://www.goodgoodgood.co/articles/house-ethics-sexual-misconduct",
+   "source": "Good Good Good",
+   "published": "2026-11-21T20:59:00.000Z",
+   "good": true
+  },
+  {
+   "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
+   "url": "https://www.bbc.co.uk/news/articles/c6gm38e407zxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T08:59:41.000Z"
+  },
+  {
    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
    "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-22T08:46:28.000Z"
   },
   {
-   "title": "House Ethics changes how it handles sexual misconduct allegations, with more transparency and speed",
-   "url": "https://www.goodgoodgood.co/articles/house-ethics-sexual-misconduct",
+   "title": "Widow fears losing home built by husband after support payments end",
+   "url": "https://www.bbc.co.uk/news/articles/cqevrx7xxz93o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T07:14:14.000Z"
+  },
+  {
+   "title": "‘GTA 6’ is introducing a new kind of mission: being a good partner",
+   "url": "https://www.goodgoodgood.co/articles/gta-be-a-good-partner",
    "source": "Good Good Good",
-   "published": "2026-11-21T20:59:00.000Z",
+   "published": "2026-11-21T20:54:00.000Z",
    "good": true
   },
   {
@@ -39,35 +64,10 @@
    "published": "2026-11-22T06:01:49.000Z"
   },
   {
-   "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-   "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T06:01:14.000Z"
-  },
-  {
-   "title": "‘GTA 6’ is introducing a new kind of mission: being a good partner",
-   "url": "https://www.goodgoodgood.co/articles/gta-be-a-good-partner",
-   "source": "Good Good Good",
-   "published": "2026-11-21T20:54:00.000Z",
-   "good": true
-  },
-  {
    "title": "The real people finding their work copied and stolen by AI characters",
    "url": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-22T05:00:38.000Z"
-  },
-  {
-   "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-   "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T04:39:13.000Z"
-  },
-  {
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-22T01:25:03.000Z"
   },
   {
    "title": "Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Britain's next fighter jet could be last with a pilot in the cockpit, says RAF chief",
-   "url": "https://news.sky.com/story/britains-next-fighter-jet-could-be-last-with-a-pilot-in-the-cockpit-says-raf-chief-13615088",
-   "source": "Sky News",
-   "published": "2026-11-22T00:47:00.000Z"
+   "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+   "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-22T04:39:13.000Z"
   },
   {
    "title": "Pub Owner Spends Thousands on Stunning Holiday Display–All to Cheer Up Depressed Locals",
