@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:24:01.515Z",
+ "updated": "2026-11-22T12:12:24.906Z",
  "topics": [
   {
    "id": "photography",
@@ -72,22 +72,22 @@
    "name": "AI",
    "items": [
     {
-     "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-     "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+     "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
      "source": "The Guardian",
-     "published": "2026-11-22T06:00:21.000Z"
+     "published": "2026-11-22T12:00:29.000Z"
     },
     {
-     "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+     "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
      "source": "The Guardian",
-     "published": "2026-11-22T05:04:39.000Z"
+     "published": "2026-11-22T11:00:26.000Z"
     },
     {
-     "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+     "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
      "source": "The Guardian",
-     "published": "2026-11-21T20:15:57.000Z"
+     "published": "2026-11-22T09:00:22.000Z"
     },
     {
      "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -138,58 +138,58 @@
    "name": "UK politics",
    "items": [
     {
-     "title": "May warns Burnham 'Brexit is done' after PM's EU talks",
+     "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-22T06:01:14.000Z"
+     "published": "2026-11-22T11:50:20.000Z"
     },
     {
-     "title": "Labour MPs sign up for leadership course to counter rightwing populism",
-     "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+     "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
      "source": "The Guardian",
-     "published": "2026-11-22T06:00:21.000Z"
+     "published": "2026-11-22T11:46:21.000Z"
+    },
+    {
+     "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+     "source": "The Guardian",
+     "published": "2026-11-22T11:41:49.000Z"
+    },
+    {
+     "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
+     "source": "The Guardian",
+     "published": "2026-11-22T11:37:52.000Z"
+    },
+    {
+     "title": "The looming UK winter may spawn a double headache for Andy Burnham",
+     "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+     "source": "The Guardian",
+     "published": "2026-11-22T11:24:22.000Z"
+    },
+    {
+     "title": "MP criticises company ownership register plans",
+     "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T07:22:05.000Z"
+    },
+    {
+     "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+     "url": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T06:01:49.000Z"
+    },
+    {
+     "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-21T21:39:22.000Z"
     },
     {
      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
      "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-21T19:33:49.000Z"
-    },
-    {
-     "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
-     "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T16:11:58.000Z"
-    },
-    {
-     "title": "Scouts say they face £1m tourist tax cost for overnight trips",
-     "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T13:29:55.000Z"
-    },
-    {
-     "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-     "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:22:54.000Z"
-    },
-    {
-     "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-     "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-     "source": "The Guardian",
-     "published": "2026-11-21T11:33:01.000Z"
-    },
-    {
-     "title": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
-     "url": "https://www.theguardian.com/politics/2026/nov/21/national-scandal-residents-in-england-rally-against-surge-in-mega-warehouse-developments",
-     "source": "The Guardian",
-     "published": "2026-11-21T10:00:54.000Z"
-    },
-    {
-     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-     "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T09:40:55.000Z"
     },
     {
      "title": "Will Andy Burnham be the PM to undo Brexit?",
@@ -204,34 +204,52 @@
    "name": "Business",
    "items": [
     {
-     "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-     "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+     "title": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
+     "url": "https://www.theguardian.com/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
      "source": "The Guardian",
-     "published": "2026-11-22T06:00:19.000Z"
+     "published": "2026-11-22T12:00:29.000Z"
     },
     {
-     "title": "Sandpapergate: Cricket Australia can’t keep ducking a fresh independent inquiry",
-     "url": "https://www.cityam.com/sandpapergate-cricket-australia-fresh-independent-inquiry/",
+     "title": "Cloned number plate victims in England and Wales to get new reporting tool",
+     "url": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+     "source": "The Guardian",
+     "published": "2026-11-22T11:59:28.000Z"
+    },
+    {
+     "title": "Slumping London flat prices spark landlord return",
+     "url": "https://www.cityam.com/slumping-london-flat-prices-spark-landlord-return/",
      "source": "City AM",
-     "published": "2026-11-22T05:00:00.000Z"
+     "published": "2026-11-22T11:35:47.000Z"
     },
     {
-     "title": "Inflation voters’ top concern as Iran war bites",
-     "url": "https://www.cityam.com/inflation-voters-top-concern-as-iran-war-bites/",
+     "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+     "source": "The Guardian",
+     "published": "2026-11-22T11:00:26.000Z"
+    },
+    {
+     "title": "British Airways owner tells Burnham Heathrow’s third runway ‘doomed to failure’",
+     "url": "https://www.cityam.com/british-airways-owner-tells-burnham-heathrows-third-runway-doomed-to-failure/",
      "source": "City AM",
-     "published": "2026-11-22T05:00:00.000Z"
+     "published": "2026-11-22T10:39:25.000Z"
     },
     {
-     "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
-     "source": "The Guardian",
-     "published": "2026-11-22T00:20:41.000Z"
+     "title": "‘Accept Brexit and move on’, Theresa May warns Burnham",
+     "url": "https://www.cityam.com/accept-brexit-and-move-on-theresa-may-warns-burnham/",
+     "source": "City AM",
+     "published": "2026-11-22T09:51:50.000Z"
     },
     {
-     "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
-     "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
-     "source": "The Guardian",
-     "published": "2026-11-21T19:43:52.000Z"
+     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+     "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T07:12:41.000Z"
+    },
+    {
+     "title": "Employers are being asked to give interview feedback - here's what applicants want",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T00:04:07.000Z"
     },
     {
      "title": "Sessions offer advice on rising energy costs",
@@ -240,28 +258,10 @@
      "published": "2026-11-21T12:09:49.000Z"
     },
     {
-     "title": "Exclusive: Timms welfare review to dismiss change to Pip eligibility",
-     "url": "https://www.cityam.com/exclusive-timms-welfare-review-to-dismiss-change-to-pip-eligibility/",
-     "source": "City AM",
-     "published": "2026-11-21T06:00:00.000Z"
-    },
-    {
-     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+     "title": "Can AI really help spot Black Friday deals? We put it to the test",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-20T22:53:24.000Z"
-    },
-    {
-     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T22:42:47.000Z"
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T20:54:12.000Z"
+     "published": "2026-11-21T00:06:11.000Z"
     }
    ]
   },
@@ -306,28 +306,28 @@
      "published": "2026-11-21T01:00:00.000Z"
     },
     {
-     "title": "Can AI really help spot Black Friday deals? We put it to the test",
-     "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T00:06:11.000Z"
-    },
-    {
      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-20T23:08:57.000Z"
     },
     {
+     "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T22:53:24.000Z"
+    },
+    {
+     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-20T22:42:47.000Z"
+    },
+    {
      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
      "source": "Ars Technica",
      "published": "2026-11-20T22:28:24.000Z"
-    },
-    {
-     "title": "White House removes cyber-security chief after series of tech outages",
-     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-20T19:03:56.000Z"
     }
    ]
   },
@@ -336,64 +336,64 @@
    "name": "Arts",
    "items": [
     {
-     "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-     "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T04:39:13.000Z"
-    },
-    {
-     "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-     "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-22T00:01:27.000Z"
-    },
-    {
-     "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-     "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T21:39:22.000Z"
-    },
-    {
-     "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
-     "source": "The Guardian",
-     "published": "2026-11-21T15:00:01.000Z"
-    },
-    {
-     "title": "A Robbie Williams film starring a CGI chimp helped me come to terms with my hearing loss",
-     "url": "https://www.theguardian.com/culture/2026/nov/21/my-cultural-awakening-robbie-williams-biopic-better-man-hearing-loss-gambling-addiction",
-     "source": "The Guardian",
-     "published": "2026-11-21T12:00:58.000Z"
-    },
-    {
-     "title": "ZHA completes “secular” Théâtre Royal de Rabat in Morocco",
-     "url": "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco/",
+     "title": "Domes depict constellations of missiles in the night sky at Sharjah Architecture Triennial",
+     "url": "https://www.dezeen.com/2026/11/22/after-night-there-is-nothing-sharjah-architecture-triennial/",
      "source": "Dezeen",
-     "published": "2026-11-21T11:00:00.000Z"
+     "published": "2026-11-22T11:00:00.000Z"
     },
     {
-     "title": "Fontaines DC review – thrilling gothic grandeur from a band vaulting into greatness",
-     "url": "https://www.theguardian.com/music/2026/nov/21/fontaines-dc-review-liverpool-arena-uk-tour",
+     "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
+     "url": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
      "source": "The Guardian",
-     "published": "2026-11-21T10:42:12.000Z"
+     "published": "2026-11-22T10:59:28.000Z"
     },
     {
-     "title": "Five buildings where the staircase is the facade",
-     "url": "https://www.dezeen.com/2026/11/21/exterior-staircases-facade/",
+     "title": "‘He’s open and affable – I avoid being recognised like the plague’: Steve Coogan and Rob Brydon on celebrity, friendship and their trip to the Arctic circle",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/22/the-trip-northern-lights-steve-coogan-rob-brydon-interview",
+     "source": "The Guardian",
+     "published": "2026-11-22T10:00:24.000Z"
+    },
+    {
+     "title": "‘Harsh to be under her thumb’: Pitchfork’s Ryan Schreiber on selling to Condé Nast and Anna Wintour",
+     "url": "https://www.theguardian.com/books/2026/nov/22/pitchfork-ryan-schreiber-selling-conde-nast-anna-wintour",
+     "source": "The Guardian",
+     "published": "2026-11-22T10:00:23.000Z"
+    },
+    {
+     "title": "Eight furniture designs informed by life in New York City",
+     "url": "https://www.dezeen.com/2026/11/22/eight-furniture-designs-informed-by-life-in-new-york-city/",
      "source": "Dezeen",
-     "published": "2026-11-21T10:00:00.000Z"
+     "published": "2026-11-22T10:00:00.000Z"
     },
     {
-     "title": "Turner Duckworth dips Maker's Mark's new identity in red wax",
-     "url": "https://www.creativeboom.com/news/turner-duckworth-dips-makers-marks-new-identity-in-red-wax/",
-     "source": "Creative Boom",
-     "published": "2026-11-19T10:00:00.000Z"
+     "title": "‘I do a really good version of AC/DC’s Highway to Hell, which throws people’: Sharleen Spiteri’s honest playlist",
+     "url": "https://www.theguardian.com/music/2026/nov/22/sharleen-spiteri-texas-honest-playlist-acdc-elvis-costello",
+     "source": "The Guardian",
+     "published": "2026-11-22T09:00:22.000Z"
     },
     {
-     "title": "&Walsh takes a bite out of the moon for Insomnia Cookies",
-     "url": "https://www.creativeboom.com/news/walsh-takes-a-bite-out-of-the-moon-for-insomnia-cookies/",
-     "source": "Creative Boom",
-     "published": "2026-11-19T09:00:00.000Z"
+     "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+     "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T08:46:28.000Z"
+    },
+    {
+     "title": "Calls for Marilyn Manson performance to be pulled",
+     "url": "https://www.bbc.co.uk/news/articles/cmn4kz7lj3jvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T08:10:23.000Z"
+    },
+    {
+     "title": "Man who studied drama in young offenders' institution now a West End actor",
+     "url": "https://www.bbc.co.uk/news/articles/cry869dq271zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T07:32:21.000Z"
+    },
+    {
+     "title": "Jony Ive and Margaret Calvert create posters to celebrate decade of Design Museum in Kensington",
+     "url": "https://www.dezeen.com/2026/11/22/jony-ive-margaret-calvert-posters-decade-london-design-museum-kensington/",
+     "source": "Dezeen",
+     "published": "2026-11-22T06:00:00.000Z"
     }
    ]
   },
@@ -402,34 +402,46 @@
    "name": "London",
    "items": [
     {
-     "title": "How to watch Liverpool vs Manchester United: TV channel and live stream for Mauricio Pochettino debut today",
-     "url": "https://www.standard.co.uk/sport/football/how-to-watch-liverpool-fc-vs-man-utd-tv-channel-live-stream-pochettino-today-b1305816.html",
+     "title": "Liverpool vs Man Utd free bets: Four 50/1 offers for Anfield clash",
+     "url": "https://www.standard.co.uk/sport/betting/liverpool-vs-man-utd-free-bets-premier-league-b1305715.html",
      "source": "The Standard",
-     "published": "2026-11-22T06:01:51.000Z"
+     "published": "2026-11-22T11:58:42.000Z"
     },
     {
-     "title": "Luxury watches are a target for thieves — so why are we still investing?",
-     "url": "https://www.standard.co.uk/business/luxury-watches-investment-target-theft-b1305752.html",
+     "title": "Miley Cyrus and Maxx Morando marry in Los Angeles - everything we know about their wedding",
+     "url": "https://www.standard.co.uk/showbiz/miley-cyrus-maxx-morando-wedding-los-angeles-b1305893.html",
      "source": "The Standard",
-     "published": "2026-11-22T06:00:57.000Z"
+     "published": "2026-11-22T11:49:23.000Z"
     },
     {
-     "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-21T20:36:43.000Z"
+     "title": "Billy Waters - The Black Street Performer Who Captivated Regency London",
+     "url": "https://londonist.com/london/history/billy-waters-regency-london",
+     "source": "Londonist",
+     "published": "2026-11-22T08:25:00.000Z"
     },
     {
-     "title": "Big wins for Saracens, Exeter and Newcastle in Cup",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn83x22m49mo?at_medium=RSS&at_campaign=rss",
+     "title": "Grenfell Tower pillars may be included in memorial",
+     "url": "https://www.bbc.co.uk/news/articles/cxnv4zpe8p0qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-21T19:57:31.000Z"
+     "published": "2026-11-22T08:12:10.000Z"
     },
     {
-     "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
+     "title": "Paused shopping centre homes plan divides locals",
+     "url": "https://www.bbc.co.uk/news/articles/c6n0ljkzjrwno?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-21T19:21:01.000Z"
+     "published": "2026-11-22T08:11:25.000Z"
+    },
+    {
+     "title": "How one ex-offender is breaking cycles of crime",
+     "url": "https://www.bbc.co.uk/news/articles/c64gn9v8xrveo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-22T08:09:26.000Z"
+    },
+    {
+     "title": "Best Of Londonist: 16-22 November 2026",
+     "url": "https://londonist.com/london/best-of-london/best-of-londonist-16-22-november-2026",
+     "source": "Londonist",
+     "published": "2026-11-22T06:00:04.000Z"
     },
     {
      "title": "‘No means no, however we dress and wherever we go’: 50 years of campaigning against rape",
@@ -438,22 +450,10 @@
      "published": "2026-11-21T11:00:56.000Z"
     },
     {
-     "title": "\"I Was Hooked\": Memories Of Londoners' First Football Matches",
-     "url": "https://londonist.com/london/sport/i-was-hooked-football-memories",
-     "source": "Londonist",
-     "published": "2026-11-21T08:00:00.000Z"
-    },
-    {
      "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
      "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
      "source": "The Guardian",
      "published": "2026-11-20T19:38:59.000Z"
-    },
-    {
-     "title": "See Tube Trains Pass Beneath Your Feet In Real Time, With This 'X-Ray' App",
-     "url": "https://londonist.com/london/transport/subwhere-tube-app-live-trains",
-     "source": "Londonist",
-     "published": "2026-11-20T11:36:00.000Z"
     },
     {
      "title": "Home Office tells woman born and raised in London she is not British",
