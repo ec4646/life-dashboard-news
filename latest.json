@@ -1,11 +1,61 @@
 {
- "updated": "2026-11-24T11:30:57.440Z",
+ "updated": "2026-11-24T12:40:32.151Z",
  "items": [
+  {
+   "title": "NHS England chief executive resigning after less than two years in role",
+   "url": "https://news.sky.com/story/nhs-england-chief-executive-resigning-after-less-than-two-years-in-role-13615969",
+   "source": "Sky News",
+   "published": "2026-11-24T12:33:00.000Z"
+  },
+  {
+   "title": "Baby P's mum given open prison recommendation",
+   "url": "https://www.bbc.co.uk/news/articles/cwn70z7ryp8ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T12:24:36.000Z"
+  },
+  {
+   "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T12:12:48.000Z"
+  },
+  {
+   "title": "Charity Swaps Tuition Fees for Coconuts So Every Islander Can Afford School",
+   "url": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/",
+   "source": "Good News Network",
+   "published": "2026-11-24T12:30:30.000Z",
+   "good": true
+  },
+  {
+   "title": "FA chair had to sign NDA to view FIFA documents on World Cup sell-off",
+   "url": "https://news.sky.com/story/fa-chair-had-to-sign-nda-to-view-fifa-documents-on-world-cup-sell-off-13615958",
+   "source": "Sky News",
+   "published": "2026-11-24T12:12:00.000Z"
+  },
   {
    "title": "Triple killer admits murdering Ian Huntley in jail",
    "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-24T11:25:49.000Z"
+   "published": "2026-11-24T11:59:53.000Z"
+  },
+  {
+   "title": "Car bomb tears through Colombian city wounding more than 20",
+   "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T11:45:52.000Z"
+  },
+  {
+   "title": "Black cartographers used mapmaking to educate their communities and combat racism. Now their work is being restored",
+   "url": "https://www.goodgoodgood.co/articles/black-artists-mapmaking-cartography",
+   "source": "Good Good Good",
+   "published": "2026-11-24T03:34:00.000Z",
+   "good": true
+  },
+  {
+   "title": "Prince William meets Burnham on first Downing Street visit",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1xk1gpqvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T11:37:53.000Z"
   },
   {
    "title": "Prisoner admits murder of Soham killer Ian Huntley",
@@ -20,10 +70,10 @@
    "published": "2026-11-24T11:10:57.000Z"
   },
   {
-   "title": "Black cartographers used mapmaking to educate their communities and combat racism. Now their work is being restored",
-   "url": "https://www.goodgoodgood.co/articles/black-artists-mapmaking-cartography",
-   "source": "Good Good Good",
-   "published": "2026-11-24T03:34:00.000Z",
+   "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
+   "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
+   "source": "Good News Network",
+   "published": "2026-11-23T22:00:41.000Z",
    "good": true
   },
   {
@@ -33,60 +83,10 @@
    "published": "2026-11-24T10:58:51.000Z"
   },
   {
-   "title": "Inquiry expected into Birmingham housing scheme 'exploitation' after BBC investigation",
-   "url": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T10:47:53.000Z"
-  },
-  {
-   "title": "Pip benefits review to suggest quicker payment for some disabled people",
-   "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T10:04:13.000Z"
-  },
-  {
-   "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
-   "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
-   "source": "Good News Network",
-   "published": "2026-11-23T22:00:41.000Z",
-   "good": true
-  },
-  {
-   "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
-   "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T10:00:54.000Z"
-  },
-  {
-   "title": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
-   "url": "https://www.bbc.co.uk/news/articles/c65y1vk4wp7po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T09:47:20.000Z"
-  },
-  {
-   "title": "Heat deaths reached record high in England this year, data shows",
-   "url": "https://news.sky.com/story/heat-deaths-reached-record-high-in-england-this-year-data-shows-13615920",
-   "source": "Sky News",
-   "published": "2026-11-24T09:43:00.000Z"
-  },
-  {
    "title": "Determined Volunteer Rescues Lost Toddler in the Desert: ‘She may not be our child, but she could be’",
    "url": "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/",
    "source": "Good News Network",
    "published": "2026-11-23T18:00:29.000Z",
-   "good": true
-  },
-  {
-   "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
-   "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T09:33:00.000Z"
-  },
-  {
-   "title": "One-of-a-Kind Refuge to 200,000 Walrus Protected Forever in Alaska",
-   "url": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
-   "source": "Good News Network",
-   "published": "2026-11-23T16:04:07.000Z",
    "good": true
   }
  ]
