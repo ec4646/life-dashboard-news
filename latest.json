@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-24T01:56:04.753Z",
+ "updated": "2026-11-24T02:45:14.155Z",
  "items": [
+  {
+   "title": "Sky News documentary wins International Emmy",
+   "url": "https://news.sky.com/story/24-hours-in-the-kill-zone-sky-news-documentary-wins-international-emmy-13615753",
+   "source": "Sky News",
+   "published": "2026-11-24T02:06:00.000Z"
+  },
   {
    "title": "Children using vapes spiked with spice and THC, police warn",
    "url": "https://news.sky.com/story/children-using-vapes-spiked-with-spice-and-thc-police-warn-13615742",
@@ -14,17 +20,17 @@
    "published": "2026-11-24T01:21:41.000Z"
   },
   {
-   "title": "UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
-   "url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T01:08:32.000Z"
-  },
-  {
    "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
    "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
    "source": "Good News Network",
    "published": "2026-11-23T22:00:41.000Z",
    "good": true
+  },
+  {
+   "title": "UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T01:08:32.000Z"
   },
   {
    "title": "Benefits review to suggest quicker payment for some disabled people",
@@ -39,17 +45,17 @@
    "published": "2026-11-24T00:45:53.000Z"
   },
   {
-   "title": "No 10 North will face greater scrutiny as Burnham's 10-year plan looms",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T00:31:28.000Z"
-  },
-  {
    "title": "Determined Volunteer Rescues Lost Toddler in the Desert: ‘She may not be our child, but she could be’",
    "url": "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/",
    "source": "Good News Network",
    "published": "2026-11-23T18:00:29.000Z",
    "good": true
+  },
+  {
+   "title": "No 10 North will face greater scrutiny as Burnham's 10-year plan looms",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T00:31:28.000Z"
   },
   {
    "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
@@ -64,12 +70,6 @@
    "published": "2026-11-24T00:11:08.000Z"
   },
   {
-   "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
-   "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T00:03:36.000Z"
-  },
-  {
    "title": "One-of-a-Kind Refuge to 200,000 Walrus Protected Forever in Alaska",
    "url": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
    "source": "Good News Network",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+   "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
+   "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-24T00:01:04.000Z"
+   "published": "2026-11-24T00:03:36.000Z"
   },
   {
    "title": "Freddie Nole Waits at the Prison Gates So No One Walks Out Alone",
