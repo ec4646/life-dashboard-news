@@ -1,11 +1,55 @@
 {
- "updated": "2026-11-24T00:37:49.007Z",
+ "updated": "2026-11-24T01:56:04.753Z",
  "items": [
+  {
+   "title": "Children using vapes spiked with spice and THC, police warn",
+   "url": "https://news.sky.com/story/children-using-vapes-spiked-with-spice-and-thc-police-warn-13615742",
+   "source": "Sky News",
+   "published": "2026-11-24T01:45:00.000Z"
+  },
+  {
+   "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+   "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T01:21:41.000Z"
+  },
+  {
+   "title": "UK papers: 'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T01:08:32.000Z"
+  },
+  {
+   "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
+   "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
+   "source": "Good News Network",
+   "published": "2026-11-23T22:00:41.000Z",
+   "good": true
+  },
+  {
+   "title": "Benefits review to suggest quicker payment for some disabled people",
+   "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T00:53:31.000Z"
+  },
+  {
+   "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+   "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-24T00:45:53.000Z"
+  },
   {
    "title": "No 10 North will face greater scrutiny as Burnham's 10-year plan looms",
    "url": "https://www.bbc.co.uk/news/articles/c6rrg7jx5gdgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-24T00:31:28.000Z"
+  },
+  {
+   "title": "Determined Volunteer Rescues Lost Toddler in the Desert: ‘She may not be our child, but she could be’",
+   "url": "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/",
+   "source": "Good News Network",
+   "published": "2026-11-23T18:00:29.000Z",
+   "good": true
   },
   {
    "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
@@ -20,54 +64,10 @@
    "published": "2026-11-24T00:11:08.000Z"
   },
   {
-   "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
-   "url": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
-   "source": "Good News Network",
-   "published": "2026-11-23T22:00:41.000Z",
-   "good": true
-  },
-  {
    "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
    "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-24T00:03:36.000Z"
-  },
-  {
-   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T00:01:04.000Z"
-  },
-  {
-   "title": "Why I don't always tell potential employers I'm dyslexic",
-   "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-24T00:00:47.000Z"
-  },
-  {
-   "title": "Determined Volunteer Rescues Lost Toddler in the Desert: ‘She may not be our child, but she could be’",
-   "url": "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/",
-   "source": "Good News Network",
-   "published": "2026-11-23T18:00:29.000Z",
-   "good": true
-  },
-  {
-   "title": "Donald Trump given chance to erase his criminal record by appeals court",
-   "url": "https://news.sky.com/story/donald-trump-given-chance-to-erase-his-criminal-record-by-appeals-court-13615829",
-   "source": "Sky News",
-   "published": "2026-11-23T23:28:00.000Z"
-  },
-  {
-   "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-   "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-23T23:16:08.000Z"
-  },
-  {
-   "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
-   "url": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-23T22:01:09.000Z"
   },
   {
    "title": "One-of-a-Kind Refuge to 200,000 Walrus Protected Forever in Alaska",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-   "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+   "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-23T21:24:47.000Z"
+   "published": "2026-11-24T00:01:04.000Z"
   },
   {
    "title": "Freddie Nole Waits at the Prison Gates So No One Walks Out Alone",
