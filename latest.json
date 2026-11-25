@@ -1,11 +1,30 @@
 {
- "updated": "2026-11-25T19:22:49.932Z",
+ "updated": "2026-11-25T20:17:52.649Z",
  "items": [
+  {
+   "title": "Body found after man charged with murder of young woman",
+   "url": "https://news.sky.com/story/body-found-in-wooded-area-after-man-charged-with-murder-of-kelsey-hunter-13616289",
+   "source": "Sky News",
+   "published": "2026-11-25T20:01:00.000Z"
+  },
+  {
+   "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+   "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T19:47:39.000Z"
+  },
   {
    "title": "MP calls for action after her likeness used for AI porn deepfakes",
    "url": "https://www.bbc.co.uk/news/articles/cr742z9gx894o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-25T19:01:59.000Z"
+  },
+  {
+   "title": "Animal shelters give adoptable pets a Thanksgiving to remember: ‘Just because they’re homeless doesn’t mean they’re waiting to live’",
+   "url": "https://www.goodgoodgood.co/articles/tacoma-washington-animal-shelter-thanksgiving",
+   "source": "Good Good Good",
+   "published": "2026-11-25T19:38:00.000Z",
+   "good": true
   },
   {
    "title": "Poundland collapses putting 11,000 jobs at risk",
@@ -20,17 +39,17 @@
    "published": "2026-11-25T18:27:53.000Z"
   },
   {
-   "title": "Indigenous women plant hundreds of thousands of trees to restore water sources",
-   "url": "https://www.goodgoodgood.co/articles/bolivian-andes-indigenous-women",
-   "source": "Good Good Good",
-   "published": "2026-11-25T17:15:00.000Z",
-   "good": true
-  },
-  {
    "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
    "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-25T17:48:28.000Z"
+  },
+  {
+   "title": "Detectives Recover 13th Century Sculpture Stolen by Notorious ‘Gentleman Thief’ Erik the Belgian",
+   "url": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/",
+   "source": "Good News Network",
+   "published": "2026-11-25T19:30:55.000Z",
+   "good": true
   },
   {
    "title": "US stocks fall further as fears over AI intensify",
@@ -45,17 +64,17 @@
    "published": "2026-11-25T17:30:16.000Z"
   },
   {
-   "title": "Roman Glass Among the Silk Road Treasures Unearthed in Nomadic Noble’s Tomb",
-   "url": "https://www.goodnewsnetwork.org/roman-glass-among-the-silk-road-treasures-unearthed-in-nomadic-nobles-tomb/",
-   "source": "Good News Network",
-   "published": "2026-11-25T16:30:05.000Z",
-   "good": true
-  },
-  {
    "title": "Badenoch challenges Burnham over university fees for EU students",
    "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-25T16:46:17.000Z"
+  },
+  {
+   "title": "Schools and tribes are bringing Native foods and culture to the cafeteria",
+   "url": "https://www.goodgoodgood.co/articles/hopi-schools-native-foods",
+   "source": "Good Good Good",
+   "published": "2026-11-25T19:23:00.000Z",
+   "good": true
   },
   {
    "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
@@ -64,29 +83,10 @@
    "published": "2026-11-25T16:45:09.000Z"
   },
   {
-   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-   "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T16:42:11.000Z"
-  },
-  {
-   "title": "What We’re Reading: Building a Walkable City From Scratch",
-   "url": "https://reasonstobecheerful.world/what-were-reading-walkable-utah-city/",
-   "source": "Reasons to be Cheerful",
-   "published": "2026-11-25T14:09:59.000Z",
-   "good": true
-  },
-  {
-   "title": "Why has Poundland collapsed and what happens next?",
-   "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T16:24:30.000Z"
-  },
-  {
-   "title": "‘Autos for Love’ Owners Delight in Giving Away Cars to Needy Neighbors",
-   "url": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/",
-   "source": "Good News Network",
-   "published": "2026-11-25T14:00:36.000Z",
+   "title": "Indigenous women plant hundreds of thousands of trees to restore water sources",
+   "url": "https://www.goodgoodgood.co/articles/bolivian-andes-indigenous-women",
+   "source": "Good Good Good",
+   "published": "2026-11-25T17:15:00.000Z",
    "good": true
   }
  ]
