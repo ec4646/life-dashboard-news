@@ -1,11 +1,36 @@
 {
- "updated": "2026-11-25T06:33:43.962Z",
+ "updated": "2026-11-25T08:04:30.795Z",
  "items": [
+  {
+   "title": "Energy bills to rise by 26% from January",
+   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T07:34:20.000Z"
+  },
   {
    "title": "Ministers ask public for views on changing age of consent",
    "url": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-25T06:17:15.000Z"
+   "published": "2026-11-25T07:20:17.000Z"
+  },
+  {
+   "title": "Two children among six dead after plane crash off Mississippi coast",
+   "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T07:08:22.000Z"
+  },
+  {
+   "title": "‘BeSeen’ vending machines offer 24/7 help to people experiencing homelessness. They’re staffed by virtual volunteers worldwide",
+   "url": "https://www.goodgoodgood.co/articles/be-seen-vending-machines-homeless-help",
+   "source": "Good Good Good",
+   "published": "2026-11-24T20:44:00.000Z",
+   "good": true
+  },
+  {
+   "title": "Two children among six dead in plane crash",
+   "url": "https://news.sky.com/story/divers-find-bodies-of-six-people-including-two-children-after-us-plane-crash-13616273",
+   "source": "Sky News",
+   "published": "2026-11-25T06:38:00.000Z"
   },
   {
    "title": "UK sent sex offender refugee to African country in undisclosed deal",
@@ -20,11 +45,17 @@
    "published": "2026-11-25T06:00:36.000Z"
   },
   {
-   "title": "‘BeSeen’ vending machines offer 24/7 help to people experiencing homelessness. They’re staffed by virtual volunteers worldwide",
-   "url": "https://www.goodgoodgood.co/articles/be-seen-vending-machines-homeless-help",
+   "title": "Two years before ‘Doomsday,’ the original Avengers cast reunited to help save a Native American language",
+   "url": "https://www.goodgoodgood.co/articles/avengers-doomsday-native-american-lakota-dub",
    "source": "Good Good Good",
-   "published": "2026-11-24T20:44:00.000Z",
+   "published": "2026-11-24T20:43:00.000Z",
    "good": true
+  },
+  {
+   "title": "Racism, misogyny and homophobia remain in Met force, report finds",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy0rg343j7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-25T05:45:55.000Z"
   },
   {
    "title": "UK papers: PIP benefits 'not fit for purpose' and Royal 'security scare'",
@@ -33,41 +64,10 @@
    "published": "2026-11-25T05:37:22.000Z"
   },
   {
-   "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T04:49:55.000Z"
-  },
-  {
-   "title": "Misperceptions on immigration 'widespread' among public",
+   "title": "'Misperceptions' on immigration widespread among public, study finds",
    "url": "https://news.sky.com/story/misperceptions-on-immigration-widespread-among-public-13616005",
    "source": "Sky News",
    "published": "2026-11-25T04:00:00.000Z"
-  },
-  {
-   "title": "Two years before ‘Doomsday,’ the original Avengers cast reunited to help save a Native American language",
-   "url": "https://www.goodgoodgood.co/articles/avengers-doomsday-native-american-lakota-dub",
-   "source": "Good Good Good",
-   "published": "2026-11-24T20:43:00.000Z",
-   "good": true
-  },
-  {
-   "title": "Watch: China's Shenzhou-24 carries Pakistan's first astronaut into space",
-   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T03:28:37.000Z"
-  },
-  {
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T02:59:27.000Z"
-  },
-  {
-   "title": "Donald Trump set to raise tariffs on 16 major economies",
-   "url": "https://news.sky.com/story/donald-trump-set-to-raise-tariffs-on-16-major-economies-13616253",
-   "source": "Sky News",
-   "published": "2026-11-25T02:45:00.000Z"
   },
   {
    "title": "Major Success Sees Viral Infections Fall 68% in Brazil After Releasing Wolbachia-Infected Mosquitoes",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
-   "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+   "title": "Watch: China's Shenzhou-24 carries Pakistan's first astronaut into space",
+   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-25T01:51:43.000Z"
+   "published": "2026-11-25T03:28:37.000Z"
   },
   {
    "title": "Retired Teacher Turns Retired Musical Instruments into Bird Feeders (LOOK)",
