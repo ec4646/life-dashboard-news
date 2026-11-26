@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:30:20.463Z",
+ "updated": "2026-11-26T03:36:30.079Z",
  "items": [
   {
    "title": "UK government set to publish new treaties agreed with EU",
@@ -39,10 +39,10 @@
    "published": "2026-11-26T00:22:18.000Z"
   },
   {
-   "title": "BBC launches partnership with Met Office for weather coverage",
-   "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T00:12:37.000Z"
+   "title": "UK can expect fewer frosts and more hot days",
+   "url": "https://news.sky.com/story/uk-weather-met-office-warns-of-fewer-frosts-and-more-hot-days-because-of-climate-change-13616621",
+   "source": "Sky News",
+   "published": "2026-11-26T00:18:00.000Z"
   },
   {
    "title": "Detectives Recover 13th Century Sculpture Stolen by Notorious ‘Gentleman Thief’ Erik the Belgian",
@@ -50,6 +50,12 @@
    "source": "Good News Network",
    "published": "2026-11-25T19:30:55.000Z",
    "good": true
+  },
+  {
+   "title": "BBC launches partnership with Met Office for weather coverage",
+   "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T00:12:37.000Z"
   },
   {
    "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
@@ -64,12 +70,6 @@
    "published": "2026-11-26T00:07:51.000Z"
   },
   {
-   "title": "Stalking law simplified to become one offence",
-   "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T00:02:50.000Z"
-  },
-  {
    "title": "Schools and tribes are bringing Native foods and culture to the cafeteria",
    "url": "https://www.goodgoodgood.co/articles/hopi-schools-native-foods",
    "source": "Good Good Good",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "A renovation was meant to improve these Hong Kong homes - it ended in an blaze that killed 168",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+   "title": "Stalking law simplified to become one offence",
+   "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-25T23:26:50.000Z"
+   "published": "2026-11-26T00:02:50.000Z"
   },
   {
    "title": "Indigenous women plant hundreds of thousands of trees to restore water sources",
