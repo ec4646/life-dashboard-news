@@ -1,6 +1,37 @@
 {
- "updated": "2026-11-26T04:42:48.166Z",
+ "updated": "2026-11-26T05:38:56.707Z",
  "items": [
+  {
+   "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+   "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T05:17:12.000Z"
+  },
+  {
+   "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+   "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T05:00:27.000Z"
+  },
+  {
+   "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+   "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T05:00:24.000Z"
+  },
+  {
+   "title": "Animal shelters give adoptable pets a Thanksgiving to remember: ‘Just because they’re homeless doesn’t mean they’re waiting to live’",
+   "url": "https://www.goodgoodgood.co/articles/tacoma-washington-animal-shelter-thanksgiving",
+   "source": "Good Good Good",
+   "published": "2026-11-25T19:38:00.000Z",
+   "good": true
+  },
+  {
+   "title": "Nasdaq teeters on brink of bear market as tech stocks fall further",
+   "url": "https://news.sky.com/story/nasdaq-100-teeters-on-brink-of-bear-market-as-wall-street-tech-stocks-fall-further-13616624",
+   "source": "Sky News",
+   "published": "2026-11-26T04:09:00.000Z"
+  },
   {
    "title": "Child homelessness increases chance of being NEET, study says",
    "url": "https://news.sky.com/story/child-homelessness-increases-chance-of-being-neet-study-says-13616399",
@@ -14,16 +45,10 @@
    "published": "2026-11-26T02:13:00.000Z"
   },
   {
-   "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
-   "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T01:01:31.000Z"
-  },
-  {
-   "title": "Animal shelters give adoptable pets a Thanksgiving to remember: ‘Just because they’re homeless doesn’t mean they’re waiting to live’",
-   "url": "https://www.goodgoodgood.co/articles/tacoma-washington-animal-shelter-thanksgiving",
-   "source": "Good Good Good",
-   "published": "2026-11-25T19:38:00.000Z",
+   "title": "Detectives Recover 13th Century Sculpture Stolen by Notorious ‘Gentleman Thief’ Erik the Belgian",
+   "url": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/",
+   "source": "Good News Network",
+   "published": "2026-11-25T19:30:55.000Z",
    "good": true
   },
   {
@@ -45,31 +70,6 @@
    "published": "2026-11-26T00:22:18.000Z"
   },
   {
-   "title": "Detectives Recover 13th Century Sculpture Stolen by Notorious ‘Gentleman Thief’ Erik the Belgian",
-   "url": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/",
-   "source": "Good News Network",
-   "published": "2026-11-25T19:30:55.000Z",
-   "good": true
-  },
-  {
-   "title": "Future winters may be forever different, Met Office warns",
-   "url": "https://news.sky.com/story/uk-weather-met-office-warns-of-fewer-frosts-and-more-hot-days-because-of-climate-change-13616621",
-   "source": "Sky News",
-   "published": "2026-11-26T00:18:00.000Z"
-  },
-  {
-   "title": "BBC launches partnership with Met Office for weather coverage",
-   "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T00:12:37.000Z"
-  },
-  {
-   "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-   "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T00:08:07.000Z"
-  },
-  {
    "title": "Schools and tribes are bringing Native foods and culture to the cafeteria",
    "url": "https://www.goodgoodgood.co/articles/hopi-schools-native-foods",
    "source": "Good Good Good",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "US approves SpaceX plan to send a million data satellites to space",
-   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T00:07:51.000Z"
+   "title": "Future winters may be forever different, Met Office warns",
+   "url": "https://news.sky.com/story/uk-weather-met-office-warns-of-fewer-frosts-and-more-hot-days-because-of-climate-change-13616621",
+   "source": "Sky News",
+   "published": "2026-11-26T00:18:00.000Z"
   },
   {
    "title": "Indigenous women plant hundreds of thousands of trees to restore water sources",
