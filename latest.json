@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-26T01:21:02.733Z",
+ "updated": "2026-11-26T02:30:20.463Z",
  "items": [
+  {
+   "title": "UK government set to publish new treaties agreed with EU",
+   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T02:13:00.000Z"
+  },
   {
    "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
    "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
@@ -14,17 +20,17 @@
    "published": "2026-11-26T00:24:25.000Z"
   },
   {
-   "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-   "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T00:23:27.000Z"
-  },
-  {
    "title": "Animal shelters give adoptable pets a Thanksgiving to remember: ‘Just because they’re homeless doesn’t mean they’re waiting to live’",
    "url": "https://www.goodgoodgood.co/articles/tacoma-washington-animal-shelter-thanksgiving",
    "source": "Good Good Good",
    "published": "2026-11-25T19:38:00.000Z",
    "good": true
+  },
+  {
+   "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T00:23:27.000Z"
   },
   {
    "title": "Has global jihadism failed, or is it simply changing shape?",
@@ -39,17 +45,17 @@
    "published": "2026-11-26T00:12:37.000Z"
   },
   {
-   "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-   "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-26T00:08:07.000Z"
-  },
-  {
    "title": "Detectives Recover 13th Century Sculpture Stolen by Notorious ‘Gentleman Thief’ Erik the Belgian",
    "url": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/",
    "source": "Good News Network",
    "published": "2026-11-25T19:30:55.000Z",
    "good": true
+  },
+  {
+   "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+   "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-26T00:08:07.000Z"
   },
   {
    "title": "US approves SpaceX plan to send a million data satellites to space",
@@ -64,12 +70,6 @@
    "published": "2026-11-26T00:02:50.000Z"
   },
   {
-   "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-25T23:26:50.000Z"
-  },
-  {
    "title": "Schools and tribes are bringing Native foods and culture to the cafeteria",
    "url": "https://www.goodgoodgood.co/articles/hopi-schools-native-foods",
    "source": "Good Good Good",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Duran Duran guitarist Andy Taylor dies aged 65",
-   "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+   "title": "A renovation was meant to improve these Hong Kong homes - it ended in an blaze that killed 168",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-25T22:19:38.000Z"
+   "published": "2026-11-25T23:26:50.000Z"
   },
   {
    "title": "Indigenous women plant hundreds of thousands of trees to restore water sources",
