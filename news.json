@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-26T17:28:50.932Z",
+ "updated": "2026-11-27T06:28:08.552Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
+    {
+     "title": "Throwback Thursday: Canon’s 2006 PowerShot G7, the only G camera without Raw",
+     "url": "https://www.dpreview.com/articles/throwback-thursday-canons-2006-powershot-g7-the-only-g-camera-without-raw/",
+     "source": "DPReview",
+     "published": "2026-11-26T18:23:52.000Z"
+    },
     {
      "title": "Thanksgiving and a newborn meerkat pup: photos of the day – Thursday",
      "url": "https://www.theguardian.com/news/gallery/2026/nov/26/thanksgiving-and-a-newborn-meerkat-pup-photos-of-the-day-thursday",
@@ -58,12 +64,6 @@
      "url": "https://aperture.org/editorial/2026-holiday-photobook-gift-guide/",
      "source": "Aperture",
      "published": "2026-11-24T15:51:32.000Z"
-    },
-    {
-     "title": "How Can Photographs Inspire Social Change?",
-     "url": "https://aperture.org/editorial/how-can-photographs-inspire-social-change/",
-     "source": "Aperture",
-     "published": "2026-11-23T19:46:48.000Z"
     }
    ]
   },
@@ -71,6 +71,12 @@
    "id": "ai",
    "name": "AI",
    "items": [
+    {
+     "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+     "url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+     "source": "The Guardian",
+     "published": "2026-11-26T18:34:17.000Z"
+    },
     {
      "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
      "url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
@@ -82,12 +88,6 @@
      "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
      "source": "The Guardian",
      "published": "2026-11-26T12:19:37.000Z"
-    },
-    {
-     "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
-     "url": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
-     "source": "The Guardian",
-     "published": "2026-11-26T11:23:41.000Z"
     },
     {
      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -126,10 +126,10 @@
      "published": "2026-11-25T10:00:00.000Z"
     },
     {
-     "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-     "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-     "source": "MIT Technology Review",
-     "published": "2026-11-23T17:36:08.000Z"
+     "title": "What's going on with the Riemann hypothesis?",
+     "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+     "source": "Ars Technica",
+     "published": "2026-11-24T20:34:53.000Z"
     }
    ]
   },
@@ -138,58 +138,58 @@
    "name": "UK politics",
    "items": [
     {
-     "title": "The government unit with millions to spend on socials",
-     "url": "https://www.bbc.co.uk/news/videos/c9p83zv55xx5o?at_medium=RSS&at_campaign=rss",
+     "title": "Chris Mason: Immigration stats are down but will that be the end of the issue?",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg23ql63ypo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-26T17:22:39.000Z"
+     "published": "2026-11-27T06:12:19.000Z"
     },
     {
-     "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+     "title": "The most surprising thing about Burnham’s slow politics is this: it could be working | Andy Beckett",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/27/andy-burnham-slow-politics-working-media-voters-reset-westminster",
      "source": "The Guardian",
-     "published": "2026-11-26T17:13:25.000Z"
+     "published": "2026-11-27T06:00:56.000Z"
+    },
+    {
+     "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+     "source": "The Guardian",
+     "published": "2026-11-27T06:00:55.000Z"
+    },
+    {
+     "title": "Reform UK pledges to scrap hospital parking fees in England",
+     "url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T06:00:41.000Z"
+    },
+    {
+     "title": "Have social media stars demeaned No 10?",
+     "url": "https://news.sky.com/story/have-social-media-stars-demeaned-no-10-13616937",
+     "source": "Sky News",
+     "published": "2026-11-27T05:50:00.000Z"
+    },
+    {
+     "title": "UK to pay 'participation' fee to deliver EU deals",
+     "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T23:17:12.000Z"
+    },
+    {
+     "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+     "source": "The Guardian",
+     "published": "2026-11-26T20:01:47.000Z"
     },
     {
      "title": "Burnham says UK net migration now under 'sufficient' control",
      "url": "https://www.bbc.co.uk/news/articles/ck792l8ndqyqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-26T17:06:51.000Z"
+     "published": "2026-11-26T19:43:09.000Z"
     },
     {
-     "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
-     "url": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
+     "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
      "source": "The Guardian",
-     "published": "2026-11-26T17:00:52.000Z"
-    },
-    {
-     "title": "Watch: Sadiq Khan proud of 'various identities' in Lords maiden speech",
-     "url": "https://www.bbc.co.uk/news/videos/cqglrn0kjjl4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T16:49:14.000Z"
-    },
-    {
-     "title": "Burnham joined by former PMs at Widdecombe service",
-     "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T16:48:40.000Z"
-    },
-    {
-     "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-     "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-     "source": "The Guardian",
-     "published": "2026-11-26T16:13:09.000Z"
-    },
-    {
-     "title": "Rosebank rebellion: are resignations next? – podcast",
-     "url": "https://www.theguardian.com/politics/audio/2026/nov/26/rosebank-rebellion-are-resignations-next-podcast",
-     "source": "The Guardian",
-     "published": "2026-11-26T16:07:41.000Z"
-    },
-    {
-     "title": "Child homelessness increases chance of being NEET, study says",
-     "url": "https://news.sky.com/story/child-homelessness-increases-chance-of-being-neet-study-says-13616399",
-     "source": "Sky News",
-     "published": "2026-11-26T04:05:00.000Z"
+     "published": "2026-11-26T19:38:26.000Z"
     },
     {
      "title": "'Misperceptions' on immigration widespread among public, study finds",
@@ -204,64 +204,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "When will Poundland shops close? Five key questions answered",
-     "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+     "title": "How much is your rent in Birmingham?",
+     "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-26T17:21:21.000Z"
+     "published": "2026-11-27T06:11:32.000Z"
     },
     {
-     "title": "Tottenham star acquires stake in British midlife supplements brand Muto",
-     "url": "https://www.cityam.com/tottenham-star-acquires-stake-in-british-midlife-supplements-brand-muto/",
+     "title": "The food bank helping pet owners with rising bills",
+     "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T06:11:13.000Z"
+    },
+    {
+     "title": "100,000 Britons bought into SpaceX – our growth companies should be next",
+     "url": "https://www.cityam.com/100000-britons-bought-into-spacex-our-growth-companies-should-be-next/",
      "source": "City AM",
-     "published": "2026-11-26T15:52:32.000Z"
+     "published": "2026-11-27T05:59:00.000Z"
     },
     {
-     "title": "New UK-EU treaty has 10-year termination clause",
-     "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T15:23:17.000Z"
-    },
-    {
-     "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-     "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
-     "source": "The Guardian",
-     "published": "2026-11-26T15:12:36.000Z"
-    },
-    {
-     "title": "Fifa hack branded wake-up call for sport after cyberattack spree",
-     "url": "https://www.cityam.com/fifa-hack-branded-wake-up-call-for-sport-after-cyberattack-spree/",
+     "title": "Lord Agnew: AI has made the need for better numeracy more urgent",
+     "url": "https://www.cityam.com/lord-agnew-ai-has-made-the-need-for-better-numeracy-more-urgent/",
      "source": "City AM",
-     "published": "2026-11-26T15:08:00.000Z"
+     "published": "2026-11-27T05:37:00.000Z"
     },
     {
-     "title": "City firms Lloyd’s Register and M&G backed divisive ‘glass box’ demolition",
-     "url": "https://www.cityam.com/city-firms-lloyds-and-mg-backed-divisive-glass-box-demolition/",
+     "title": "Our next Mayor must give London’s build environment back its mojo",
+     "url": "https://www.cityam.com/oyr-next-mayor-must-give-londons-build-environment-back-its-mojo/",
      "source": "City AM",
-     "published": "2026-11-26T15:02:29.000Z"
+     "published": "2026-11-27T05:28:00.000Z"
     },
     {
-     "title": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
-     "source": "The Guardian",
-     "published": "2026-11-26T15:00:37.000Z"
-    },
-    {
-     "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
-     "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
-     "source": "The Guardian",
-     "published": "2026-11-26T14:41:19.000Z"
-    },
-    {
-     "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-     "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+     "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-26T14:28:22.000Z"
+     "published": "2026-11-27T00:54:45.000Z"
     },
     {
-     "title": "Millions of people to see average monthly mortgage payments rise by £100",
-     "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+     "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-26T14:00:20.000Z"
+     "published": "2026-11-27T00:02:19.000Z"
+    },
+    {
+     "title": "Major East Midlands road projects shelved to divert funding to defence",
+     "url": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
+     "source": "The Guardian",
+     "published": "2026-11-26T18:47:24.000Z"
+    },
+    {
+     "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+     "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+     "source": "The Guardian",
+     "published": "2026-11-26T18:43:13.000Z"
+    },
+    {
+     "title": "Some old-school advice for Burnham: boost competition if you want growth | Nils Pratley",
+     "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth",
+     "source": "The Guardian",
+     "published": "2026-11-26T18:19:14.000Z"
     }
    ]
   },
@@ -270,22 +270,34 @@
    "name": "Tech",
    "items": [
     {
+     "title": "Asia made a big AI bet on Nvidia. What happens now?",
+     "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-26T23:08:12.000Z"
+    },
+    {
+     "title": "Netflix’s coziest show has made a very quiet return",
+     "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+     "source": "The Verge",
+     "published": "2026-11-26T21:00:00.000Z"
+    },
+    {
+     "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+     "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+     "source": "The Verge",
+     "published": "2026-11-26T19:00:00.000Z"
+    },
+    {
+     "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+     "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+     "source": "Ars Technica",
+     "published": "2026-11-26T18:00:29.000Z"
+    },
+    {
      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
      "source": "The Verge",
      "published": "2026-11-26T17:07:00.000Z"
-    },
-    {
-     "title": "Android app developers will soon have to share their address publicly",
-     "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-     "source": "The Verge",
-     "published": "2026-11-26T17:06:24.000Z"
-    },
-    {
-     "title": "The best Black Friday deals we’ve already found",
-     "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-     "source": "The Verge",
-     "published": "2026-11-26T16:55:00.000Z"
     },
     {
      "title": "Draining peatlands is responsible for a few percent of our global warming",
@@ -306,12 +318,6 @@
      "published": "2026-11-26T09:27:44.000Z"
     },
     {
-     "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-     "source": "Ars Technica",
-     "published": "2026-11-25T22:36:45.000Z"
-    },
-    {
      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -322,12 +328,6 @@
      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-25T10:11:34.000Z"
-    },
-    {
-     "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-     "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-25T10:03:12.000Z"
     }
    ]
   },
@@ -336,10 +336,34 @@
    "name": "Arts",
    "items": [
     {
+     "title": "\"We wanted to avoid the idea of tropical modernism\" says curator of Geoffrey Bawa exhibition at Vitra Design Museum",
+     "url": "https://www.dezeen.com/2026/11/27/geoffrey-bawa-exhibition-vitra-design-museum/",
+     "source": "Dezeen",
+     "published": "2026-11-27T06:00:00.000Z"
+    },
+    {
+     "title": "Banish gloom with Paul Foot’s teetering towers of nonsense in fizzy show The Future",
+     "url": "https://www.theguardian.com/stage/2026/nov/27/paul-foot-soho-theatre-london-review-the-future",
+     "source": "The Guardian",
+     "published": "2026-11-27T05:00:54.000Z"
+    },
+    {
      "title": "Huw Edwards gives first interviews since child abuse image conviction",
      "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-26T17:09:21.000Z"
+     "published": "2026-11-27T00:38:03.000Z"
+    },
+    {
+     "title": "Victorian hospital conversion in Edinburgh named Scotland’s best new building",
+     "url": "https://www.dezeen.com/2026/11/27/rias-doolan-award-edinburgh-futures/",
+     "source": "Dezeen",
+     "published": "2026-11-27T00:01:00.000Z"
+    },
+    {
+     "title": "Mammy Goose is well and truly cooked in Glasgow’s incredibly random Aladdin",
+     "url": "https://www.theguardian.com/stage/2026/nov/26/aladdin-review-kings-theatre-glasgow-elaine-c-smith",
+     "source": "The Guardian",
+     "published": "2026-11-26T17:02:00.000Z"
     },
     {
      "title": "You Can See Everything overtly riffs on Vertigo. But how big is its debt to Kiarostami’s Close-Up?",
@@ -348,40 +372,16 @@
      "published": "2026-11-26T16:50:00.000Z"
     },
     {
-     "title": "Jesse Eisenberg says his films contain ‘no sexuality’. But maybe his fans are just less desperate?",
-     "url": "https://www.theguardian.com/film/2026/nov/26/jesse-eisenberg-says-his-films-contain-no-sexuality-but-maybe-his-fans-are-just-less-desperate",
-     "source": "The Guardian",
-     "published": "2026-11-26T16:44:59.000Z"
-    },
-    {
-     "title": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
-     "url": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould",
-     "source": "The Guardian",
-     "published": "2026-11-26T16:26:57.000Z"
-    },
-    {
-     "title": "Protesters disrupt Paul Smith's book talk",
+     "title": "Protesters disrupt Sir Paul Smith's book talk",
      "url": "https://www.bbc.co.uk/news/articles/cvj6lyz61rpko?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-26T15:14:28.000Z"
     },
     {
-     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-     "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+     "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-26T12:33:23.000Z"
-    },
-    {
-     "title": "\"Europe's largest museum development\" opens in 1930s Citroën garage in Brussels",
-     "url": "https://www.dezeen.com/2026/11/26/kanal-museum-brussels-renovation-atelier-kanal/",
-     "source": "Dezeen",
-     "published": "2026-11-26T11:45:00.000Z"
-    },
-    {
-     "title": "Meet BC Architects & Studies & Materials, Marina Tabassum's pick for the most influential architect of the next 20 years",
-     "url": "https://www.dezeen.com/2026/11/26/bc-architects-interview-20x20-marina-tabassum-2/",
-     "source": "Dezeen",
-     "published": "2026-11-26T11:22:28.000Z"
+     "published": "2026-11-26T14:44:26.000Z"
     },
     {
      "title": "‘Pay attention and stay curious’: Réka Matyas on her charming little worlds filled with spotty dogs and polka-dog cats",
@@ -402,40 +402,46 @@
    "name": "London",
    "items": [
     {
+     "title": "Tube strikes LIVE: Early-morning travel chaos as RMT walkout enters second day",
+     "url": "https://www.standard.co.uk/news/london/tube-strikes-latest-friday-live-updates-rmt-piccadilly-circle-lines-b1306404.html",
+     "source": "The Standard",
+     "published": "2026-11-27T06:20:10.000Z"
+    },
+    {
+     "title": "Women urged to report sexual harassment locations",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyj2526g7go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T06:13:09.000Z"
+    },
+    {
+     "title": "Council to set London's highest littering fines",
+     "url": "https://www.bbc.co.uk/news/articles/ckj0590g84nno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T06:11:37.000Z"
+    },
+    {
+     "title": "How to watch Nottingham Forest vs Chelsea: TV channel and live stream for Premier League today",
+     "url": "https://www.standard.co.uk/sport/football/how-to-watch-nottm-forest-vs-chelsea-fc-tv-channel-live-stream-premier-league-today-b1306619.html",
+     "source": "The Standard",
+     "published": "2026-11-27T06:00:24.000Z"
+    },
+    {
+     "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+     "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-27T00:58:49.000Z"
+    },
+    {
+     "title": "Man who stabbed passengers on train to London guilty of attempted murder of 14 people",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
+     "source": "The Guardian",
+     "published": "2026-11-26T17:43:24.000Z"
+    },
+    {
      "title": "What we learned from the government’s latest release of Mandelson documents",
      "url": "https://www.theguardian.com/politics/2026/nov/26/what-we-learned-latest-release-peter-mandelson-documents",
      "source": "The Guardian",
      "published": "2026-11-26T17:18:57.000Z"
-    },
-    {
-     "title": "I’m tracking the best Black Friday 2026 deals LIVE – from Apple to Lululemon",
-     "url": "https://www.standard.co.uk/shopping/esbest/black-friday/black-friday-deals-live-b1306215.html",
-     "source": "The Standard",
-     "published": "2026-11-26T17:17:51.000Z"
-    },
-    {
-     "title": "Woman thought £750,000 payment to Andrew would help get UK residency, court told",
-     "url": "https://www.standard.co.uk/news/crime/andrew-mountbattenwindsor-high-court-turkey-duke-of-york-york-b1306583.html",
-     "source": "The Standard",
-     "published": "2026-11-26T17:13:48.000Z"
-    },
-    {
-     "title": "Selby faces tough UK opener, with Allen set to feature",
-     "url": "https://www.bbc.co.uk/sport/snooker/articles/cwkgmdryrv4ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T15:49:07.000Z"
-    },
-    {
-     "title": "Former Harlequins scrum-half Starmer-Smith dies aged 81",
-     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6rrg20xdq2vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T15:26:24.000Z"
-    },
-    {
-     "title": "Daughter in court on assisted suicide charge",
-     "url": "https://www.bbc.co.uk/news/articles/c6wy4012jn41o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T15:10:28.000Z"
     },
     {
      "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs say",
@@ -454,12 +460,6 @@
      "url": "https://londonist.com/london/music/ministry-of-sound-history",
      "source": "Londonist",
      "published": "2026-11-26T10:00:00.000Z"
-    },
-    {
-     "title": "London commuters braced for disruption as tube strike begins",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
-     "source": "The Guardian",
-     "published": "2026-11-26T06:56:24.000Z"
     }
    ]
   }
