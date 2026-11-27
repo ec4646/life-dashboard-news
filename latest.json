@@ -1,11 +1,30 @@
 {
- "updated": "2026-11-27T10:15:57.059Z",
+ "updated": "2026-11-27T11:15:47.882Z",
  "items": [
+  {
+   "title": "What we know about Department for Work and Pensions 'cyber incident'",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-27T11:04:18.000Z"
+  },
+  {
+   "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+   "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-27T10:26:28.000Z"
+  },
   {
    "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
    "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-27T10:10:36.000Z"
+  },
+  {
+   "title": "Making Peace With a Himalayan ‘Ghost’",
+   "url": "https://reasonstobecheerful.world/snow-leopard-conservation-himalayas/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-11-27T08:00:59.000Z",
+   "good": true
   },
   {
    "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
@@ -20,10 +39,16 @@
    "published": "2026-11-27T09:43:38.000Z"
   },
   {
-   "title": "Making Peace With a Himalayan ‘Ghost’",
-   "url": "https://reasonstobecheerful.world/snow-leopard-conservation-himalayas/",
-   "source": "Reasons to be Cheerful",
-   "published": "2026-11-27T08:00:59.000Z",
+   "title": "Centrica warns on jobs after government snubs Rough gas storage deal",
+   "url": "https://news.sky.com/story/centrica-warns-on-jobs-after-government-snubs-rough-gas-storage-deal-13617109",
+   "source": "Sky News",
+   "published": "2026-11-27T09:13:00.000Z"
+  },
+  {
+   "title": "Town Rewards a Woman Whose Thanksgiving Meal Feeds Thousands with a New Car",
+   "url": "https://www.goodnewsnetwork.org/town-rewards-a-woman-whose-thanksgiving-meal-feeds-thousands-with-a-new-car/",
+   "source": "Good News Network",
+   "published": "2026-11-26T16:30:18.000Z",
    "good": true
   },
   {
@@ -39,35 +64,10 @@
    "published": "2026-11-27T07:53:24.000Z"
   },
   {
-   "title": "MoD writes to veterans to ready them for possibility of mobilisation - but can't find contact details for half",
+   "title": "MoD can't find contact details for half of veterans",
    "url": "https://news.sky.com/story/mod-missing-contact-details-for-nearly-half-of-uks-strategic-reservists-13617071",
    "source": "Sky News",
    "published": "2026-11-27T07:30:00.000Z"
-  },
-  {
-   "title": "Town Rewards a Woman Whose Thanksgiving Meal Feeds Thousands with a New Car",
-   "url": "https://www.goodnewsnetwork.org/town-rewards-a-woman-whose-thanksgiving-meal-feeds-thousands-with-a-new-car/",
-   "source": "Good News Network",
-   "published": "2026-11-26T16:30:18.000Z",
-   "good": true
-  },
-  {
-   "title": "Watch: Student describes moment passenger 'threw himself' at attacker and saved her life",
-   "url": "https://www.bbc.co.uk/news/videos/cqzr566llz4no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-27T06:50:28.000Z"
-  },
-  {
-   "title": "Chris Mason: Immigration stats are down but will that be the end of the issue?",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg23ql63ypo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-27T06:12:19.000Z"
-  },
-  {
-   "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
-   "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-27T06:09:31.000Z"
   },
   {
    "title": "For This NYC Restaurant Owner, Thanksgiving Comes Every Wednesday",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+   "title": "Watch: Student describes moment passenger 'threw himself' at attacker and saved her life",
+   "url": "https://www.bbc.co.uk/news/videos/cqzr566llz4no?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-27T06:04:51.000Z"
+   "published": "2026-11-27T06:50:28.000Z"
   },
   {
    "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
