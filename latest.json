@@ -1,11 +1,30 @@
 {
- "updated": "2026-11-28T13:44:44.080Z",
+ "updated": "2026-11-28T14:28:13.012Z",
  "items": [
+  {
+   "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-28T14:10:01.000Z"
+  },
+  {
+   "title": "Man arrested on suspicion of murdering 16-year-old girl",
+   "url": "https://news.sky.com/story/man-arrested-on-suspicion-of-murdering-16-year-old-girl-in-east-london-13617507",
+   "source": "Sky News",
+   "published": "2026-11-28T14:09:00.000Z"
+  },
   {
    "title": "Argentina's bid to stop Falklands oil drilling rejected",
    "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-28T13:36:36.000Z"
+  },
+  {
+   "title": "Traffic deaths hit historic low — and more good news from this week: November 28, 2026",
+   "url": "https://www.goodgoodgood.co/articles/good-news-this-week-november-28-2026",
+   "source": "Good Good Good",
+   "published": "2026-11-28T13:00:00.000Z",
+   "good": true
   },
   {
    "title": "Actor and comedian PJ Gallagher dies aged 51",
@@ -20,29 +39,10 @@
    "published": "2026-11-28T13:02:10.000Z"
   },
   {
-   "title": "Traffic deaths hit historic low — and more good news from this week: November 28, 2026",
-   "url": "https://www.goodgoodgood.co/articles/good-news-this-week-november-28-2026",
-   "source": "Good Good Good",
-   "published": "2026-11-28T13:00:00.000Z",
-   "good": true
-  },
-  {
    "title": "Channel 4 executive defends Huw Edwards documentary",
    "url": "https://www.bbc.co.uk/news/articles/c5gm3z8y0nxdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-28T12:56:54.000Z"
-  },
-  {
-   "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-28T12:49:44.000Z"
-  },
-  {
-   "title": "Woman, 21, dies in Staffordshire crash following police pursuit",
-   "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-28T12:09:09.000Z"
   },
   {
    "title": "Making Peace With a Himalayan ‘Ghost’",
@@ -50,6 +50,12 @@
    "source": "Reasons to be Cheerful",
    "published": "2026-11-27T08:00:59.000Z",
    "good": true
+  },
+  {
+   "title": "Woman, 21, dies in Staffordshire crash following police pursuit",
+   "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-28T12:09:09.000Z"
   },
   {
    "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
@@ -64,12 +70,6 @@
    "published": "2026-11-28T11:27:00.000Z"
   },
   {
-   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-28T10:34:58.000Z"
-  },
-  {
    "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
    "url": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
    "source": "Good News Network",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "Rayner summons housebuilding bosses for cladding remediation talks",
-   "url": "https://news.sky.com/story/rayner-summons-housebuilding-bosses-for-cladding-remediation-talks-13617436",
-   "source": "Sky News",
-   "published": "2026-11-28T10:28:00.000Z"
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-28T10:34:58.000Z"
   },
   {
    "title": "Texans Work for Free on Farms That Aren’t Theirs to Send Others’ Kids to College",
