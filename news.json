@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-28T06:27:21.923Z",
+ "updated": "2026-11-28T12:17:49.215Z",
  "topics": [
   {
    "id": "photography",
    "name": "Photography",
    "items": [
+    {
+     "title": "‘It reminds me of a bright star in the night sky’: Sophia Dom’s best phone picture",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/28/sophia-dom-best-phone-picture-flower-ivanova-russia",
+     "source": "The Guardian",
+     "published": "2026-11-28T11:00:39.000Z"
+    },
     {
      "title": "PGYTECH RetroVa Gives the iPhone a 400mm Reach and a Real Camera Feel",
      "url": "https://petapixel.com/2026/11/27/pgytech-retrova-gives-the-iphone-a-400mm-reach-and-a-real-camera-feel/",
@@ -48,12 +54,6 @@
      "published": "2026-11-27T16:12:29.000Z"
     },
     {
-     "title": "Teeny tiny Tracey Emin, the mother of the Moomins and Latvia’s Nazi murders – the week in art",
-     "url": "https://www.theguardian.com/artanddesign/2026/nov/27/tracey-emin-tove-jansson-the-544-the-week-in-art",
-     "source": "The Guardian",
-     "published": "2026-11-27T12:26:19.000Z"
-    },
-    {
      "title": "Throwback Thursday: Canon’s 2006 PowerShot G7, the only G camera without Raw",
      "url": "https://www.dpreview.com/articles/throwback-thursday-canons-2006-powershot-g7-the-only-g-camera-without-raw/",
      "source": "DPReview",
@@ -72,6 +72,18 @@
    "name": "AI",
    "items": [
     {
+     "title": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
+     "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+     "source": "The Guardian",
+     "published": "2026-11-28T08:00:34.000Z"
+    },
+    {
+     "title": "Grand Theft Anthropic: how GTA can inspire a fightback against AI | Alexander Hurst",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
+     "source": "The Guardian",
+     "published": "2026-11-28T07:00:34.000Z"
+    },
+    {
      "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
      "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
      "source": "The Guardian",
@@ -82,12 +94,6 @@
      "url": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
      "source": "The Guardian",
      "published": "2026-11-28T05:00:30.000Z"
-    },
-    {
-     "title": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
-     "source": "The Guardian",
-     "published": "2026-11-27T18:10:18.000Z"
     },
     {
      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
@@ -120,16 +126,10 @@
      "published": "2026-11-25T16:47:14.000Z"
     },
     {
-     "title": "AI may soon change what it means to be a theoretical physicist",
-     "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-     "source": "Ars Technica",
-     "published": "2026-11-25T12:00:28.000Z"
-    },
-    {
-     "title": "AI is straining America’s open records systems",
-     "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-     "source": "MIT Technology Review",
-     "published": "2026-11-25T10:00:00.000Z"
+     "title": "Nothing offers a full look at its AI earbuds and charging case",
+     "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+     "source": "The Verge",
+     "published": "2026-11-25T16:00:59.000Z"
     }
    ]
   },
@@ -137,6 +137,18 @@
    "id": "politics",
    "name": "UK politics",
    "items": [
+    {
+     "title": "Rayner summons housebuilding bosses for cladding remediation talks",
+     "url": "https://news.sky.com/story/rayner-summons-housebuilding-bosses-for-cladding-remediation-talks-13617436",
+     "source": "Sky News",
+     "published": "2026-11-28T10:28:00.000Z"
+    },
+    {
+     "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions",
+     "source": "The Guardian",
+     "published": "2026-11-28T08:00:34.000Z"
+    },
     {
      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
@@ -174,12 +186,6 @@
      "published": "2026-11-27T16:42:22.000Z"
     },
     {
-     "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-     "source": "The Guardian",
-     "published": "2026-11-27T16:33:28.000Z"
-    },
-    {
      "title": "Reform politician seeks legal action over Senedd ban",
      "url": "https://www.bbc.co.uk/news/videos/cm8680n2x405o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
@@ -190,12 +196,6 @@
      "url": "https://www.bbc.co.uk/news/articles/cw24ez2zvge0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-27T16:00:14.000Z"
-    },
-    {
-     "title": "They crossed the doom loop of Groundhog Day with Nightmare on Elm Street. Voilà – it’s Peter Mandelson | Robert Hutton",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/27/groundhog-day-nightmare-on-elm-street-peter-mandelson-brexit-debate",
-     "source": "The Guardian",
-     "published": "2026-11-27T15:29:13.000Z"
     }
    ]
   },
@@ -204,64 +204,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "London’s best festive menus, events and restaurants for December",
-     "url": "https://www.cityam.com/londons-best-festive-menus-events-and-restaurants-for-december/",
-     "source": "City AM",
-     "published": "2026-11-28T06:00:00.000Z"
+     "title": "Christmas market 'absolutely vital' for businesses",
+     "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T12:09:09.000Z"
     },
     {
-     "title": "Lloyds emerges as frontrunner to buy Aldermore",
-     "url": "https://www.cityam.com/lloyds-emerges-as-frontrunner-to-buy-aldermore/",
-     "source": "City AM",
-     "published": "2026-11-27T18:45:12.000Z"
+     "title": "Poundland closure 'big loss' for former mining town",
+     "url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T12:07:08.000Z"
     },
     {
-     "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+     "title": "Under the influence: how creator marketing upended advertising",
+     "url": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media",
      "source": "The Guardian",
-     "published": "2026-11-27T18:07:43.000Z"
+     "published": "2026-11-28T11:00:37.000Z"
     },
     {
-     "title": "Game on: How to make the most of game season",
-     "url": "https://www.cityam.com/game-on-how-to-make-the-most-of-game-season/",
-     "source": "City AM",
-     "published": "2026-11-27T17:32:00.000Z"
-    },
-    {
-     "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
-     "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+     "title": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
+     "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
      "source": "The Guardian",
-     "published": "2026-11-27T17:21:18.000Z"
+     "published": "2026-11-28T10:52:00.000Z"
+    },
+    {
+     "title": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
+     "url": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
+     "source": "The Guardian",
+     "published": "2026-11-28T10:00:36.000Z"
+    },
+    {
+     "title": "National Gallery visitors don’t need an algorithm to tell them what to like",
+     "url": "https://www.cityam.com/national-gallery-algorithm-serendipity-art/",
+     "source": "City AM",
+     "published": "2026-11-28T09:00:00.000Z"
+    },
+    {
+     "title": "Marlboro man strikes match on tobacco dealmaking",
+     "url": "https://www.cityam.com/marlboro-man-strikes-match-on-tobacco-dealmaking/",
+     "source": "City AM",
+     "published": "2026-11-28T08:00:00.000Z"
+    },
+    {
+     "title": "Butcher blames costs for closure after 127 years",
+     "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T07:18:47.000Z"
+    },
+    {
+     "title": "How QPR nearly pioneered the 365-day stadium in the mid 1980s",
+     "url": "https://www.cityam.com/how-qpr-pioneered-365-day-stadium/",
+     "source": "City AM",
+     "published": "2026-11-28T07:00:00.000Z"
     },
     {
      "title": "Will new energy fixes cost more in January?",
      "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-27T16:05:32.000Z"
-    },
-    {
-     "title": "British Gas owner seeks urgent government talks over future of storage facility",
-     "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
-     "source": "The Guardian",
-     "published": "2026-11-27T15:56:31.000Z"
-    },
-    {
-     "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
-     "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T10:10:36.000Z"
-    },
-    {
-     "title": "'We're scared to turn our heating on'",
-     "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T08:47:00.000Z"
-    },
-    {
-     "title": "How much is your rent in Birmingham?",
-     "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T06:11:32.000Z"
     }
    ]
   },
@@ -269,6 +269,24 @@
    "id": "tech",
    "name": "Tech",
    "items": [
+    {
+     "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+     "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+     "source": "Ars Technica",
+     "published": "2026-11-28T12:00:20.000Z"
+    },
+    {
+     "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+     "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T11:35:34.000Z"
+    },
+    {
+     "title": "Pensions and benefits services still down after 'cyber incident'",
+     "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T09:10:32.000Z"
+    },
     {
      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
@@ -310,24 +328,6 @@
      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
      "source": "Ars Technica",
      "published": "2026-11-27T12:05:01.000Z"
-    },
-    {
-     "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
-     "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
-     "source": "Ars Technica",
-     "published": "2026-11-27T11:30:04.000Z"
-    },
-    {
-     "title": "Why is there a shortage of 'wizard' elevator mechanics?",
-     "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T00:02:19.000Z"
-    },
-    {
-     "title": "Asia made a big AI bet on Nvidia. What happens now?",
-     "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-26T23:08:12.000Z"
     }
    ]
   },
@@ -336,52 +336,52 @@
    "name": "Arts",
    "items": [
     {
-     "title": "This week the highly anticipated London Museum opened",
-     "url": "https://www.dezeen.com/2026/11/28/london-museum-opened-this-week/",
+     "title": "Timber grid and external stair offer \"a wink\" to Centre Pompidou at its annexe in Massy",
+     "url": "https://www.dezeen.com/2026/11/28/centre-pompidou-francilien-pca-stream/",
      "source": "Dezeen",
-     "published": "2026-11-28T06:00:00.000Z"
+     "published": "2026-11-28T11:00:00.000Z"
     },
     {
-     "title": "The little Welsh town that transformed a Strictly star's career",
-     "url": "https://www.bbc.co.uk/news/articles/cx7v2r8nr00mo?at_medium=RSS&at_campaign=rss",
+     "title": "Actor and comedian PJ Gallagher dies aged 51",
+     "url": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-27T22:03:22.000Z"
+     "published": "2026-11-28T10:17:01.000Z"
     },
     {
-     "title": "Programa extension brings SketchUp models and product schedules into one workflow",
-     "url": "https://www.dezeen.com/2026/11/27/programa-extension-sketchup-models-and-product-schedules-one-workflow/",
+     "title": "Five novelty streetwear products that add a touch of fun to the everyday",
+     "url": "https://www.dezeen.com/2026/11/28/novelty-streetwear-products-elevate-everyday/",
      "source": "Dezeen",
-     "published": "2026-11-27T21:00:00.000Z"
+     "published": "2026-11-28T10:00:00.000Z"
+    },
+    {
+     "title": "Sly, subversive and surprisingly modern: why Agatha Christie is still making a killing",
+     "url": "https://www.theguardian.com/books/2026/nov/28/sly-subversive-and-surprisingly-modern-why-agatha-christie-is-still-making-a-killing",
+     "source": "The Guardian",
+     "published": "2026-11-28T09:00:35.000Z"
+    },
+    {
+     "title": "The radical clarity of NAZA makes You Can See Everything seem irrelevant | Charlotte Higgins",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/28/naza-you-can-see-everything-cannes-politics-war-cinema",
+     "source": "The Guardian",
+     "published": "2026-11-28T08:00:34.000Z"
+    },
+    {
+     "title": "Trinity: Jed Mercurio’s nuclear thriller is a phallus-slapping Freudian nightmare. You’ll be hooked!",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/28/trinity-jed-mercurios-nuclear-thriller-is-a-phallus-slapping-freudian-nightmare-youll-be-hooked",
+     "source": "The Guardian",
+     "published": "2026-11-28T07:00:33.000Z"
+    },
+    {
+     "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+     "url": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T03:03:36.000Z"
     },
     {
      "title": "Alun Wyn Jones urges men to talk about hair loss after transplant",
      "url": "https://www.bbc.co.uk/news/articles/c5742dygzn31o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
      "published": "2026-11-27T20:03:11.000Z"
-    },
-    {
-     "title": "Rare panto programmes owned by 'Freddie Mercury of his time' sell at auction",
-     "url": "https://www.bbc.co.uk/news/articles/c5vg2990y1pno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T18:37:54.000Z"
-    },
-    {
-     "title": "DJ Tink, drop the beat! Peter Pan hits Club NVRLND for some noughties nostalgia",
-     "url": "https://www.theguardian.com/stage/2026/nov/27/club-nvrlnd-review-diana-vickers-peter-pan-the-vaults-london",
-     "source": "The Guardian",
-     "published": "2026-11-27T16:29:09.000Z"
-    },
-    {
-     "title": "Play about 12-year-old ecojustice influencer wins Shakespeare’s Globe prize",
-     "url": "https://www.theguardian.com/stage/2026/nov/27/play-12-year-old-ecojustice-influencer-wins-shakespeares-globe-prize",
-     "source": "The Guardian",
-     "published": "2026-11-27T15:30:14.000Z"
-    },
-    {
-     "title": "It’s the biggest ever month for video games – so why am I playing a title from 2006? | Dominik Diamond",
-     "url": "https://www.theguardian.com/games/2026/nov/27/legend-zelda-ocarina-of-time-grand-theft-auto-vi-six-dominik-diamond",
-     "source": "The Guardian",
-     "published": "2026-11-27T14:00:13.000Z"
     },
     {
      "title": "‘Pay attention and stay curious’: Réka Matyas on her charming little worlds filled with spotty dogs and polka-dog cats",
@@ -402,46 +402,46 @@
    "name": "London",
    "items": [
     {
-     "title": "First look inside ‘mindblowing’ new London Museum - and 10 exhibits you must see",
-     "url": "https://www.standard.co.uk/news/london/museum-smithfield-first-look-london-mayor-sadiq-khan-culture-b1306054.html",
+     "title": "Best luxury perfume deals for Black Friday 2026, from Chanel, Byredo to Diptyque",
+     "url": "https://www.standard.co.uk/shopping/esbest/black-friday/black-friday-luxury-perfume-2026-deals-b1302657.html",
      "source": "The Standard",
-     "published": "2026-11-28T06:23:13.000Z"
+     "published": "2026-11-28T12:13:09.000Z"
     },
     {
-     "title": "What’s happening with flu in London? Hospital cases double in a month as NHS warns of ‘horrible surge’",
-     "url": "https://www.standard.co.uk/news/health/flu-london-hospital-cases-nhs-vacine-b1306717.html",
+     "title": "International court rejects Argentina’s bid to block Falklands oil drilling",
+     "url": "https://www.standard.co.uk/news/politics/argentina-falklands-ellie-reeves-buenos-aires-british-b1306805.html",
      "source": "The Standard",
-     "published": "2026-11-28T06:00:52.000Z"
+     "published": "2026-11-28T12:08:26.000Z"
     },
     {
-     "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
+     "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-27T21:31:54.000Z"
+     "published": "2026-11-28T11:53:00.000Z"
     },
     {
-     "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC News",
-     "published": "2026-11-27T16:14:34.000Z"
+     "title": "Where To Find Charles III Postboxes In London",
+     "url": "https://londonist.com/london/features/charles-iii-postbox-london",
+     "source": "Londonist",
+     "published": "2026-11-28T10:00:03.000Z"
     },
     {
-     "title": "Pedicabs in London must now be licensed",
-     "url": "https://www.bbc.co.uk/news/articles/c5j9mwgzvdy0o?at_medium=RSS&at_campaign=rss",
+     "title": "Council warned of 'unsustainable' finances again",
+     "url": "https://www.bbc.co.uk/news/articles/ck8680nn1lg7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC News",
-     "published": "2026-11-27T16:10:45.000Z"
+     "published": "2026-11-28T07:56:49.000Z"
+    },
+    {
+     "title": "No 10 posers, petitioners and (occasional) policymakers",
+     "url": "https://www.bbc.co.uk/news/articles/cmn805gex3g1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC News",
+     "published": "2026-11-28T07:55:53.000Z"
     },
     {
      "title": "Pick Your Own Christmas Tree At These Festive Farms In And Around London",
      "url": "https://londonist.com/london/christmas-in-london/pick-your-own-christmas-trees-pyo-farms-london",
      "source": "Londonist",
      "published": "2026-11-27T09:45:00.000Z"
-    },
-    {
-     "title": "Non-Christmassy Things To Do In London In December 2026",
-     "url": "https://londonist.com/london/christmas-in-london/non-christmassy-things-to-do-in-london-in-december",
-     "source": "Londonist",
-     "published": "2026-11-27T09:30:00.000Z"
     },
     {
      "title": "Man who stabbed passengers on train to London guilty of attempted murder of 14 people",
