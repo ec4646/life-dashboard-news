@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-28T09:29:44.767Z",
+ "updated": "2026-11-28T10:19:30.680Z",
  "items": [
+  {
+   "title": "Actor and comedian PJ Gallagher dies aged 51",
+   "url": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "published": "2026-11-28T10:17:01.000Z"
+  },
   {
    "title": "Pensions and benefits services still down after 'cyber incident'",
    "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "published": "2026-11-28T09:10:32.000Z"
-  },
-  {
-   "title": "Actor and comedian PJ Gallagher dies aged 51",
-   "url": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-28T08:34:16.000Z"
   },
   {
    "title": "Set time aside for children to read for pleasure, schools to be told",
@@ -27,6 +27,12 @@
    "good": true
   },
   {
+   "title": "Reading for pleasure to be part of school day under new curriculum",
+   "url": "https://news.sky.com/story/reading-for-pleasure-to-be-part-of-school-day-under-new-curriculum-13617418",
+   "source": "Sky News",
+   "published": "2026-11-28T08:02:00.000Z"
+  },
+  {
    "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
    "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
@@ -39,17 +45,17 @@
    "published": "2026-11-28T06:52:05.000Z"
   },
   {
-   "title": "HMV saviour Putman plots bid for high street chain TG Jones",
-   "url": "https://news.sky.com/story/hmv-saviour-putman-plots-bid-for-high-street-chain-tg-jones-13617400",
-   "source": "Sky News",
-   "published": "2026-11-28T06:42:00.000Z"
-  },
-  {
    "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
    "url": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
    "source": "Good News Network",
    "published": "2026-11-26T14:00:54.000Z",
    "good": true
+  },
+  {
+   "title": "HMV saviour Putman plots bid for high street chain TG Jones",
+   "url": "https://news.sky.com/story/hmv-saviour-putman-plots-bid-for-high-street-chain-tg-jones-13617400",
+   "source": "Sky News",
+   "published": "2026-11-28T06:42:00.000Z"
   },
   {
    "title": "UK set for break from harsh cold as temperatures climb into next week",
@@ -64,12 +70,6 @@
    "published": "2026-11-28T06:30:00.000Z"
   },
   {
-   "title": "Pharmacies get new powers to swap prescriptions during shortages",
-   "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "published": "2026-11-28T06:00:11.000Z"
-  },
-  {
    "title": "Texans Work for Free on Farms That Aren’t Theirs to Send Others’ Kids to College",
    "url": "https://www.goodnewsnetwork.org/texans-work-for-free-on-farms-that-arent-theirs-to-send-others-kids-to-college/",
    "source": "Good News Network",
@@ -77,10 +77,10 @@
    "good": true
   },
   {
-   "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
-   "url": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
+   "title": "Pharmacies get new powers to swap prescriptions during shortages",
+   "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
-   "published": "2026-11-28T05:21:07.000Z"
+   "published": "2026-11-28T06:00:11.000Z"
   },
   {
    "title": "This Year, The Perfect Thanksgiving Film Features Two Icons, One Friendship and Endless Joy",
